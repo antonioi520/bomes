@@ -75,8 +75,7 @@
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
                 <p class="about-text">
-                    Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
-                    boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
+                    The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
                 <p class="about-text">
                     Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and
