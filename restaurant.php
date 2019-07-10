@@ -52,9 +52,9 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center"  id="hero">
 
                 <center>
-                    <div class="serviceHeaderBox">
+                    <!--div class="serviceHeaderBox" style="width:600px;">
                         <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
-                    </div>
+                    </div-->
                 </center>
             </div>
         </div>
@@ -63,9 +63,9 @@
             <div class="carousel-caption d-md-block d-flex justify-content-center "  id="hero">
 
                 <center>
-                    <div class="serviceHeaderBox">
+                    <!--div class="serviceHeaderBox" style="width:600px;">
                         <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
-                    </div>
+                    </div-->
                 </center>
             </div>
         </div>
@@ -92,121 +92,42 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <center>
-                    <h1 class="" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Highlights</h1>
-                <center>
-                <div class="section-title-divider"></div>
+                <!--h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
+                <div class="section-title-divider"></div-->
             </div>
         </div>
     </div>
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
-
-                <h2 class="about-title" style="margin-bottom: 10px;">Chef's Recommendations</h2>
-                <p class="about-text" style="padding-left:2px;">
-                    Be sure to ask your server about the chef's recommendation for the day!
-                </p>
-
-                <br>
-
-                <h2 class="about-title" style="margin-bottom: 10px;">Weekly Specials</h2>
-                <p class="about-text" style="padding-left:2px;">
-                    Don't forget to ask staff about the weekly special next time you dine with us!
-                </p>
-
-                <br>
-
-                <h2 class="about-title" style="margin-bottom: 10px;">À La Carte</h2>
-                <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
-                </p>
-
-                <br>
-
-                <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
-                <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
-                    pick it up on location at 1017 Broad Street Providence, RI 02905.
-                </p>
-
-                <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
-
-            </div>
-        </div>
-    </div>
-</section>
-
-</section>-->
-<!--==========================
-  Subscrbe Section
-  ============================-->
-<section id="subscribe">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-                <img src="img/imgheader3.png" style="text-align: center;display: block;margin:auto;">
-            </div>
-        </div>
-    </div>
-</section>
-
-<section id="about">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-                <center>
-                    <h1 class="" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Catering</h1>
-                    <center>
-                <div class="section-title-divider"></div>
-            </div>
-        </div>
-    </div>
-    <div class="container about-container wow fadeInUp">
-        <div class="row">
-            <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
-            </div>
-
-            <div class="col-lg-6 about-img" id="content-mobile896">
-                <center>
-                    <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
-                </center>
-            </div>
-
-            <div class="col-md-6 about-content">
-
-                <h2 class="about-title">Catering at the Bomes Theater</h2>
+                <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
                 <p class="about-text">
-                    At Mi Alma Restaurant, we provide an array of catering services for our customers.
-                    If you are looking to host an event at the Bomes Theater, we can also
-                    cater for your event there!
+                    Mi Alma Restaurant is a Latin fusion restaurant brought to Broad Street alongside the newly renovated Bomes Theatre,
+                    boasting a luxurious interior, quality ingredients and outstanding service provided by a hard-working staff!
                 </p>
-
-                <br>
-
-                <h2 class="about-title">Catering for personal events</h2>
                 <p class="about-text">
-                    Our catering services are not limited to just events hosted on location at the Bomes Theater, we also
-                    cater for various other events including weddings, banquets, family gatherings and parties.
+                    Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and
+                    live concerts. We go out of our way to ensure that your time spent at Mi Alma Restaurant is
+                    memorable and of the highest quality!
                 </p>
-
-                <br id="content-desktop">
-
+                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check our our Website:</h3>
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
     </div>
+    <br>
 </section>
+
 
 <br id="content-desktop">
 <?php include("views/footer.html")?>
