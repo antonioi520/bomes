@@ -31,7 +31,8 @@ if(isset($_POST['email'])) {
         !isset($_POST['event_desc']) ||
         !isset($_POST['attendees']) ||
         !isset($_POST['date']) ||
-        !isset($_POST['hours'])
+        !isset($_POST['hours_start']) ||
+        !isset($_POST['hours_end'])
     ) {
         died('One or more of your entries appears to be invalid, please try again.');
     }
@@ -52,7 +53,8 @@ if(isset($_POST['email'])) {
     $event_desc = $_POST['event_desc'];
     $attendees = $_POST['attendees'];
     $date = $_POST['date'];
-    $hours = $_POST['hours'];
+    $hours_start = $_POST['hours_start'];
+    $hours_end = $_POST['hours_end'];
 
     $error_message = "";
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
@@ -97,7 +99,8 @@ if(isset($_POST['email'])) {
     $email_message .= "Event Description: " . clean_string($event_desc) . "\n";
     $email_message .= "Estimated Number of Attendees: " . clean_string($attendees) . "\n";
     $email_message .= "Event Date: " . clean_string($date) . "\n";
-    $email_message .= "Event Hours: " . clean_string($hours) . "\n";
+    $email_message .= "Event Starting Hours: " . clean_string($hours_start) . "\n";
+    $email_message .= "Event Ending Hours: " . clean_string($hours_end) . "\n";
 
     // create email headers
     $headers = 'From: ' . $email_host . "\r\n" .

@@ -382,11 +382,14 @@
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="date" id="date" placeholder="Date" minlength="1"  required />
+                            <label for="date">Date</label>
+                            <input type="date" class="form-control" name="date" id="date" required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="hours" id="hours" placeholder="Hours" minlength="1"  required />
+                            <label for="hours_start">Hours</label>
+                            <input type="time" class="form-control" name="hours_start" id="hours_start" required />
+                            <input type="time" class="form-control" name="hours_end" id="hours_end" required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
