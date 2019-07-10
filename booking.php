@@ -14,7 +14,7 @@
 <body>
 <!-- Header -->
 
-<?php include("views/nav.html") ?>
+<?php include("views/nav_pages.html")?>
 
 
 <div class="headerwrapper">
@@ -53,9 +53,9 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Book an Event</h3>
                 <div class="section-title-divider"></div>
-                <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
+                <p class="section-description">Please fill out the form below to book your event.</p>
             </div>
         </div>
 
