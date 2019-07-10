@@ -138,7 +138,7 @@
                             </a>-->
                         </div>
 
-                        <div class="text-center"><button value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <div class="text-center"><button style="background-color: goldenrod" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
                     </form>
                 </div>
             </div>
@@ -147,17 +147,17 @@
                 <div class="info">
                     <br id="content-mobile">
                     <div>
-                        <i class="fas fa-phone"></i><h4 style="padding-left:1.6em;">Phone</h4>
+                        <i class="fas fa-phone" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Phone</h4>
                         <p>(401) 403-2787</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt"></i><h4 style="padding-left:1.6em;">Hours</h4>
+                        <i class="far fa-calendar-alt" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Hours</h4>
                         <strong>Mon-Tue:</strong><p style="padding-left:0;"> Closed</p><br>
                         <strong>Wed-Thur+Sun:</strong><p style="padding-left:0;"> 12pm-10:30pm</p><br>
                         <strong>Fri-Sat:</strong><p style="padding-left:0;"> 12pm-11:30pm</p>
                     </div>
                     <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow"></i><h4 style="padding-left:1.6em;">Location</h4>
+                        <i class="fas fa-location-arrow" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1017 Broad Street</p><br>
                         <p>Providence, RI 02907</p>
                     </div>
