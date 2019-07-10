@@ -28,7 +28,7 @@
                     </center>
                     <center>
                         <br><br><br><br><br><br><br>
-                        <img src="img/logoT.JPG" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
