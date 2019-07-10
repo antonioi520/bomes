@@ -378,7 +378,8 @@
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="attendees" id="attendees" placeholder="Estimated number of Attendees" minlength="1"  required />
+                            <label for="attendees">Estimated Number of Attendees</label>
+                            <input type="number" class="form-control" name="attendees" id="attendees" min="1" max="563" required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
