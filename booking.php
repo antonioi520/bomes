@@ -105,9 +105,19 @@
                             <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
                             <div class="validation"></div>
                         </div>
-                        <div class="form-group">
+                        <!--div class="form-group">
                             <input type="text" class="form-control" name="event_type" id="event_type" placeholder="Event Type" minlength="2"  required />
                             <div class="validation"></div>
+                        </div-->
+                        <div class="form-group">
+                            <label for="event_type">Event Type</label>
+                            <select class="form-control" name="event_type" id="event_type">
+                                <option>Social</option>
+                                <option>Reception</option>
+                                <option>Conference</option>
+                                <option>Dinner</option>
+                                <option>Other</option>
+                            </select>
                         </div>
                         <div class="form-group">
                             <textarea class="form-control" name="event_desc" rows="5"  placeholder="Event Description" minlength="10" required></textarea>
