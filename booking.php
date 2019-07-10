@@ -148,7 +148,7 @@
                     <br id="content-mobile">
                     <div>
                         <i class="fas fa-phone"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 648-0715</p>
+                        <p>(401) 403-2787</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt"></i><h4 style="padding-left:1.6em;">Hours</h4>
