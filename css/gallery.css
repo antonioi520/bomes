@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 
 @font-face {
     font-family: 'Satisfy';
@@ -30,7 +31,7 @@
     clear: both;
 }
 .menu-heading {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Niconne', cursive;
     font-size: calc(2em + 3vw);
     margin-bottom: 0;
     text-align: center;
@@ -222,7 +223,7 @@ img.hover-shadow {
 }
 
 .galleryHeaderText{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Niconne', cursive;
     color:white;
     font-size: 65px;
     padding-bottom: 5px;

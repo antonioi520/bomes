@@ -55,7 +55,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
                 <div class="section-title-divider"></div>
             </div>
         </div>
@@ -118,7 +118,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
                 <div class="section-title-divider"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>

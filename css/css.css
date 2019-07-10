@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 
 @font-face {
     font-family: 'Satisfy';
@@ -325,6 +326,13 @@ p {
     font-size: 2em;
     color: #111;
     text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+
+.section-title-lowercase {
+    font-size: 2em;
+    color: #111;
     text-align: center;
     font-weight: 700;
 }
