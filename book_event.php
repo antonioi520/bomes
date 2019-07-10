@@ -2,7 +2,7 @@
 <!-- the captcha needs the above line -->
 
 <?php
-if(isset($_POST['booking'])) {
+if(isset($_POST['email'])) {
 
     $email_to = "younglubackup@gmail.com";
     $email_subject = "Bomes Theater Booking - " . $_POST['event_name'];
