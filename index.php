@@ -64,17 +64,17 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(80%) grayscale(60%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(80%) grayscale(60%);" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
-                <h2 class="about-title" style="margin-bottom: 14px;">The return of the historic Bomes Theatre</h2>
+                <h2 class="about-title" style="margin-bottom: 14px;display: inline ">The <h2 class="about-title" style="margin-bottom: 14px;color:goldenrod;display: inline ">revitalization</h2> <h2 class="about-title" style="margin-bottom: 14px;display: inline ">of the historic Bomes Theatre</h2>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
@@ -95,20 +95,20 @@
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
                     <img src="img/imgheader3.png" style="object-fit: contain;">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
+                    <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
-                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);float:left;">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
                     <img src="img/imgheader3.png">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">MI ALMA RESTAURANT</h1>
+                    <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">MI ALMA RESTAURANT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="services.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
                 </div>
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
         </div>
     </div>
