@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Bomes Theater</title>
+    <title>Mi Alma Restaurant</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -53,7 +53,7 @@
 
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText">Services</h1>
+                        <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
                     </div>
                 </center>
             </div>
@@ -64,7 +64,7 @@
 
                 <center>
                     <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText">Services</h1>
+                        <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
                     </div>
                 </center>
             </div>
