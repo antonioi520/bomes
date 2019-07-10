@@ -194,7 +194,7 @@
     <div class="row" style="display:inline;">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
-            <div class="card" style="border-color: deepskyblue">
+            <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event3.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Varon De La Bachata</h5>
@@ -207,12 +207,12 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: deepskyblue;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: deepskyblue;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
@@ -247,7 +247,7 @@
     </div>-->
     <div class="row" style="display:inline;">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="card" style="border-color: deepskyblue">
+            <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event1.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
@@ -260,17 +260,17 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: deepskyblue;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: deepskyblue;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: deepskyblue">
+            <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event2.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
@@ -283,12 +283,12 @@
                     </p>
 
                 </div>
-                <div id="content-desktop" class="card-footer" style="background-color: deepskyblue;height:50px;">
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
-                <div id="content-mobile" class="card-footer" style="background-color: deepskyblue;height:60px;">
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
