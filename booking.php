@@ -66,7 +66,7 @@
                     <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     <form action="" method="post" role="form" class="contactForm" id="myForm">
                         <div class="form-group">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name (First/Last)" minlength="2"  required />
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" minlength="2"  required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
