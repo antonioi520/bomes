@@ -21,7 +21,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:49.375em;filter:brightness(20%);object-fit: cover;">
+                <img src="img/TheaterInterior/concert-46.jpg" class="d-block w-100" alt="..." style="height:49.375em;filter:brightness(20%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
                     <center>
                         <!--h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1-->
