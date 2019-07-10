@@ -29,7 +29,7 @@
                         <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
-                        <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theater</H1>
+                        <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theatre</H1>
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
@@ -74,7 +74,7 @@
             </div>
 
             <div class="col-md-6 about-content">
-                <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
+                <h2 class="about-title" style="margin-bottom: 14px;">The return of the historic Bomes Theatre</h2>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
