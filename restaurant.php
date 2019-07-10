@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>Bomes Theater</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
