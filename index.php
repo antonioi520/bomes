@@ -69,7 +69,7 @@
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(30%) grayscale(90%);" id="aboutImg">
+                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(80%) grayscale(60%);" id="aboutImg">
                 </center>
             </div>
 
@@ -99,7 +99,7 @@
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
-                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(90%);float:left;">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
@@ -108,7 +108,7 @@
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="services.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
                 </div>
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(90%);">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
         </div>
     </div>
