@@ -63,7 +63,7 @@
     <div class="col-md-4"></div>
     <div class="responsiveCal" id="content-desktop">
         <center>
-            <iframe src="https://calendar.google.com/calendar/b/2/embed?height=800&amp;wkst=1&amp;bgcolor=%2300bfff&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
+            <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23daa520&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
                     style="border-width:0" width="1200" height="800" frameborder="0" scrolling="no"></iframe>
         </center>
     </div>
@@ -72,14 +72,14 @@
 
 <div id="content-mobile414">
     <center>
-        <iframe src="https://calendar.google.com/calendar/b/2/embed?height=650&amp;wkst=1&amp;bgcolor=%2300bfff&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
+        <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23daa520&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
                 style="border-width:0" width="400" height="650" frameborder="0" scrolling="no"></iframe>
     </center>
 </div>
 
 <div id="content-mobile360">
     <center>
-        <iframe src="https://calendar.google.com/calendar/b/2/embed?height=650&amp;wkst=1&amp;bgcolor=%2300bfff&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
+        <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23daa520&amp;ctz=America%2FNew_York&amp;src=bWlhbG1hcmVzdGF1cmFudDFAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%230B8043&amp;showTitle=0&amp;showCalendars=0"
                 style="border-width:0" width="360" height="650" frameborder="0" scrolling="no"></iframe>
     </center>
 </div>
