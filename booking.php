@@ -179,7 +179,7 @@
     frm.submit(function (ev) {
         $.ajax({
             type: frm.attr('method'),
-            url: "send_email.php",
+            url: "book_event.php",
             data: frm.serialize(),
             success: function (data) {
                 //alert('Your message has been sent, thank you!');
