@@ -32,8 +32,8 @@
                         <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theatre</H1>
                     </center>
                     <center>
-                        <a href="#contact" id="box" style="margin-top: 1em;display:block">
-                            <h2 id="headerHours">View Hours</h2>
+                        <a href="events.php" id="box" style="margin-top: 1em;display:block">
+                            <h2 id="headerHours">View Events</h2>
                         </a>
                     </center>
                     <center>
@@ -97,7 +97,7 @@
                     <img src="img/imgheader3.png" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
-                    <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
+                    <a href="booking.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
                 <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
             </div>
@@ -106,7 +106,7 @@
                     <img src="img/imgheader3.png">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">MI ALMA RESTAURANT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
-                    <a href="services.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
+                    <a href="restaurant.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
                 </div>
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
