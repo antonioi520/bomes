@@ -23,12 +23,13 @@
             <div class="carousel-item active">
                 <img src="img/TheaterInterior/DSC_0895.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(20%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
+
                     <center>
-                        <!--h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1-->
+                        <br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
-                        <br><br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theater</H1>
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
@@ -55,8 +56,8 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.08em;font-size: 3.125em;margin-bottom: 5px;">About us</h3>
+                <div class="section-title-divider" style="margin-bottom: 30px;"></div>
             </div>
         </div>
     </div>
@@ -118,8 +119,8 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Contact Us</h3>
+                <div class="section-title-divider" style="margin-bottom: 30px;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
