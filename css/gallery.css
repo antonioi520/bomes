@@ -198,7 +198,7 @@ img.hover-shadow {
 
 .galleryHeaderBox {
     border: 0 solid goldenrod;
-    background-color: rgba(164,66,244,0.7);
+    background-color: rgba(218,165,32,0.7);
     line-height: 1.1em;
     max-height: 5.5em;
     /*margin: 1em;*/
@@ -211,7 +211,7 @@ img.hover-shadow {
 #borderBox{
     transition: 0.5s;
     border: 1px solid goldenrod;
-    background-color: rgba(164,66,244,0.7);
+    background-color: rgba(218,165,32,0.7);
     height:90px;
     width:400px;
     border-radius: 5px;
@@ -238,7 +238,7 @@ img.hover-shadow {
 }
 .galleryHeaderBox {
     border: 0 solid goldenrod;
-    background-color: rgba(0,191,255,0.4);
+    background-color: rgba(218,165,32,0.7);
     line-height: 1.1em;
     max-height: 6.5em;
 //margin: 1em;

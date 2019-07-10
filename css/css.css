@@ -273,8 +273,8 @@ p {
     line-height: 1.500em;
 }
 #contact .form #sendmessage {
-    color: #03C4EB;
-    border: 0.063em solid #03C4EB;
+    color: goldenrod;
+    border: 0.063em solid goldenrod;
     display: none;
     text-align: center;
     padding: 0.938em;

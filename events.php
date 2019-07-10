@@ -171,7 +171,7 @@
 
 <div class="container">
     <center>
-        <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">
+        <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
     </center>
 
     <hr style="margin-bottom:0px;">
