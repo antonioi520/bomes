@@ -60,7 +60,7 @@
         </div>
 
         <div class="row">
-            <div class="col-md-5 col-md-push-2" style="padding-bottom: 0.625em;">
+            <div class="col-lg-12 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
                     <div id="sendmessage">Your message has been sent. Thank you!</div>
                     <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
@@ -355,10 +355,6 @@
                                 <option value="ZW">Zimbabwe</option>
                             </select>
                         </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div>
                         <!--div class="form-group">
                             <input type="text" class="form-control" name="event_type" id="event_type" placeholder="Event Type" minlength="2"  required />
                             <div class="validation"></div>
@@ -366,12 +362,17 @@
                         <div class="form-group">
                             <label for="event_type">Event Type</label>
                             <select class="form-control" name="event_type" id="event_type">
+                                <option disabled selected hidden>Select your event type</option>
                                 <option>Social</option>
                                 <option>Reception</option>
                                 <option>Conference</option>
                                 <option>Dinner</option>
                                 <option>Other</option>
                             </select>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
+                            <div class="validation"></div>
                         </div>
                         <div class="form-group">
                             <textarea class="form-control" name="event_desc" rows="5"  placeholder="Event Description" minlength="10" required></textarea>
@@ -410,33 +411,6 @@
                     </form>
                 </div>
             </div>
-            <div class="col-md-3"></div>
-            <div class="col-md-4 col-md-push-2">
-                <div class="info">
-                    <br id="content-mobile">
-                    <div>
-                        <i class="fas fa-phone" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 403-2787</p>
-                    </div>
-                    <div style="padding-top: 1.250em;">
-                        <i class="far fa-calendar-alt" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Tue:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Wed:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Thurs:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Fri:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Sat:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Sun:</strong><p style="padding-left:0;"> 8am-4:00pm</p>
-                    </div>
-                    <div style="padding-top: 1.250em;">
-                        <i class="fas fa-location-arrow" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Location</h4>
-                        <p>1017 Broad Street</p><br>
-                        <p>Providence, RI 02907</p>
-                    </div>
-
-                </div>
-            </div>
-
         </div>
     </div>
 </section>
