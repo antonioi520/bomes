@@ -24,10 +24,11 @@
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(20%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
                     <center>
-                        <h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1>
+                        <!--h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1-->
                     </center>
                     <center>
-                        <img src="img/logo.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <br><br><br><br><br><br><br>
+                        <img src="img/logoT.JPG" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
