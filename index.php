@@ -21,14 +21,15 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-22.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(20%);object-fit: cover;">
+                <img src="img/TheaterInterior/DSC_0895.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(20%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
+
                     <center>
-                        <!--h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1-->
+                        <br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
-                        <br><br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theatre</H1>
                     </center>
                     <center>
                         <a href="#contact" id="box" style="margin-top: 1em;display:block">
@@ -55,8 +56,8 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">About us</h3>
+                <div class="section-title-divider" style="margin-bottom: 30px;"></div>
             </div>
         </div>
     </div>
@@ -73,7 +74,7 @@
             </div>
 
             <div class="col-md-6 about-content">
-                <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
+                <h2 class="about-title" style="margin-bottom: 14px;">The return of the historic Bomes Theatre</h2>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
@@ -94,19 +95,18 @@
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
                     <img src="img/imgheader3.png" style="object-fit: contain;">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">OUR INGREDIENTS</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">We use fresh ingredients of the highest quality and prepare them expertly, ensuring a quality dining experience.</strong><br><br><br>
-                    <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">View Menu</h2></a>
+                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
+                    <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
+                    <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
-                <img src="img/FoodDrink/MiAlmaCafe-3.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);float:left;">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);float:left;">
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
                     <img src="img/imgheader3.png">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">OUR SERVICES</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">Our staff consists of our top notch servers and chefs providing every utility at our disposal
-                        to ensure that our customers leave satisfied.</strong><br><br><br>
-                    <a href="services.php" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Services</h2></a>
+                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">MI ALMA RESTAURANT</h1>
+                    <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
+                    <a href="services.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
                 </div>
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);">
             </div>
@@ -118,8 +118,8 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
-                <div class="section-title-divider"></div>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Contact Us</h3>
+                <div class="section-title-divider" style="margin-bottom: 30px;"></div>
                 <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
             </div>
         </div>
