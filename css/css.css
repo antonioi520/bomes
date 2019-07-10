@@ -142,7 +142,7 @@ p {
 }
 .circleborder:hover{
     color:goldenrod;
-    border: solid white;
+    border: solid black;
     background-color: white;
     transition: 0.5s;
 }
