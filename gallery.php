@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>Bomes Theater</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -102,55 +102,50 @@
     </center>
     <br>
     <hr>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Food & Drinks</h2>
+
+    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theater)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-1.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-4.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-5.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/Concert-9.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-8.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-37.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-13.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-38.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-15.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-39.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-17.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-41.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-21.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-42.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(8)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-26.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(9)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-43.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(9)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-31.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(10)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-44.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(10)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-35.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(11)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-45.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(11)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-37.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(12)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-39.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(13)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-41.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(14)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/FoodThumbs/MiAlmaCafe-43.jpg" style="width:100%" onclick="openFoodModal();currentFoodSlide(15)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -226,172 +221,6 @@
     </div>
 
     <br>
-
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theater)</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
-    <br>
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-9.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(3)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-37.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(4)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-38.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(5)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-39.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(6)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-41.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(7)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-42.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(8)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-43.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(9)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-44.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(10)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-45.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(11)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
-            </div>
-        </div>
-    </div>
-
-    <br>
-
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Staff</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
-    <br>
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/staff.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/staff3.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/StaffThumbs/MiAlmaCafeOpeningCeremony-8.jpg" style="width:100%" onclick="openStaffModal();currentStaffSlide(3)" class="hover-shadow cursor">
-            </div>
-        </div>
-    </div>
-
-    <br>
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Menu</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
-    <br>
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/mi_alma_menu-01.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/MenuThumbs/mi_alma_menu-02.jpg" style="width:100%" onclick="openMenuModal();currentMenuSlide(2)" class="hover-shadow cursor">
-            </div>
-        </div>
-    </div>
-
-    <div id="foodModal" class="modal">
-        <span class="close cursor" onclick="closeFoodModal()">&times;</span>
-        <div class="modal-content">
-
-            <div class="foodSlides">
-                <div class="numbertext">1 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-1.jpg" style="width:100%" alt="Fried Calamari">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">2 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-4.jpg" style="width:100%" alt="Shrimp Cocktail">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">3 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-5.jpg" style="width:100%" alt="Shrimp Mofongo">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">4 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-8.jpg" style="width:100%" alt="Cheese Mofongo with Pork Chops">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">5 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-13.jpg" style="width:100%" alt="Oxtail with Rice and Beans + Potato Salad with Beets">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">6 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-15.jpg" style="width:100%" alt="Dominican Pumpkin Cream Soup">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">7 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-17.jpg" style="width:100%" alt="Fusion Shrimp">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">8 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-21.jpg" style="width:100%" alt="Picalonga (Fried Cheese, Pork chops, Longaniza, Fried beef and Tostones)">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">9 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-26.jpg" style="width:100%" alt="Seafood Platter (Calamari, Fried Shrimp, Fried Fish, and Fries)">
-            </div>
-
-            <div class="foodSlides">
-                <div class="numbertext">10 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-31.jpg" style="width:100%" alt="Salmon Linguine with Vodka Sauce">
-            </div>
-            <div class="foodSlides">
-                <div class="numbertext">11 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-35.jpg" style="width:100%" alt="Strawberry Juice">
-            </div>
-            <div class="foodSlides">
-                <div class="numbertext">12 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-37.jpg" style="width:100%" alt="Spicy Pear Martini">
-            </div>
-            <div class="foodSlides">
-                <div class="numbertext">13 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-39.jpg" style="width:100%" alt="Mimosa">
-            </div>
-            <div class="foodSlides">
-                <div class="numbertext">14 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-41.jpg" style="width:100%" alt="Red Sangria">
-            </div>
-            <div class="foodSlides">
-                <div class="numbertext">15 / 15</div>
-                <img class="demo cursor" id="galleryImg" src="img/FoodDrink/MiAlmaCafe-43.jpg" style="width:100%" alt="Moscow Mule">
-            </div>
-
-            <a class="prev" onclick="plusFoodSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusFoodSlides(1)">&#10095;</a>
-
-            <!-- Caption text -->
-            <div class="caption-container" style="height: 25px;">
-                <p id="caption"></p>
-            </div>
-
-        </div>
-    </div>
 
     <div id="interiorModal" class="modal">
         <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
@@ -578,59 +407,7 @@
         </div>
     </div>
 
-    <div id="staffModal" class="modal">
-        <span class="close cursor" onclick="closeStaffModal()">&times;</span>
-        <div class="modal-content">
-
-            <div class="staffSlides">
-                <div class="numbertext">1 / 3</div>
-                <img id="staffImg" src="img/Staff/staff.jpg" style="width:100%">
-            </div>
-
-            <div class="staffSlides">
-                <div class="numbertext">2 / 3</div>
-                <img id="staffImg" src="img/Staff/staff3.jpg" style="width:100%">
-            </div>
-
-            <div class="staffSlides">
-                <div class="numbertext">3 / 3</div>
-                <img id="staffImg" src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" style="width:100%">
-            </div>
-
-            <a class="prev" onclick="plusStaffSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusStaffSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
-
-    <div id="menuModal" class="modal">
-        <span class="close cursor" onclick="closeMenuModal()">&times;</span>
-        <div class="modal-content">
-
-            <div class="menuSlides">
-                <div class="numbertext">1 / 2</div>
-                <img id="galleryImg" src="img/Menu/mi_alma_menu-01.jpg" style="width:100%">
-            </div>
-
-            <div class="menuSlides">
-                <div class="numbertext">2 / 2</div>
-                <img id="galleryImg" src="img/Menu/mi_alma_menu-02.jpg" style="width:100%">
-            </div>
-
-            <a class="prev" onclick="plusMenuSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusMenuSlides(1)">&#10095;</a>
-
-        </div>
-    </div>
-
     <script>
-        function openFoodModal() {
-            document.getElementById("foodModal").style.display = "block";
-        }
-
-        function closeFoodModal() {
-            document.getElementById("foodModal").style.display = "none";
-        }
 
         function openInteriorModal() {
             document.getElementById("interiorModal").style.display = "block";
@@ -648,44 +425,11 @@
             document.getElementById("interiorTModal").style.display = "none";
         }
 
-        function openStaffModal() {
-            document.getElementById("staffModal").style.display = "block";
-        }
-
-        function closeStaffModal() {
-            document.getElementById("staffModal").style.display = "none";
-        }
-
-        function openMenuModal() {
-            document.getElementById("menuModal").style.display = "block";
-        }
-
-        function closeMenuModal() {
-            document.getElementById("menuModal").style.display = "none";
-        }
-
-        var foodSlideIndex = 1;
-        showFoodSlides(foodSlideIndex);
-
         var interiorSlideIndex = 1;
         showInteriorSlides(interiorSlideIndex);
 
         var interiorTSlideIndex = 1;
         showInteriorTSlides(interiorTSlideIndex);
-
-        var staffSlideIndex = 1;
-        showStaffSlides(staffSlideIndex);
-
-        var menuSlideIndex = 1;
-        showMenuSlides(menuSlideIndex);
-
-        function plusFoodSlides(n) {
-            showFoodSlides(foodSlideIndex += n);
-        }
-
-        function currentFoodSlide(n) {
-            showFoodSlides(foodSlideIndex = n);
-        }
 
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
@@ -701,40 +445,6 @@
 
         function currentInteriorTSlide(n) {
             showInteriorTSlides(interiorTSlideIndex = n);
-        }
-
-        function plusStaffSlides(n) {
-            showStaffSlides(staffSlideIndex += n);
-        }
-
-        function currentStaffSlide(n) {
-            showStaffSlides(staffSlideIndex = n);
-        }
-
-        function plusMenuSlides(n) {
-            showMenuSlides(menuSlideIndex += n);
-        }
-
-        function currentMenuSlide(n) {
-            showMenuSlides(menuSlideIndex = n);
-        }
-
-        function showFoodSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("foodSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
-            if (n > slides.length) {foodSlideIndex = 1}
-            if (n < 1) {foodSlideIndex = slides.length}
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[foodSlideIndex-1].style.display = "block";
-            dots[foodSlideIndex-1].className += " active";
-            captionText.innerHTML = dots[foodSlideIndex-1].alt;
         }
 
         function showInteriorSlides(n) {
@@ -771,42 +481,6 @@
             slides[interiorTSlideIndex-1].style.display = "block";
             dots[interiorTSlideIndex-1].className += " active";
             captionText.innerHTML = dots[interiorTSlideIndex-1].alt;
-        }
-
-        function showStaffSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("staffSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
-            if (n > slides.length) {staffSlideIndex = 1}
-            if (n < 1) {staffSlideIndex = slides.length}
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[staffSlideIndex-1].style.display = "block";
-            dots[staffSlideIndex-1].className += " active";
-            captionText.innerHTML = dots[staffSlideIndex-1].alt;
-        }
-
-        function showMenuSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("menuSlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
-            if (n > slides.length) {menuSlideIndex = 1}
-            if (n < 1) {menuSlideIndex = slides.length}
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[menuSlideIndex-1].style.display = "block";
-            dots[menuSlideIndex-1].className += " active";
-            captionText.innerHTML = dots[menuSlideIndex-1].alt;
         }
     </script>
 </div>

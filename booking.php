@@ -14,7 +14,7 @@
 <body>
 <!-- Header -->
 
-<?php include("views/nav.html") ?>
+<?php include("views/nav_pages.html")?>
 
 
 <div class="headerwrapper">
@@ -48,79 +48,14 @@
 </div>
 
 
-<!--==========================
-  About Section
-  ============================-->
-<section id="about">
-    <div class="container wow fadeInUp">
-        <div class="row">
-            <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">About us</h3>
-                <div class="section-title-divider"></div>
-            </div>
-        </div>
-    </div>
-    <div class="container about-container wow fadeInUp">
-        <div class="row">
-            <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
-            </div>
-
-            <div class="col-lg-6 about-img" id="content-mobile896">
-                <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;" id="aboutImg">
-                </center>
-            </div>
-
-            <div class="col-md-6 about-content">
-                <h2 class="about-title" style="margin-bottom: 14px;">We provide excellent food and quality services for our customers.</h2>
-                <p class="about-text">
-                    The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
-                </p>
-                <p class="about-text">
-                    Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and
-                    live concerts. We go out of our way to ensure that your time spent at Mi Alma Restaurant is
-                    memorable and of the highest quality!
-                </p>
-                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
-        </div>
-    </div>
-</section>
-<!--images in middle -->
-<section id="middleImages">
-    <div class="wrapper" id="iphone">
-        <div class="row" style="overflow: hidden;">
-            <div class="col-lg-6">
-                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="img/imgheader3.png" style="object-fit: contain;">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">OUR INGREDIENTS</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">We use fresh ingredients of the highest quality and prepare them expertly, ensuring a quality dining experience.</strong><br><br><br>
-                    <a href="menu.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">View Menu</h2></a>
-                </div>
-                <img src="img/FoodDrink/MiAlmaCafe-3.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);float:left;">
-            </div>
-            <div class="col-lg-6">
-                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="img/imgheader3.png">
-                    <h1 style="color:white;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">OUR SERVICES</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">Our staff consists of our top notch servers and chefs providing every utility at our disposal
-                        to ensure that our customers leave satisfied.</strong><br><br><br>
-                    <a href="services.php" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Services</h2></a>
-                </div>
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(30%);">
-            </div>
-        </div>
-    </div>
-</section>
 <!--contact-->
 <section id="contact">
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Contact Us</h3>
+                <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Book an Event</h3>
                 <div class="section-title-divider"></div>
-                <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
+                <p class="section-description">Please fill out the form below to book your event.</p>
             </div>
         </div>
 
@@ -131,7 +66,7 @@
                     <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     <form action="" method="post" role="form" class="contactForm" id="myForm">
                         <div class="form-group">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" minlength="2"  required />
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name (First/Last)" minlength="2"  required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
@@ -139,11 +74,65 @@
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" minlength="4"  required />
+                            <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number" minlength="7"  required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" name="message" rows="5"  placeholder="Message" minlength="2" required></textarea>
+                            <input type="text" class="form-control" name="comp_name" id="comp_name" placeholder="Company Name" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="address" id="address" placeholder="Address" minlength="5"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="city" id="city" placeholder="City" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="state" id="state" placeholder="State/Province/Region" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="zip" id="zip" placeholder="Postal/Zip Code" minlength="5"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="country" id="country" placeholder="Country" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <!--div class="form-group">
+                            <input type="text" class="form-control" name="event_type" id="event_type" placeholder="Event Type" minlength="2"  required />
+                            <div class="validation"></div>
+                        </div-->
+                        <div class="form-group">
+                            <label for="event_type">Event Type</label>
+                            <select class="form-control" name="event_type" id="event_type">
+                                <option>Social</option>
+                                <option>Reception</option>
+                                <option>Conference</option>
+                                <option>Dinner</option>
+                                <option>Other</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" name="event_desc" rows="5"  placeholder="Event Description" minlength="10" required></textarea>
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="attendees" id="attendees" placeholder="Estimated number of Attendees" minlength="1"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="date" id="date" placeholder="Date" minlength="1"  required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="hours" id="hours" placeholder="Hours" minlength="1"  required />
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
@@ -204,7 +193,7 @@
     frm.submit(function (ev) {
         $.ajax({
             type: frm.attr('method'),
-            url: "send_email.php",
+            url: "book_event.php",
             data: frm.serialize(),
             success: function (data) {
                 //alert('Your message has been sent, thank you!');

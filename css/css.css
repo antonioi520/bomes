@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 
 @font-face {
     font-family: 'Satisfy';
@@ -37,7 +38,7 @@ p {
     letter-spacing: 0.1em;
 }
 .nav-item a:hover{
-    color:deepskyblue;
+    color:goldenrod;
     transition: 0.5s;
 }
 .nav-item li a{
@@ -140,13 +141,13 @@ p {
     transition: 0.5s;
 }
 .circleborder:hover{
-    color:deepskyblue;
+    color:goldenrod;
     border: solid white;
     background-color: white;
     transition: 0.5s;
 }
 .circleborder:hover i{
-    color:deepskyblue;
+    color:goldenrod;
     transition: 0.5s;
 }
 
@@ -179,8 +180,8 @@ p {
 }
 #box:hover{
     text-decoration: none;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid goldenrod;
+    background-color: goldenrod;
     transition: 0.5s;
 }
 #box:hover #headerHours{
@@ -200,8 +201,8 @@ p {
 }
 #ingredientBox:hover{
     transition: 0.5s;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid goldenrod;
+    background-color: goldenrod;
     text-decoration: none;
 }
 #ingredientBoxText{
@@ -220,19 +221,19 @@ p {
     z-index: 1;
     height:3.750em;
     width: 12.500em;
-    border: 0.188em solid deepskyblue;
+    border: 0.188em solid goldenrod;
     opacity: .9;
     border-radius: 0.313em;
 }
 #menuBox:hover{
     transition: 0.5s;
-    border: 0.188em solid deepskyblue;
-    background-color: deepskyblue;
+    border: 0.188em solid goldenrod;
+    background-color: goldenrod;
     text-decoration: none;
 }
 #menuBoxText{
     padding-top:5%;
-    color:deepskyblue;
+    color:goldenrod;
     padding-left:8%;
 }
 #menuBoxText:hover{
@@ -329,6 +330,13 @@ p {
     font-weight: 700;
 }
 
+.section-title-lowercase {
+    font-size: 2em;
+    color: #111;
+    text-align: center;
+    font-weight: 700;
+}
+
 .section-description {
     text-align: center;
     margin-bottom: 2.500em;
@@ -346,7 +354,7 @@ p {
 .section-title-divider {
     width: 6.250em;
     height: 0.188em;
-    background: #03C4EB;
+    background: goldenrod;
     margin: 0 auto;
     margin-bottom: 1.250em;
 }
@@ -748,7 +756,7 @@ and (-webkit-device-pixel-ratio : 3) {
 
 .footerLinks a:hover{
     text-decoration: none;
-    color:deepskyblue;
+    color:goldenrod;
 }
 
 

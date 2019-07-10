@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Mi Alma Restaurant</title>
+    <title>Bomes Theater</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -50,7 +50,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Satisfy', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 0px;">Calendar</h1>
+                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 0px;">Calendar</h1>
                     <center>
                         <div class="section-title-divider" style="margin-bottom: 0;"></div>
                         <br id="content-mobile">

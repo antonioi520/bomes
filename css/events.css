@@ -15,7 +15,7 @@
 
 }
 .eventHeaderBox {
-    border: 0 solid deepskyblue;
+    border: 0 solid goldenrod;
     background-color: rgba(0,191,255,0.4);
     line-height: 1.1em;
     max-height: 5em;
@@ -27,7 +27,7 @@
     z-index: 2323;
 }
 .eventHeaderText{
-    font-family: 'Satisfy', cursive;
+    font-family: 'Niconne', cursive;
     color:white;
     font-size: 70px;
     padding-bottom: 5px;
