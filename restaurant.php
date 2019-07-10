@@ -120,7 +120,7 @@
                     live concerts. We go out of our way to ensure that your time spent at Mi Alma Restaurant is
                     memorable and of the highest quality!
                 </p>
-                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check our our Website:</h3>
+                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check out our Website:</h3>
                 <a href="https://www.MiAlmaRestaurant.com" id="menuBox" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
