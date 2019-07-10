@@ -37,8 +37,8 @@
                     </center>
                     <center>
                         <ul class="headericons">
-                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/Mi-Alma-1150016415172344/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
-                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/mialmacafe/?hl=en" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
+                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/TheBomesTheatre/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
+                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/bomestheatreri/ target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
                 </div>
