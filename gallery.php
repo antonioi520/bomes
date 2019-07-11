@@ -102,9 +102,10 @@
         <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
     </center>
     <br>
-    <hr>
+    <hr><br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Theatre)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
@@ -151,9 +152,10 @@
         </div>
     </div>
 
-    <br>
+    <br><br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Cafe)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
@@ -221,9 +223,10 @@
         </div>
     </div>
 
-    <br>
+    <br><br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Events</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
