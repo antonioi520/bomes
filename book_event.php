@@ -2,7 +2,11 @@
 <!-- the captcha needs the above line -->
 
 <?php
-if(isset($_POST['email'])) {
+if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && isset($_POST['comp_name'])
+    && isset($_POST['address']) && isset($_POST['city']) && isset($_POST['state']) && isset($_POST['zip'])
+    && isset($_POST['country']) && isset($_POST['event_name']) && isset($_POST['event_type'])
+    && isset($_POST['event_desc']) && isset($_POST['attendees']) && isset($_POST['date'])
+    && isset($_POST['hours_start']) && isset($_POST['hours_end'])) {
 
     $email_to = "younglubackup@gmail.com";
     $email_subject = "Bomes Theater Booking - " . $_POST['event_name'];
