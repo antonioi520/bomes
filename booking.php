@@ -421,7 +421,7 @@
                         </div>
 
                         <div class="text-center"><button style="background-color: goldenrod" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
-                        <br>
+                        <hr>
                         <div id="sendmessage">Your request has been sent. Thank you!</div>
                         <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     </form>
