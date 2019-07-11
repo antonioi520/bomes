@@ -376,8 +376,10 @@
                                 <option>Reception</option>
                                 <option>Conference</option>
                                 <option>Dinner</option>
+                                <option>Concert</option>
                                 <option>Other</option>
                             </select>
+                            <div class="validation"></div>
                         </div>
                         <div class="form-group">
                             <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
@@ -495,7 +497,7 @@
             //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
             return false;
         }else{
-            $("#myForm")[0].reset();
+            //$("#myForm")[0].reset();
             grecaptcha.reset();
             $("#errormessage").show();
             $("#sendmessage").hide();
