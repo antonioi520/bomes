@@ -35,7 +35,7 @@
     <link rel="icon" href="img/logo.png" type="image/x-icon">
 
 
-    <!--script src="https://www.google.com/recaptcha/api.js" async defer></script-->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script-->
 
 </head>
 
