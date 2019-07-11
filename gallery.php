@@ -532,6 +532,10 @@
         var interiorTSlideIndex = 1;
         showInteriorTSlides(interiorTSlideIndex);
 
+        var eventSlideIndex = 1;
+        showEventSlides(eventSlideIndex);
+
+
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
         }
@@ -546,6 +550,14 @@
 
         function currentInteriorTSlide(n) {
             showInteriorTSlides(interiorTSlideIndex = n);
+        }
+
+        function plusEventSlides(n) {
+            showEventSlides(eventSlideIndex += n);
+        }
+
+        function currentEventSlide(n) {
+            showEventSlides(eventSlideIndex = n);
         }
 
         function showInteriorSlides(n) {
@@ -582,6 +594,24 @@
             slides[interiorTSlideIndex-1].style.display = "block";
             dots[interiorTSlideIndex-1].className += " active";
             captionText.innerHTML = dots[interiorTSlideIndex-1].alt;
+        }
+
+        function showEventSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {eventSlideIndex = 1}
+            if (n < 1) {eventSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideIndex-1].style.display = "block";
+            dots[eventSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideIndex-1].alt;
         }
     </script>
 </div>
