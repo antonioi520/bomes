@@ -520,14 +520,14 @@
             hours -= 12;
         } else if (hours < 12) {
             meridian = 'AM';
-            if (hours === 0) {
+            if (hours == 0) {
                 hours = 12;
             }
         } else {
             meridian = 'PM';
         }
         startStr.value = (hours + ':' + minutes + ' ' + meridian);
-        //alert(startStr.value);
+        alert(startStr.value);
     }
 </script>
 
@@ -547,14 +547,14 @@
             hours -= 12;
         } else if (hours < 12) {
             meridian = 'AM';
-            if (hours === 0) {
+            if (hours == 0) {
                 hours = 12;
             }
         } else {
             meridian = 'PM';
         }
         endStr.value = (hours + ':' + minutes + ' ' + meridian);
-        //alert(endStr.value);
+        alert(endStr.value);
     }
 </script>
 
