@@ -39,7 +39,7 @@
                     <center>
                         <ul class="headericons">
                             <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/TheBomesTheatre/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
-                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/bomestheatreri/ target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
+                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/bomestheatreri/" target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
                         </ul>
                     </center>
                 </div>
@@ -79,9 +79,7 @@
                     The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
                 <p class="about-text">
-                    Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and
-                    live concerts. We go out of our way to ensure that your time spent at Mi Alma Restaurant is
-                    memorable and of the highest quality!
+                    Placeholder Text. Placeholder Image.
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
@@ -94,7 +92,7 @@
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="img/imgheader3.png" style="object-fit: contain;">
+                    <img src="" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="booking.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
@@ -103,10 +101,10 @@
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="img/imgheader3.png">
-                    <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">MI ALMA RESTAURANT</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
-                    <a href="restaurant.php" id="ingredientBox" style="width:17.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Restaurant</h2></a>
+                    <img src="">
+                    <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">ONGOING EVENTS</h1>
+                    <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.Placeholder Image.</strong><br><br><br>
+                    <a href="restaurant.php" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Events</h2></a>
                 </div>
                 <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>

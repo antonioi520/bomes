@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Bomes Theater</title>
+    <title>Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -121,7 +121,7 @@
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check out our Website:</h3>
-                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
     </div>
