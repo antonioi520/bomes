@@ -445,6 +445,61 @@
         </div>
     </div>
 
+    <div id="eventModal" class="modal">
+        <span class="close cursor" onclick="closeEventModal()">&times;</span>
+        <div class="modal-content">
+
+            <div class="eventSlides">
+                <div class="numbertext">1 / 9</div>
+                <img id="eventImg" src="img/Events/Concert-15.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">2 / 9</div>
+                <img id="eventImg" src="img/Events/Concert-16.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">3 / 9</div>
+                <img id="eventImg" src="img/Events/Concert-29.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">4 / 9</div>
+                <img id="eventImg" src="img/Events/Concert-31.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">5 / 9</div>
+                <img id="eventImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">6 / 9</div>
+                <img id="eventImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">7 / 9</div>
+                <img id="eventImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">8 / 9</div>
+                <img id="eventImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">9 / 9</div>
+                <img id="eventImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
+            </div>
+
+            <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
+
+        </div>
+    </div>
+
     <script>
 
         function openInteriorModal() {
@@ -461,6 +516,14 @@
 
         function closeInteriorTModal() {
             document.getElementById("interiorTModal").style.display = "none";
+        }
+
+        function openEventModal() {
+            document.getElementById("eventModal").style.display = "block";
+        }
+
+        function closeEventModal() {
+            document.getElementById("eventModal").style.display = "none";
         }
 
         var interiorSlideIndex = 1;
