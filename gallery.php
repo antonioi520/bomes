@@ -229,31 +229,31 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="eventImg" src="img/Events/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="eventImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -451,47 +451,47 @@
 
             <div class="eventSlides">
                 <div class="numbertext">1 / 9</div>
-                <img id="eventImg" src="img/Events/Concert-15.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">2 / 9</div>
-                <img id="eventImg" src="img/Events/Concert-16.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">3 / 9</div>
-                <img id="eventImg" src="img/Events/Concert-29.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">4 / 9</div>
-                <img id="eventImg" src="img/Events/Concert-31.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">5 / 9</div>
-                <img id="eventImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">6 / 9</div>
-                <img id="eventImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">7 / 9</div>
-                <img id="eventImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">8 / 9</div>
-                <img id="eventImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">9 / 9</div>
-                <img id="eventImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
