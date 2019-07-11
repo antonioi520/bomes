@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Bomes Theater</title>
+    <title>Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -96,6 +96,7 @@
 
 
 <div class="container">
+    <h2>work in progress</h2>
 <!--    <h1 class="menu-heading">Gallery</h1>-->
     <center>
         <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
@@ -103,7 +104,7 @@
     <br>
     <hr>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theater)</h2>
+    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">

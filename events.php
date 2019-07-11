@@ -198,7 +198,7 @@
                 <img class="card-img-top" src="img/Events/event3.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Varon De La Bachata</h5>
-                    <p class="card-text" style="background-color: #D0FBFF; color=black;padding-left:10px;padding-right:10px;">Music by DJ Travieso
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">Music by DJ Travieso
                         <br><br>
                         <strong>Date: June 28th</strong><br>
                         <strong>Tickets: $30</strong><br>
@@ -251,7 +251,7 @@
                 <img class="card-img-top" src="img/Events/event1.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
-                    <p class="card-text" style="background-color: #D0FBFF; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
                         <br><br>
                         <strong>Date: June 23rd</strong><br>
                         <strong>Tickets: $15</strong><br>
@@ -274,7 +274,7 @@
                 <img class="card-img-top" src="img/Events/event2.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
-                    <p class="card-text" style="background-color: #D0FBFF; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
                         <br><br>
                         <strong>Date: June 23rd</strong><br>
                         <strong>Tickets: $15</strong><br>

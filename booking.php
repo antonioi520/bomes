@@ -60,7 +60,8 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-12 col-lg-push-12" style="padding-bottom: 0.625em;">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
                     <div id="sendmessage">Your message has been sent. Thank you!</div>
                     <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
@@ -411,6 +412,7 @@
                     </form>
                 </div>
             </div>
+            <div class="col-lg-3"></div>
         </div>
     </div>
 </section>

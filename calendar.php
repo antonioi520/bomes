@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Bomes Theater</title>
+    <title>Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
