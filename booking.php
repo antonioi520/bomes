@@ -35,6 +35,7 @@
     <link rel="icon" href="img/logo.png" type="image/x-icon">
 
 
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>
 
@@ -80,8 +81,6 @@
             <div class="col-lg-3"></div>
             <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
-                    <div id="sendmessage">Your message has been sent. Thank you!</div>
-                    <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     <form action="" method="post" role="form" class="contactForm" id="myForm">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" minlength="2"  required />
@@ -115,10 +114,6 @@
                             <input type="text" class="form-control" name="zip" id="zip" placeholder="Postal/Zip Code" minlength="5"  required />
                             <div class="validation"></div>
                         </div>
-                        <!--div class="form-group">
-                            <input type="text" class="form-control" name="country" id="country" placeholder="Country" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div-->
                         <div class="form-group">
                             <label for="country">Country</label>
                             <select class="form-control" name="country" id="country">
@@ -373,10 +368,6 @@
                                 <option value="ZW">Zimbabwe</option>
                             </select>
                         </div>
-                        <!--div class="form-group">
-                            <input type="text" class="form-control" name="event_type" id="event_type" placeholder="Event Type" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div-->
                         <div class="form-group">
                             <label for="event_type">Event Type</label>
                             <select class="form-control" name="event_type" id="event_type">
@@ -385,8 +376,10 @@
                                 <option>Reception</option>
                                 <option>Conference</option>
                                 <option>Dinner</option>
+                                <option>Concert</option>
                                 <option>Other</option>
                             </select>
+                            <div class="validation"></div>
                         </div>
                         <div class="form-group">
                             <input type="text" class="form-control" name="event_name" id="event_name" placeholder="Event Name" minlength="2"  required />
@@ -408,24 +401,24 @@
                         </div>
                         <div class="form-group">
                             <label for="hours_start">Hours</label>
-                            <input type="time" class="form-control" name="hours_start" id="hours_start" required />
-                            <input type="time" class="form-control" name="hours_end" id="hours_end" required />
+                            <input type="time" onchange="onTimeChangeStart()" class="form-control" name="hours_start" id="hours_start" required />
+                            <input type="time" onchange="onTimeChangeEnd()" class="form-control" name="hours_end" id="hours_end" required />
                             <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input style="display: none" type="text" class="form-control" name="hours_start_str" id="hours_start_str" />
+                            <input style="display: none" type="text" class="form-control" name="hours_end_str" id="hours_end_str" />
                         </div>
                         <div class="form-group">
                             <!-- captcha-->
                             <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
-                            <!--<img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" />
-                            <br>
-                            <br>
-                            <input class="form-control" style="width: 50%; float: left;" placeholder="Enter captcha" type="text" name="captcha_code" size="10" maxlength="6" required />
-                            <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false">
-                                <img id="content-desktop" src="img/refresh_sm.png" width="9%" height="9%" style="float: left; padding-left: 4px;">
-                                <img id="content-mobile" src="img/refresh_sm.png" width="13%" height="13%" style="float: left; padding-left: 4px;">
-                            </a>-->
+
                         </div>
 
                         <div class="text-center"><button style="background-color: goldenrod" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <hr>
+                        <div id="sendmessage">Your request has been sent. Thank you!</div>
+                        <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     </form>
                 </div>
             </div>
@@ -447,22 +440,16 @@
             url: "book_event.php",
             data: frm.serialize(),
             success: function (data) {
-                //alert('Your message has been sent, thank you!');
-               // $("#sendmessage").show();
-                //$("#myForm")[0].reset();
-               // grecaptcha.reset();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
                 return false;
             },
             error: function()
             {
                 $("#errormessage").show();
-                //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
+
                 return false;
             }
         });
 
-        // apparently success/error are deprecated, try .done() and .fail() next
 
         ev.preventDefault();
     });
@@ -494,16 +481,69 @@
             $("#errormessage").hide();
            // $("#myForm")[0].reset();
             grecaptcha.reset();
-            //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
             return false;
         }else{
-            $("#myForm")[0].reset();
+            //$("#myForm")[0].reset();
             grecaptcha.reset();
             $("#errormessage").show();
             $("#sendmessage").hide();
 
             return false;
         }
+    }
+</script>
+
+<script>
+    var startElement = document.getElementById('hours_start');
+    var startStr = document.getElementById('hours_start_str');
+
+    function onTimeChangeStart() {
+        var timeSplit = startElement.value.split(':'),
+            hours,
+            minutes,
+            meridian;
+        hours = timeSplit[0];
+        minutes = timeSplit[1];
+        if (hours > 12) {
+            meridian = 'PM';
+            hours -= 12;
+        } else if (hours < 12) {
+            meridian = 'AM';
+            if (hours == 0) {
+                hours = 12;
+            }
+        } else {
+            meridian = 'PM';
+        }
+        startStr.value = (hours + ':' + minutes + ' ' + meridian);
+        //alert(startStr.value);
+    }
+</script>
+
+<script>
+    var endElement = document.getElementById('hours_end');
+    var endStr = document.getElementById('hours_end_str');
+
+    function onTimeChangeEnd() {
+        var timeSplit = endElement.value.split(':'),
+            hours,
+            minutes,
+            meridian;
+        hours = timeSplit[0];
+        minutes = timeSplit[1];
+        if (hours > 12) {
+            meridian = 'PM';
+            hours -= 12;
+        } else if (hours < 12) {
+            meridian = 'AM';
+            if (hours == 0) {
+                hours = 12;
+            }
+        } else {
+            meridian = 'PM';
+        }
+        endStr.value = (hours + ':' + minutes + ' ' + meridian);
+        //alert(endStr.value);
     }
 </script>
 

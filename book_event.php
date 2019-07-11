@@ -2,17 +2,17 @@
 <!-- the captcha needs the above line -->
 
 <?php
-if(isset($_POST['email'])) {
+if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && isset($_POST['comp_name'])
+    && isset($_POST['address']) && isset($_POST['city']) && isset($_POST['state']) && isset($_POST['zip'])
+    && isset($_POST['country']) && isset($_POST['event_name']) && isset($_POST['event_type'])
+    && isset($_POST['event_desc']) && isset($_POST['attendees']) && isset($_POST['date'])
+    && isset($_POST['hours_start']) && isset($_POST['hours_end'])) {
 
     $email_to = "younglubackup@gmail.com";
     $email_subject = "Bomes Theater Booking - " . $_POST['event_name'];
 
     function died($error)
     {
-        //echo "We are very sorry, but there were error(s) found with the form you submitted. ";
-        //echo "These errors appear below.<br /><br />";
-        //echo $error . "<br /><br />";
-        //echo "Please fix before resubmitting.<br /><br />";
         die($error);
     }
 
@@ -32,7 +32,9 @@ if(isset($_POST['email'])) {
         !isset($_POST['attendees']) ||
         !isset($_POST['date']) ||
         !isset($_POST['hours_start']) ||
-        !isset($_POST['hours_end'])
+        !isset($_POST['hours_end']) ||
+        !isset($_POST['hours_start_str']) ||
+        !isset($_POST['hours_end_str'])
     ) {
         died('One or more of your entries appears to be invalid, please try again.');
     }
@@ -55,6 +57,8 @@ if(isset($_POST['email'])) {
     $date = $_POST['date'];
     $hours_start = $_POST['hours_start'];
     $hours_end = $_POST['hours_end'];
+    $hours_start_str = $_POST['hours_start_str'];
+    $hours_end_str = $_POST['hours_end_str'];
 
     $error_message = "";
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
@@ -77,7 +81,7 @@ if(isset($_POST['email'])) {
         died($error_message);
     }
 
-    $email_message = "Form details below.\n\n";
+    $email_message = "Booking Form details below.\n\n";
 
     function clean_string($string)
     {
@@ -98,9 +102,9 @@ if(isset($_POST['email'])) {
     $email_message .= "Event Type: " . clean_string($event_type) . "\n";
     $email_message .= "Event Description: " . clean_string($event_desc) . "\n";
     $email_message .= "Estimated Number of Attendees: " . clean_string($attendees) . "\n";
-    $email_message .= "Event Date: " . clean_string($date) . "\n";
-    $email_message .= "Event Starting Hours: " . clean_string($hours_start) . "\n";
-    $email_message .= "Event Ending Hours: " . clean_string($hours_end) . "\n";
+    $email_message .= "Event Date (YYYY-MM-DD): " . clean_string($date) . "\n";
+    $email_message .= "Event Start Time: " . clean_string($hours_start_str) . "\n";
+    $email_message .= "Event End Time: " . clean_string($hours_end_str) . "\n";
 
     // create email headers
     $headers = 'From: ' . $email_host . "\r\n" .

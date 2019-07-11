@@ -96,15 +96,16 @@
 
 
 <div class="container">
-    <h2>work in progress</h2>
+    <!--h2>work in progress</h2-->
 <!--    <h1 class="menu-heading">Gallery</h1>-->
     <center>
         <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
     </center>
     <br>
-    <hr>
+    <hr><br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Theatre)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
@@ -151,9 +152,10 @@
         </div>
     </div>
 
-    <br>
+    <br><br>
 
-    <h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Cafe)</h2>
     <div class="section-title-divider" style="margin-bottom:-10px;"></div>
     <br>
     <div class="gallery-border">
@@ -217,6 +219,44 @@
             </div>
             <div class="column">
                 <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-29.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(20)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
+    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Events</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <br>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -408,6 +448,61 @@
         </div>
     </div>
 
+    <div id="eventModal" class="modal">
+        <span class="close cursor" onclick="closeEventModal()">&times;</span>
+        <div class="modal-content">
+
+            <div class="eventSlides">
+                <div class="numbertext">1 / 9</div>
+                <img id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">2 / 9</div>
+                <img id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">3 / 9</div>
+                <img id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">4 / 9</div>
+                <img id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">5 / 9</div>
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">6 / 9</div>
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">7 / 9</div>
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">8 / 9</div>
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">9 / 9</div>
+                <img id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
+            </div>
+
+            <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
+
+        </div>
+    </div>
+
     <script>
 
         function openInteriorModal() {
@@ -426,11 +521,23 @@
             document.getElementById("interiorTModal").style.display = "none";
         }
 
+        function openEventModal() {
+            document.getElementById("eventModal").style.display = "block";
+        }
+
+        function closeEventModal() {
+            document.getElementById("eventModal").style.display = "none";
+        }
+
         var interiorSlideIndex = 1;
         showInteriorSlides(interiorSlideIndex);
 
         var interiorTSlideIndex = 1;
         showInteriorTSlides(interiorTSlideIndex);
+
+        var eventSlideIndex = 1;
+        showEventSlides(eventSlideIndex);
+
 
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
@@ -446,6 +553,14 @@
 
         function currentInteriorTSlide(n) {
             showInteriorTSlides(interiorTSlideIndex = n);
+        }
+
+        function plusEventSlides(n) {
+            showEventSlides(eventSlideIndex += n);
+        }
+
+        function currentEventSlide(n) {
+            showEventSlides(eventSlideIndex = n);
         }
 
         function showInteriorSlides(n) {
@@ -482,6 +597,24 @@
             slides[interiorTSlideIndex-1].style.display = "block";
             dots[interiorTSlideIndex-1].className += " active";
             captionText.innerHTML = dots[interiorTSlideIndex-1].alt;
+        }
+
+        function showEventSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {eventSlideIndex = 1}
+            if (n < 1) {eventSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideIndex-1].style.display = "block";
+            dots[eventSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideIndex-1].alt;
         }
     </script>
 </div>
