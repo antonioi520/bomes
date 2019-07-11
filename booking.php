@@ -35,6 +35,7 @@
     <link rel="icon" href="img/logo.png" type="image/x-icon">
 
 
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>
 
@@ -115,10 +116,6 @@
                             <input type="text" class="form-control" name="zip" id="zip" placeholder="Postal/Zip Code" minlength="5"  required />
                             <div class="validation"></div>
                         </div>
-                        <!--div class="form-group">
-                            <input type="text" class="form-control" name="country" id="country" placeholder="Country" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div-->
                         <div class="form-group">
                             <label for="country">Country</label>
                             <select class="form-control" name="country" id="country">
@@ -373,10 +370,6 @@
                                 <option value="ZW">Zimbabwe</option>
                             </select>
                         </div>
-                        <!--div class="form-group">
-                            <input type="text" class="form-control" name="event_type" id="event_type" placeholder="Event Type" minlength="2"  required />
-                            <div class="validation"></div>
-                        </div-->
                         <div class="form-group">
                             <label for="event_type">Event Type</label>
                             <select class="form-control" name="event_type" id="event_type">
