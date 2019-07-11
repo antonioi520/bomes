@@ -96,7 +96,7 @@
 
 
 <div class="container">
-    <h2>work in progress</h2>
+    <!--h2>work in progress</h2-->
 <!--    <h1 class="menu-heading">Gallery</h1>-->
     <center>
         <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
