@@ -7,7 +7,36 @@
  */
 ?>
 
-<?php include("views/header.html") ?>
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90995944-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-90995944-4');
+    </script>
+
+    <meta charset="UTF-8">
+    <title>Bomes Theatre</title>
+    <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
+
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/css.css" rel="stylesheet">
+    <link href="css/events.css" rel="stylesheet">
+    <link href="css/mobile.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
+    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+    <link rel="icon" href="img/logo.png" type="image/x-icon">
+
+
+
+</head>
 
 <link href="css/mobile.css" rel="stylesheet">
 
@@ -21,26 +50,14 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/TheaterInterior/concert-46.jpg" class="d-block w-100" alt="..." style="height:49.375em;filter:brightness(20%);object-fit: cover;">
+                <img src="img/TheaterInterior/concert-46.jpg" class="d-block w-100" alt="..." style="height:733px;filter:brightness(30%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
-                    <center>
-                        <!--h1 class="headertext">WELCOME TO MI ALMA<br> RESTAURANT</H1-->
-                    </center>
+
                     <center>
                         <br><br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <img src="img/logoT.png" style="height:75%;width: 75%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
-                    <center>
-                        <!--a href="#contact" id="box" style="margin-top: 1em;display:block">
-                            <h2 id="headerHours">View Hours</h2>
-                        </a-->
-                    </center>
-                    <center>
-                        <!--ul class="headericons">
-                            <li style="display: inline;padding:0.5em;"> <div id="test"><a href="https://www.facebook.com/TheBomesTheatre/" target="_blank" class="circleborder"><i class="fab fa-facebook-f iconcolor"></i></a></div></li>
-                            <li style="display: inline;"><div id="test"><a href="https://www.instagram.com/bomestheatreri/ target="_blank" class="circleborder"> <i class="fab fa-instagram iconcolor"></i></a></div></li>
-                        </ul-->
-                    </center>
+
                 </div>
             </div>
         </div>
