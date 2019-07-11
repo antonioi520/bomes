@@ -81,8 +81,6 @@
             <div class="col-lg-3"></div>
             <div class="col-lg-6 col-lg-push-12" style="padding-bottom: 0.625em;">
                 <div class="form">
-                    <div id="sendmessage">Your message has been sent. Thank you!</div>
-                    <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     <form action="" method="post" role="form" class="contactForm" id="myForm">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" minlength="2"  required />
@@ -423,6 +421,9 @@
                         </div>
 
                         <div class="text-center"><button style="background-color: goldenrod" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                        <br>
+                        <div id="sendmessage">Your request has been sent. Thank you!</div>
+                        <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
                     </form>
                 </div>
             </div>
