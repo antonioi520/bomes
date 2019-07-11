@@ -44,140 +44,30 @@
 
 <?php include("views/nav_pages.html")?>
 <br>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
+<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="img/Events/Concert-15.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Concert-16.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center "  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Concert-29.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center" id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Concert-29.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
+            <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:710px;filter:brightness(35%) grayscale(50%);object-fit: cover">
             <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
                 <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
+                    <br><br><br><br><br><br><br>
+                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:50px;">
                 </center>
+<!--                <center>-->
+<!--                    <div class="eventHeaderBox">-->
+<!--                        <h1 class="eventHeaderText">Events</h1>-->
+<!--                    </div>-->
+<!--                </center>-->
             </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Concert-31.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-24.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-26.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-27.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-28.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-
-                <center>
-                    <div class="eventHeaderBox">
-                        <h1 class="eventHeaderText">Events</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-    </div>
-    <div class="arrowRemove">
-        <a class="carousel-control-prev .d-none .d-md-block" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon .d-none .d-md-block" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
 </div>
 
 <div class="container">
-    <center>
-        <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
-    </center>
-
-    <hr style="margin-bottom:0px;">
+<br><br><br>
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
-        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong>Events</strong></h1>
+        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:goldenrod">Events</strong></h1>
         <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us</h5>
         <div class="section-title-divider" style="width:300px;"></div>
     </div>
@@ -234,7 +124,7 @@
     <hr style="margin-bottom:0px;">
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
-        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our past <strong>Events</strong></h1>
+        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our past <strong style="color:goldenrod">Events</strong></h1>
         <div class="section-title-divider" style="width:300px;"></div>
     </div>
     <!--<div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
