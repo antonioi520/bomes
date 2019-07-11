@@ -406,8 +406,8 @@
                             <div class="validation"></div>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" name="hours_start_str" id="hours_start_str" />
-                            <input type="text" class="form-control" name="hours_end_str" id="hours_end_str" />
+                            <input style="display: none" type="text" class="form-control" name="hours_start_str" id="hours_start_str" />
+                            <input style="display: none" type="text" class="form-control" name="hours_end_str" id="hours_end_str" />
                         </div>
                         <div class="form-group">
                             <!-- captcha-->
@@ -527,6 +527,7 @@
             meridian = 'PM';
         }
         startStr.value = (hours + ':' + minutes + ' ' + meridian);
+        //alert(startStr.value);
     }
 </script>
 
@@ -553,6 +554,7 @@
             meridian = 'PM';
         }
         endStr.value = (hours + ':' + minutes + ' ' + meridian);
+        //alert(endStr.value);
     }
 </script>
 
