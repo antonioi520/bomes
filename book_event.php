@@ -81,7 +81,7 @@ if(isset($_POST['email'])) {
         died($error_message);
     }
 
-    $email_message = "Form details below.\n\n";
+    $email_message = "Booking Form details below.\n\n";
 
     function clean_string($string)
     {
@@ -102,9 +102,9 @@ if(isset($_POST['email'])) {
     $email_message .= "Event Type: " . clean_string($event_type) . "\n";
     $email_message .= "Event Description: " . clean_string($event_desc) . "\n";
     $email_message .= "Estimated Number of Attendees: " . clean_string($attendees) . "\n";
-    $email_message .= "Event Date: " . clean_string($date) . "\n";
-    $email_message .= "Event Starting Hours: " . clean_string($hours_start_str) . "\n";
-    $email_message .= "Event Ending Hours: " . clean_string($hours_end_str) . "\n";
+    $email_message .= "Event Date (YYYY-MM-DD): " . clean_string($date) . "\n";
+    $email_message .= "Event Start Time: " . clean_string($hours_start_str) . "\n";
+    $email_message .= "Event End Time: " . clean_string($hours_end_str) . "\n";
 
     // create email headers
     $headers = 'From: ' . $email_host . "\r\n" .
