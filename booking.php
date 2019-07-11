@@ -527,7 +527,7 @@
             meridian = 'PM';
         }
         startStr.value = (hours + ':' + minutes + ' ' + meridian);
-        alert(startStr.value);
+        //alert(startStr.value);
     }
 </script>
 
@@ -554,7 +554,7 @@
             meridian = 'PM';
         }
         endStr.value = (hours + ':' + minutes + ' ' + meridian);
-        alert(endStr.value);
+        //alert(endStr.value);
     }
 </script>
 
