@@ -35,7 +35,7 @@
     <link rel="icon" href="img/logo.png" type="image/x-icon">
 
 
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <!--script src="https://www.google.com/recaptcha/api.js" async defer></script-->
 
 </head>
 
@@ -401,9 +401,13 @@
                         </div>
                         <div class="form-group">
                             <label for="hours_start">Hours</label>
-                            <input type="time" class="form-control" name="hours_start" id="hours_start" required />
-                            <input type="time" class="form-control" name="hours_end" id="hours_end" required />
+                            <input type="time" onchange="onTimeChangeStart()" class="form-control" name="hours_start" id="hours_start" required />
+                            <input type="time" onchange="onTimeChangeEnd()" class="form-control" name="hours_end" id="hours_end" required />
                             <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="hours_start_str" id="hours_start_str" />
+                            <input type="text" class="form-control" name="hours_end_str" id="hours_end_str" />
                         </div>
                         <div class="form-group">
                             <!-- captcha-->
@@ -497,6 +501,58 @@
 
             return false;
         }
+    }
+</script>
+
+<script>
+    var startElement = document.getElementById('hours_start');
+    var startStr = document.getElementById('hours_start_str');
+
+    function onTimeChangeStart() {
+        var timeSplit = startElement.value.split(':'),
+            hours,
+            minutes,
+            meridian;
+        hours = timeSplit[0];
+        minutes = timeSplit[1];
+        if (hours > 12) {
+            meridian = 'PM';
+            hours -= 12;
+        } else if (hours < 12) {
+            meridian = 'AM';
+            if (hours == 0) {
+                hours = 12;
+            }
+        } else {
+            meridian = 'PM';
+        }
+        startStr.value = (hours + ':' + minutes + ' ' + meridian);
+    }
+</script>
+
+<script>
+    var endElement = document.getElementById('hours_end');
+    var endStr = document.getElementById('hours_end_str');
+
+    function onTimeChangeEnd() {
+        var timeSplit = endElement.value.split(':'),
+            hours,
+            minutes,
+            meridian;
+        hours = timeSplit[0];
+        minutes = timeSplit[1];
+        if (hours > 12) {
+            meridian = 'PM';
+            hours -= 12;
+        } else if (hours < 12) {
+            meridian = 'AM';
+            if (hours == 0) {
+                hours = 12;
+            }
+        } else {
+            meridian = 'PM';
+        }
+        endStr.value = (hours + ':' + minutes + ' ' + meridian);
     }
 </script>
 
