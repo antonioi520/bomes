@@ -223,6 +223,43 @@
 
     <br>
 
+    <h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2>
+    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+    <br>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="eventImg" src="img/Events/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="eventImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br>
+
     <div id="interiorModal" class="modal">
         <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
         <div class="modal-content">
