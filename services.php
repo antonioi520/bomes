@@ -102,12 +102,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -153,6 +153,8 @@
                 <p class="about-text" style="padding-left:2px;">
                     Having a banquet meeting? The Bomes Theatre can accommodate all your business needs!
                 </p>
+
+                <br id="content-desktop">
 
                 <a href="booking" id="menuBox"><h2 id="menuBoxText"">Book an Event</h2></a>
 
