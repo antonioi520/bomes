@@ -139,14 +139,14 @@
                     Celebrate your child's 16th birthday with us at Bomes Theatre!
                 </p>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Birthdays</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
+                    Celebrate your child's 1st birthday with us for a day to remember!
                 </p>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Baptisms</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
+                    Commemorate your child's baptism with us for a day to remember!
                 </p>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
