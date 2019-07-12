@@ -93,7 +93,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Our Services</h1>
                 <center>
                 <div class="section-title-divider"></div>
             </div>
@@ -113,31 +113,46 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Chef's Recommendations</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Weddings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Be sure to ask your server about the chef's recommendation for the day!
+                    Come celebrate your special day with us!
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Weekly Specials</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Baby Showers</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Don't forget to ask staff about the weekly special next time you dine with us!
+                    Plan the perfect baby shower for your friends and family.
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">À La Carte</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañera</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Celebrate your daughter's 15th birthday at Bome Theatre!
+                </p>
+
+                <br>
+
+                <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
+                <p class="about-text" style="padding-left:3px;">
+                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
+                    pick it up on location at 1017 Broad Street Providence, RI 02905.
+                </p>
+
+                <h2 class="about-title" style="margin-bottom: 10px;">Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;">
                     Come in and order your food à la carte.
                 </p>
 
-                <br>
+                <h2 class="about-title" style="margin-bottom: 10px;">Baptisms</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Come in and order your food à la carte.
+                </p>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
-                <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
-                    pick it up on location at 1017 Broad Street Providence, RI 02905.
+                <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Come in and order your food à la carte.
                 </p>
 
                 <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
