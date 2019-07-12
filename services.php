@@ -154,7 +154,7 @@
                     Having a banquet meeting? The Bomes Theatre can accommodate all your business needs!
                 </p>
 
-                <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
+                <a href="booking" id="menuBox"><h2 id="menuBoxText"">Book an Event</h2></a>
 
             </div>
         </div>
