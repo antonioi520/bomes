@@ -139,22 +139,26 @@
                     Celebrate your child's 16th birthday with us at Bomes Theatre!
                 </p>
 
+                <br>
+
                 <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;">
                     Celebrate your child's 1st birthday with us for a day to remember!
                 </p>
+
+                <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Baptisms</h2>
                 <p class="about-text" style="padding-left:2px;">
                     Commemorate your child's baptism with us for a day to remember!
                 </p>
 
+                <br>
+
                 <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Having a banquet meeting? The Bomes Theatre can accommodate all your business needs!
+                    Having a banquet meeting? We can accommodate all your business needs!
                 </p>
-
-                <br id="content-desktop">
 
                 <a href="booking" id="menuBox"><h2 id="menuBoxText"">Book an Event</h2></a>
 
