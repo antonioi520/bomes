@@ -45,7 +45,7 @@
 
 <?php include("views/nav_pages.html")?>
 <BR>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
+<!--div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/TheaterInterior/concert-37.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
@@ -80,7 +80,7 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-</div>
+</div-->
 <div class="container">
 <center>
     <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
