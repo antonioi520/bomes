@@ -106,7 +106,7 @@
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.Placeholder Image.</strong><br><br><br>
                     <a href="restaurant.php" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Events</h2></a>
                 </div>
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
+                <img src="img/Events/Concert-15.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
         </div>
     </div>
