@@ -210,14 +210,14 @@
                 <p class="about-text">
                     At Mi Alma Restaurant, we provide an array of catering services for our customers.
                     If you are looking to host an event at the Bomes Theatre, we can
-                    cater for your event here!
+                    cater for your event there!
                 </p>
 
                 <br>
 
                 <h2 class="about-title">Catering for personal events</h2>
                 <p class="about-text">
-                    Our catering services are not limited to just events hosted on location at the Bomes Theater, we also
+                    Our catering services are not limited to just events hosted on location at the Bomes Theatre, we also
                     cater for various other events including weddings, banquets, family gatherings and parties.
                 </p>
 
