@@ -189,7 +189,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 400px; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -215,6 +215,7 @@
                     cater for various other events including weddings, banquets, family gatherings and parties.
                 </p>
 
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
                 <br id="content-desktop">
 
             </div>
