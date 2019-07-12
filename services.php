@@ -129,15 +129,14 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Quinceañera</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Celebrate your daughter's 15th birthday at Bome Theatre!
+                    Celebrate your daughter's 15th birthday at Bomes Theatre!
                 </p>
 
                 <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
-                    pick it up on location at 1017 Broad Street Providence, RI 02905.
+                    Celebrate your child's 16th birthday with us at Bomes Theatre!
                 </p>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Birthdays</h2>
@@ -152,7 +151,7 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
+                    Having a banquet meeting? The Bomes Theatre can accommodate all your business needs!
                 </p>
 
                 <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
