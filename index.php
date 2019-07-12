@@ -92,7 +92,7 @@
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="" style="object-fit: contain;">
+                    <img src="img/gd3.png" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
                     <a href="booking.php" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
@@ -101,12 +101,12 @@
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
-                    <img src="">
+                    <img src="img/gd3.png">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">ONGOING EVENTS</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.Placeholder Image.</strong><br><br><br>
                     <a href="restaurant.php" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Events</h2></a>
                 </div>
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-27.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
+                <img src="img/Events/Concert-15.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
         </div>
     </div>
@@ -171,13 +171,13 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Tue:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Wed:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Thurs:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Fri:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Sat:</strong><p style="padding-left:0;"> 8am-4:00pm</p><br>
-                        <strong>Sun:</strong><p style="padding-left:0;"> 8am-4:00pm</p>
+                        <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
+                        <strong>Tue:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
+                        <strong>Wed:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
+                        <strong>Thurs:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
+                        <strong>Sat:</strong><p style="padding-left:0;"> 12pm-4:00pm</p><br>
+                        <strong>Sun:</strong><p style="padding-left:0;"> 12pm-4:00pm</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Location</h4>

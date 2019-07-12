@@ -45,7 +45,7 @@
 
 <?php include("views/nav_pages.html")?>
 <BR>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
+<!--div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="img/TheaterInterior/concert-37.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
@@ -80,7 +80,7 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-</div>
+</div-->
 <div class="container">
 <center>
     <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
@@ -93,7 +93,7 @@
         <div class="row">
             <div class="col-md-12">
                 <center>
-                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Highlights</h1>
+                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Our Services</h1>
                 <center>
                 <div class="section-title-divider"></div>
             </div>
@@ -102,45 +102,65 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/MiAlmaCafeOpeningCeremony-8.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Chef's Recommendations</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Weddings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Be sure to ask your server about the chef's recommendation for the day!
+                    Come celebrate your special day with us!
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Weekly Specials</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Baby Showers</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Don't forget to ask staff about the weekly special next time you dine with us!
+                    Plan the perfect baby shower for your friends and family.
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">À La Carte</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañera</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come in and order your food à la carte.
+                    Celebrate your daughter's 15th birthday at Bomes Theatre!
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Take Out</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Give us a call at (401) 648-0715 and we'll prepare your order ahead of time for you! When it's ready,
-                    pick it up on location at 1017 Broad Street Providence, RI 02905.
+                    Celebrate your child's 16th birthday with us at Bomes Theatre!
                 </p>
 
-                <a href="menu" id="menuBox"><h2 id="menuBoxText">View Menu</h2></a>
+                <br>
+
+                <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Celebrate your child's 1st birthday with us for a day to remember!
+                </p>
+
+                <br>
+
+                <h2 class="about-title" style="margin-bottom: 10px;">Baptisms</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Commemorate your child's baptism with us for a day to remember!
+                </p>
+
+                <br>
+
+                <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
+                <p class="about-text" style="padding-left:2px;">
+                    Having a banquet meeting? We can accommodate all your business needs!
+                </p>
+
+                <a href="booking" id="menuBox"><h2 id="menuBoxText"">Book an Event</h2></a>
 
             </div>
         </div>
@@ -155,7 +175,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <img src="img/imgheader3.png" style="text-align: center;display: block;margin:auto;">
+                <img src="img/divider3.png" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
             </div>
         </div>
     </div>
@@ -175,7 +195,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 430px; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -186,10 +206,10 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title">Catering at the Bomes Theater</h2>
+                <h2 class="about-title">Catering at the Bomes Theatre provided by Mi Alma Restaurant</h2>
                 <p class="about-text">
                     At Mi Alma Restaurant, we provide an array of catering services for our customers.
-                    If you are looking to host an event at the Bomes Theater, we can also
+                    If you are looking to host an event at the Bomes Theatre, we can
                     cater for your event there!
                 </p>
 
@@ -197,10 +217,11 @@
 
                 <h2 class="about-title">Catering for personal events</h2>
                 <p class="about-text">
-                    Our catering services are not limited to just events hosted on location at the Bomes Theater, we also
+                    Our catering services are not limited to just events hosted on location at the Bomes Theatre, we also
                     cater for various other events including weddings, banquets, family gatherings and parties.
                 </p>
 
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
                 <br id="content-desktop">
 
             </div>
