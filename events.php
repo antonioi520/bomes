@@ -50,8 +50,8 @@
             <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:710px;filter:brightness(35%) grayscale(50%);object-fit: cover">
             <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
                 <center>
-                    <br><br><br><br><br><br><br>
-                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:50px;">
+                    <br><br><br><br><br><br>
+                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
                 </center>
 <!--                <center>-->
 <!--                    <div class="eventHeaderBox">-->

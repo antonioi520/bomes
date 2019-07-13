@@ -50,11 +50,11 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" class="d-block w-100" alt="..." style="height:733px;filter:brightness(30%);object-fit: cover">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(30%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
-                        <br><br><br><br><br><br><br>
+                        <br><br><br><br><br><br>
                         <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
 
@@ -140,7 +140,7 @@
                     Having a banquet meeting? We can accommodate all your business needs!
                 </p>
 
-                <a href="booking" id="menuBox"><h2 id="menuBoxText">Book an Event</h2></a>
+                <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;">Book an Event</h2></a>
 
             </div>
         </div>
