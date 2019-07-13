@@ -34,8 +34,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
     <link href="lib/animate-css/animate.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
-    <link rel="icon" href="img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/logoT.png" type="image/x-icon">
+    <link rel="icon" href="img/logoT.png" type="image/x-icon">
 
 
 </head>
@@ -45,42 +45,24 @@
 
 <?php include("views/nav_pages.html")?>
 <BR>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="img/TheaterInterior/concert-37.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center"  id="hero">
+<div class="headerwrapper">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-14.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
+                <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
-                <center>
-                    <!--div class="serviceHeaderBox" style="width:600px;">
-                        <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
-                    </div-->
-                </center>
+                    <center>
+                        <br><br><br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:20px;">
+                    </center>
+
+                </div>
             </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" alt="Third slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center "  id="hero">
-
-                <center>
-                    <!--div class="serviceHeaderBox" style="width:600px;">
-                        <h1 class="serviceHeaderText">Mi Alma Restaurant</h1>
-                    </div-->
-                </center>
-            </div>
-        </div>
-    </div>
-    <div class="arrowRemove">
-        <a class="carousel-control-prev .d-none .d-md-block" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon .d-none .d-md-block" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
 </div>
+
 <div class="container">
 <center>
     <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">

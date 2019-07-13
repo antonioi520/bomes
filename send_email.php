@@ -2,11 +2,11 @@
 <!-- the captcha needs the above line -->
 
 <?php
-if(isset($_POST['email'])) {
+if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) && isset($_POST['message'])) {
 
     //$email_to = "MiAlmaRestaurant1@gmail.com";
     $email_to = "younglubackup@gmail.com";
-    $email_subject = "Mi Alma Restaurant - " . $_POST['subject'];
+    $email_subject = "Bomes Theatre Contact Form - " . $_POST['subject'];
 
     function died($error)
     {
