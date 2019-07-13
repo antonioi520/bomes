@@ -91,7 +91,7 @@
     <div class="wrapper" id="iphone">
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
-                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
+                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:20%;top:20%;">
                     <img src="img/gd3.png" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.</strong><br><br><br>
@@ -100,7 +100,7 @@
                 <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
             </div>
             <div class="col-lg-6">
-                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:25%;top:20%;">
+                <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:20%;top:20%;">
                     <img src="img/gd3.png">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">ONGOING EVENTS</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.Placeholder Image.</strong><br><br><br>
