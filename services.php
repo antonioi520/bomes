@@ -45,48 +45,28 @@
 
 <?php include("views/nav_pages.html")?>
 <BR>
-<!--div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="img/TheaterInterior/concert-37.jpg" alt="Second slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center"  id="hero">
 
-                <center>
-                    <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText">Services</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" alt="Third slide" style="height:600px;filter:brightness(50%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center "  id="hero">
+<div class="headerwrapper">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" class="d-block w-100" alt="..." style="height:733px;filter:brightness(30%);object-fit: cover">
+                <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
-                <center>
-                    <div class="serviceHeaderBox">
-                        <h1 class="serviceHeaderText">Services</h1>
-                    </div>
-                </center>
+                    <center>
+                        <br><br><br><br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                    </center>
+
+                </div>
             </div>
         </div>
     </div>
-    <div class="arrowRemove">
-        <a class="carousel-control-prev .d-none .d-md-block" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon .d-none .d-md-block" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-</div-->
+</div>
+
+
 <div class="container">
-<center>
-    <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
-</center>
 
-<hr style="margin-bottom:0px;">
 </div>
 <section id="about">
     <div class="container wow fadeInUp">
@@ -160,14 +140,14 @@
                     Having a banquet meeting? We can accommodate all your business needs!
                 </p>
 
-                <a href="booking" id="menuBox"><h2 id="menuBoxText"">Book an Event</h2></a>
+                <a href="booking" id="menuBox"><h2 id="menuBoxText">Book an Event</h2></a>
 
             </div>
         </div>
     </div>
 </section>
 
-</section>-->
+</section>
 <!--==========================
   Subscrbe Section
   ============================-->
