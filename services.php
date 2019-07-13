@@ -82,7 +82,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
