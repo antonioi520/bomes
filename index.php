@@ -118,7 +118,9 @@
             <div class="col-md-12">
                 <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Contact Us</h3>
                 <div class="section-title-divider" style="margin-bottom: 30px;"></div>
-                <p class="section-description">Feel free to reach out to us and we'll get right back to you.</p>
+                <p class="section-description">If you have any questions,
+                    feel free to reach out to us and we'll get right back to you. <br>
+                    Looking to book an event? Fill out the form <a href="booking.php">here</a>. </p>
             </div>
         </div>
 
