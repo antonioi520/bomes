@@ -20,7 +20,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Bomes Theater</title>
+    <title>Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
 
 
@@ -50,8 +50,8 @@
             <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:710px;filter:brightness(35%) grayscale(50%);object-fit: cover">
             <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
                 <center>
-                    <br><br><br><br><br><br><br>
-                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:50px;">
+                    <br><br><br><br><br><br>
+                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
                 </center>
 <!--                <center>-->
 <!--                    <div class="eventHeaderBox">-->
@@ -99,12 +99,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
             <div class="col-md-3"></div>
@@ -152,12 +152,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
@@ -175,12 +175,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theater, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
         </div>

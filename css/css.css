@@ -220,7 +220,7 @@ p {
     position:absolute;
     z-index: 1;
     height:3.750em;
-    width: 15.500em;
+    width: 16.500em;
     border: 0.188em solid goldenrod;
     opacity: .9;
     border-radius: 0.313em;
@@ -232,7 +232,7 @@ p {
     text-decoration: none;
 }
 #menuBoxText{
-    padding-top:5%;
+    padding-top:4%;
     color:goldenrod;
     padding-left:8%;
 }
