@@ -123,7 +123,7 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Celebrate your child's 1st birthday with us for a day to remember!
+                    Celebrate your child's 1st birthday with us for memories that last a lifetime!
                 </p>
 
                 <br>
