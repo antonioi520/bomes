@@ -255,7 +255,7 @@
             //document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random();
             return false;
         }else{
-            $("#myForm")[0].reset();
+            //$("#myForm")[0].reset();
             grecaptcha.reset();
             $("#errormessage").show();
             $("#sendmessage").hide();
