@@ -64,7 +64,7 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(80%) grayscale(60%)" id="aboutImg">
+                <img src="img/about_us.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -104,7 +104,7 @@
                     <img src="img/gd3.png">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">ONGOING EVENTS</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Placeholder Text.Placeholder Image.</strong><br><br><br>
-                    <a href="events" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText">View Events</h2></a>
+                    <a href="events" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText" style="padding-top: 10px;">View Events</h2></a>
                 </div>
                 <img src="img/Events/Concert-15.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>

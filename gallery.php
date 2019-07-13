@@ -44,70 +44,44 @@
 
 <?php include("views/nav_pages.html")?>
 <br>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="top:-25px;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="img/TheaterInterior/concert-41.jpg" alt="Second slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
-               <!-- <center>
-                    <img src="img/logo.png" class="galleryHeaderImage">
-                </center>-->
-                <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
-                    </div>
-                </center>
+<div class="headerwrapper">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/TheaterInterior/concert-38.jpg" class="d-block w-100" alt="..." style="height:733px;filter:brightness(30%);object-fit: cover">
+                <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
+
+                    <center>
+                        <br><br><br><br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                    </center>
+
+                </div>
             </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/TheaterInterior/concert-37.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
-                <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="img/TheaterInterior/concert-44.jpg" alt="Third slide" style="height:600px;filter:brightness(70%);object-fit: cover">
-            <div class="carousel-caption d-md-block d-flex justify-content-center" id="hero">
-                <center>
-                    <div class="galleryHeaderBox">
-                        <h1 class="menu-heading galleryHeaderText">Gallery</h1>
-                    </div>
-                </center>
-            </div>
-        </div>
-    </div>
-    <div class="arrowRemove">
-        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
 </div>
 
-
-
-
+<div class="container wow fadeInUp">
+    <br>
+    <br>
+    <div class="row">
+        <div class="col-md-12">
+            <center>
+                <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Gallery</h1>
+                <center>
+                    <div class="section-title-divider"></div>
+        </div>
+    </div>
+</div>
 <div class="container">
     <!--h2>work in progress</h2-->
 <!--    <h1 class="menu-heading">Gallery</h1>-->
-    <center>
-        <img src="img/logoT.png" style="height:300px;width:400px;object-fit: contain;">
-    </center>
-    <br>
-    <hr><br>
 
-    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
-    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Theatre)</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
+<BR>
     <br>
+    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Interior (Theatre)</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -155,9 +129,7 @@
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2-->
-    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Interior (Cafe)</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
-    <br>
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Interior (Cafe)</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -226,9 +198,7 @@
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <h2 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 35px;line-height: 4px;">Events</h2>
-    <div class="section-title-divider" style="margin-bottom:-10px;"></div>
-    <br>
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Events</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
