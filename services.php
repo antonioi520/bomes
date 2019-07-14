@@ -104,7 +104,9 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Baby Showers</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Plan the perfect baby shower for your friends and family.
+                    Plan the perfect baby shower for your friends and family!
+                    Our staff will help you every step of the way to ensure a
+                    smooth and stress free experience.
                 </p>
 
                 <br>
