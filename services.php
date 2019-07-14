@@ -120,7 +120,7 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Celebrate your child's 16th birthday with us at Bomes Theatre!
+                    Celebrate your child's 16th birthday with an extravagant party at Bomes Theatre!
                 </p>
 
                 <br>
