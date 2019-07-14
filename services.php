@@ -80,12 +80,13 @@
         </div>
     </div>
     <div class="container about-container wow fadeInUp">
+        <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:820px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
                 <br>
                 <br>
-                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+<!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -96,61 +97,61 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Weddings</h2>
-                <p class="about-text" style="padding-left:2px;">
+                <h2 class="about-title" style="margin-bottom: 5px;">Weddings</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Come celebrate your special day with us! We have an
                     experienced staff that will exceed your expectations
-                    and plan the wedding of your dreams.
+                    and help plan the wedding of your dreams.
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Baby Showers</h2>
-                <p class="about-text" style="padding-left:2px;">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Baby Showers</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Plan the perfect baby shower for your friends and family!
                     Our staff will assist you every step of the way to ensure a
                     smooth and stress free experience for you and your family.
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañeras</h2>
-                <p class="about-text" style="padding-left:2px;">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Quinceañeras</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Commemorate your daughter's 15th birthday with your family at Bomes Theatre!
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
-                <p class="about-text" style="padding-left:3px;">
-                    Celebrate your child's 16th birthday with an extravagant party planned by our expert staff!
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Sweet 16</h2>
+                <p class="about-text" style="padding-left:3px;margin-bottom: 10px;">
+                    Celebrate your child's 16th birthday with an extravagant party with assisted planning by our expert staff!
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
-                <p class="about-text" style="padding-left:2px;">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">1st Birthdays</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Celebrate your child's 1st birthday with us and create memories that last a lifetime!
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Baptisms</h2>
-                <p class="about-text" style="padding-left:2px;">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Baptisms</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Commemorate your child's baptism with us for a day to remember!
                 </p>
 
-                <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
-                <p class="about-text" style="padding-left:2px;">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Banquet Meetings</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Having a banquet meeting? Our staff can accommodate all your business needs!
                     Catering provided on location by Mi Alma Restaurant.
                 </p>
 
                 <br>
 
-                <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;">Book an Event</h2></a>
+                <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;padding-bottom: 9px;">Book an Event</h2></a>
 
             </div>
         </div>
@@ -196,7 +197,7 @@
 
             <div class="col-md-6 about-content">
 
-                <h2 class="about-title">Catering at the Bomes Theatre provided by Mi Alma Restaurant</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Catering at the Bomes Theatre provided by Mi Alma Restaurant</h2>
                 <p class="about-text">
                     At Mi Alma Restaurant, we provide an array of catering services for our customers.
                     If you are looking to host an event at the Bomes Theatre, we can
@@ -205,13 +206,13 @@
 
                 <br>
 
-                <h2 class="about-title">Catering for personal events</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Catering for personal events</h2>
                 <p class="about-text">
                     Our catering services are not limited to just events hosted on location at the Bomes Theatre, we also
                     cater for various other events including weddings, banquets, family gatherings and parties.
                 </p>
-
-                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
+                <br>
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText" style="padding-bottom: 9px;width: 226.875px;">View Website</h2></a>
                 <br id="content-desktop">
 
             </div>
