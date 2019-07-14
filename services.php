@@ -95,7 +95,9 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Weddings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come celebrate your special day with us!
+                    Come celebrate your special day with us! We have an
+                    experienced staff that will exceed your expectations
+                    and plan the wedding of your dreams.
                 </p>
 
                 <br>
