@@ -82,7 +82,10 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+                <br>
+                <br>
+                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
@@ -95,35 +98,39 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Weddings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Come celebrate your special day with us!
+                    Come celebrate your special day with us! We have an
+                    experienced staff that will exceed your expectations
+                    and plan the wedding of your dreams.
                 </p>
 
                 <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Baby Showers</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Plan the perfect baby shower for your friends and family.
+                    Plan the perfect baby shower for your friends and family!
+                    Our staff will assist you every step of the way to ensure a
+                    smooth and stress free experience for you and your family.
                 </p>
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañera</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañeras</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Celebrate your daughter's 15th birthday at Bomes Theatre!
+                    Commemorate your daughter's 15th birthday with your family at Bomes Theatre!
                 </p>
 
                 <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Sweet 16</h2>
                 <p class="about-text" style="padding-left:3px;">
-                    Celebrate your child's 16th birthday with us at Bomes Theatre!
+                    Celebrate your child's 16th birthday with an extravagant party planned by our expert staff!
                 </p>
 
                 <br>
 
                 <h2 class="about-title" style="margin-bottom: 10px;">1st Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Celebrate your child's 1st birthday with us for memories that last a lifetime!
+                    Celebrate your child's 1st birthday with us and create memories that last a lifetime!
                 </p>
 
                 <br>
@@ -137,8 +144,11 @@
 
                 <h2 class="about-title" style="margin-bottom: 10px;">Banquet Meetings</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Having a banquet meeting? We can accommodate all your business needs!
+                    Having a banquet meeting? Our staff can accommodate all your business needs!
+                    Catering provided on location by Mi Alma Restaurant.
                 </p>
+
+                <br>
 
                 <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;">Book an Event</h2></a>
 
