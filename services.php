@@ -111,9 +111,9 @@
 
                 <br>
 
-                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañera</h2>
+                <h2 class="about-title" style="margin-bottom: 10px;">Quinceañeras</h2>
                 <p class="about-text" style="padding-left:2px;">
-                    Celebrate your daughter's 15th birthday at Bomes Theatre!
+                    Celebrate your daughter's 15th birthday with your family at Bomes Theatre!
                 </p>
 
                 <br>
