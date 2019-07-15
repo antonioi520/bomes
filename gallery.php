@@ -233,6 +233,20 @@
 
     <br>
 
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Videos</h2>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br>
+
     <div id="interiorModal" class="modal">
         <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
         <div class="modal-content">
@@ -465,6 +479,26 @@
             <div class="eventSlides">
                 <div class="numbertext">9 / 9</div>
                 <img id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
+            </div>
+
+            <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
+
+        </div>
+    </div>
+
+    <div id="videoModal" class="modal">
+        <span class="close cursor" onclick="closeVideoModal()">&times;</span>
+        <div class="modal-content">
+
+            <div class="videoSlides">
+                <div class="numbertext">1 / 2</div>
+                <img class="demo cursor" id="galleryImg" src="vid/event_video.MP4" alt="Miss Dominican Republic 2019" style="width:100%">
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">2 / 2</div>
+                <img class="demo cursor" id="galleryImg" src="vid/event_video2.mp4" alt="El Varon De La Bachata" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
