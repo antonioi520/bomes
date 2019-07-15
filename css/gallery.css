@@ -151,6 +151,12 @@
     max-height: 800px;
 }
 
+#galleryVid {
+    margin-bottom: 10px;
+    object-fit: scale-down;
+    max-height: 760px;
+}
+
 #interiorImg {
     margin-bottom: 10px;
     padding-top: 40px;
