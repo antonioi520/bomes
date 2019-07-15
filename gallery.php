@@ -501,8 +501,8 @@
                 <img class="demo cursor" id="galleryImg" src="vid/event_video2.mp4" alt="El Varon De La Bachata" style="width:100%">
             </div>
 
-            <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
+            <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusVideoSlides(1)">&#10095;</a>
 
         </div>
     </div>
@@ -531,6 +531,14 @@
 
         function closeEventModal() {
             document.getElementById("eventModal").style.display = "none";
+        }
+
+        function openVideoModal() {
+            document.getElementById("videoModal").style.display = "block";
+        }
+
+        function closeVideoModal() {
+            document.getElementById("videoModal").style.display = "none";
         }
 
         var interiorSlideIndex = 1;
