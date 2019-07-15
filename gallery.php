@@ -198,7 +198,7 @@
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Events</h2>
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Images</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -242,7 +242,7 @@
 
     <br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Videos</h2>
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Videos</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
