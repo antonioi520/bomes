@@ -69,7 +69,7 @@
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/staff.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(80%) grayscale(60%);" id="aboutImg">
+                    <img src="img/about_us.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%);" id="aboutImg">
                 </center>
             </div>
 

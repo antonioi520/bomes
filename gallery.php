@@ -198,7 +198,7 @@
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Events</h2>
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Images</h2>
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -227,6 +227,29 @@
             </div>
             <div class="column">
                 <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/event1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(10)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/event2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(11)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Videos</h2>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -423,52 +446,102 @@
         <div class="modal-content">
 
             <div class="eventSlides">
-                <div class="numbertext">1 / 9</div>
-                <img id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
+                <div class="numbertext">1 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">2 / 9</div>
-                <img id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
+                <div class="numbertext">2 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">3 / 9</div>
-                <img id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
+                <div class="numbertext">3 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">4 / 9</div>
-                <img id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
+                <div class="numbertext">4 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">5 / 9</div>
-                <img id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%">
+                <div class="numbertext">5 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">6 / 9</div>
-                <img id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%">
+                <div class="numbertext">6 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">7 / 9</div>
-                <img id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%">
+                <div class="numbertext">7 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">8 / 9</div>
-                <img id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%">
+                <div class="numbertext">8 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">9 / 9</div>
-                <img id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%">
+                <div class="numbertext">9 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" alt="Optimo Concert">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">10 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/event1.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">11 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/event2.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">12 / 12</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/event3.jpeg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
+
+            <!-- Caption text -->
+            <div class="caption-container" style="height: 25px;">
+                <p id="caption"></p>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="videoModal" class="modal">
+        <span class="close cursor" onclick="closeVideoModal()">&times;</span>
+        <div class="modal-content">
+
+            <div class="videoSlides">
+                <div class="numbertext">1 / 2</div>
+                <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
+                <video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
+                    <source src="vid/event_video.MP4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <p><center style="color: white;">Miss Dominican Republic 2019</center></p>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">2 / 2</div>
+                <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
+                <video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
+                    <source src="vid/event_video2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <p><center style="color: white;">El Varon De La Bachata</center></p>
+            </div>
+
+            <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusVideoSlides(1)">&#10095;</a>
 
         </div>
     </div>
@@ -499,6 +572,14 @@
             document.getElementById("eventModal").style.display = "none";
         }
 
+        function openVideoModal() {
+            document.getElementById("videoModal").style.display = "block";
+        }
+
+        function closeVideoModal() {
+            document.getElementById("videoModal").style.display = "none";
+        }
+
         var interiorSlideIndex = 1;
         showInteriorSlides(interiorSlideIndex);
 
@@ -508,6 +589,8 @@
         var eventSlideIndex = 1;
         showEventSlides(eventSlideIndex);
 
+        var videoSlideIndex = 1;
+        showVideoSlides(videoSlideIndex);
 
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
@@ -531,6 +614,14 @@
 
         function currentEventSlide(n) {
             showEventSlides(eventSlideIndex = n);
+        }
+
+        function plusVideoSlides(n) {
+            showVideoSlides(videoSlideIndex += n);
+        }
+
+        function currentVideoSlide(n) {
+            showVideoSlides(videoSlideIndex = n);
         }
 
         function showInteriorSlides(n) {
@@ -585,6 +676,24 @@
             slides[eventSlideIndex-1].style.display = "block";
             dots[eventSlideIndex-1].className += " active";
             captionText.innerHTML = dots[eventSlideIndex-1].alt;
+        }
+
+        function showVideoSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("videoSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {videoSlideIndex = 1}
+            if (n < 1) {videoSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[videoSlideIndex-1].style.display = "block";
+            dots[videoSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[videoSlideIndex-1].alt;
         }
     </script>
 </div>
