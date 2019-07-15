@@ -493,13 +493,21 @@
 
             <div class="videoSlides">
                 <div class="numbertext">1 / 2</div>
-                <video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%" type="video/mp4"></video>
+                <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
+                <video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
+                    <source src="vid/event_video.MP4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 <p><center style="color: white;">Miss Dominican Republic 2019</center></p>
             </div>
 
             <div class="videoSlides">
                 <div class="numbertext">2 / 2</div>
-                <video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%" type="video/mp4"></video>
+                <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
+                <video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
+                    <source src="vid/event_video2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
                 <p><center style="color: white;">El Varon De La Bachata</center></p>
             </div>
 
