@@ -493,12 +493,13 @@
 
             <div class="videoSlides">
                 <div class="numbertext">1 / 2</div>
-                <img class="demo cursor" id="galleryImg" src="vid/event_video.MP4" alt="Miss Dominican Republic 2019" style="width:100%">
+                <video controls class="demo cursor" id="galleryImg" src="vid/event_video.MP4" alt="Miss Dominican Republic 2019" style="width:100%">
+
             </div>
 
             <div class="videoSlides">
                 <div class="numbertext">2 / 2</div>
-                <img class="demo cursor" id="galleryImg" src="vid/event_video2.mp4" alt="El Varon De La Bachata" style="width:100%">
+                <video controls class="demo cursor" id="galleryImg" src="vid/event_video2.mp4" alt="El Varon De La Bachata" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
@@ -550,6 +551,8 @@
         var eventSlideIndex = 1;
         showEventSlides(eventSlideIndex);
 
+        var videoSlideIndex = 1;
+        showVideoSlides(videoSlideIndex);
 
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
@@ -573,6 +576,14 @@
 
         function currentEventSlide(n) {
             showEventSlides(eventSlideIndex = n);
+        }
+
+        function plusVideoSlides(n) {
+            showVideoSlides(videoSlideIndex += n);
+        }
+
+        function currentVideoSlide(n) {
+            showVideoSlides(videoSlideIndex = n);
         }
 
         function showInteriorSlides(n) {
@@ -627,6 +638,24 @@
             slides[eventSlideIndex-1].style.display = "block";
             dots[eventSlideIndex-1].className += " active";
             captionText.innerHTML = dots[eventSlideIndex-1].alt;
+        }
+
+        function showVideoSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("videoSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {videoSlideIndex = 1}
+            if (n < 1) {videoSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[videoSlideIndex-1].style.display = "block";
+            dots[videoSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[videoSlideIndex-1].alt;
         }
     </script>
 </div>
