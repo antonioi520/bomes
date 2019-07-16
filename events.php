@@ -133,7 +133,7 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Sushi Night Con El Ninja</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Hosted by Chicho Comedy.
+                        Hosted by Chicho Comedy at Mi Alma Restaurant.
                         <br><br>
                         <strong>Date: Friday, August 16th</strong><br>
                         <strong>Start: 4pm</strong><br>
@@ -156,7 +156,7 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Ninja Brunch</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Hosted by Chicho Comedy.
+                        Hosted by Chicho Comedy at Mi Alma Restaurant.
                         <br><br>
                         <strong>Date: Sunday, August 18th</strong><br>
                         <strong>Start: 12pm</strong><br>
