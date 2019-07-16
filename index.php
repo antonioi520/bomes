@@ -177,7 +177,7 @@
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Location</h4>
                         <p>1017 Broad Street</p><br>
-                        <p>Providence, RI 02907</p>
+                        <p>Providence, RI 02905</p>
                     </div>
 
                 </div>
