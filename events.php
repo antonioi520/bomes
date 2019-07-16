@@ -72,7 +72,14 @@
         <div class="section-title-divider" style="width:300px;"></div>
     </div>
 
-    <div class="carousel1" data-gap="20" data-bfc style="width:100%;height:100%;">
+    <div class="carousel12">
+        <nav>
+            <button class="nav prev" onclick="switchToRotatingView()">Rotating</button>
+            <button class="nav next" onclick="switchToNormalView()">Normal</button>
+        </nav>
+    </div>
+
+    <div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
             <img src="img/cards/card1.png" alt="" >
             <img src="img/cards/card2.png" alt="" >
@@ -90,7 +97,7 @@
         </nav>
     </div>
 
-    <div class="row" style="display:inline;">
+    <div class="row" style="display:none;" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
@@ -144,7 +151,7 @@
             </video>
         </center>
     </div>-->
-    <div class="row" style="display:inline;">
+    <div class="row" id="normalDiv2" style="display:none;">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
@@ -277,6 +284,24 @@
             figure.style.transform = `rotateY(${imageIndex * -theta}rad)`;
         }
 
+    }
+</script>
+
+<script>
+    var normal = document.getElementById("normalDiv");
+    var normal2 = document.getElementById("normalDiv2");
+    var rotating = document.getElementById("rotatingDiv");
+
+
+    function switchToNormalView() {
+        normal.style.display = "inline";
+        normal2.style.display = "inline";
+        rotating.style.display = "none";
+    }
+    function switchToRotatingView() {
+        normal.style.display = "none";
+        normal2.style.display = "none";
+        rotating.style.display = "flex";
     }
 </script>
 <?php include("views/footer.html")?>

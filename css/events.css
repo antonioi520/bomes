@@ -142,3 +142,21 @@
     letter-spacing: 1px;
     padding: 5px 10px;
 }
+
+/*Rotating/Normal button style*/
+.carousel12 nav {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0;
+}
+.carousel12 nav button {
+    flex: 0 0 auto;
+    margin: 0 5px;
+    cursor: pointer;
+    color: goldenrod;
+    background: white;
+    font-weight: bold;
+    border: 1px solid;
+    letter-spacing: 1px;
+    padding: 5px 10px;
+}
