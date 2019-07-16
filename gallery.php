@@ -85,10 +85,10 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
             </div>
             <div class="column">
                 <img id="galleryImg" src="img/TheaterThumbs/Concert-9.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(3)" class="hover-shadow cursor">
@@ -118,10 +118,10 @@
                 <img id="galleryImg" src="img/TheaterThumbs/concert-45.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(11)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -246,10 +246,10 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/v1_event1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
@@ -372,12 +372,12 @@
 
             <div class="interiorTSlides">
                 <div class="numbertext">1 / 13</div>
-                <img id="interiorImg" src="img/TheaterInterior/Concert-2.jpg" style="width:100%">
+                <img id="interiorImg" src="img/TheaterInterior/concert-46.jpg" style="width:100%">
             </div>
 
             <div class="interiorTSlides">
                 <div class="numbertext">2 / 13</div>
-                <img id="interiorImg" src="img/TheaterInterior/Concert-7.jpg" style="width:100%">
+                <img id="interiorImg" src="img/TheaterInterior/DSC_0895.jpg" style="width:100%">
             </div>
 
             <div class="interiorTSlides">
@@ -427,12 +427,12 @@
 
             <div class="interiorTSlides">
                 <div class="numbertext">12 / 13</div>
-                <img id="interiorImg" src="img/TheaterInterior/concert-46.jpg" style="width:100%">
+                <img id="interiorImg" src="img/TheaterInterior/Concert-2.jpg" style="width:100%">
             </div>
 
             <div class="interiorTSlides">
                 <div class="numbertext">13 / 13</div>
-                <img id="interiorImg" src="img/TheaterInterior/DSC_0895.jpg" style="width:100%">
+                <img id="interiorImg" src="img/TheaterInterior/Concert-7.jpg" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusInteriorTSlides(-1)">&#10094;</a>

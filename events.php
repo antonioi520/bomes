@@ -68,32 +68,23 @@
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
         <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:goldenrod">Events</strong></h1>
-        <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us</h5>
+        <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us.</h5>
         <div class="section-title-divider" style="width:300px;"></div>
-    </div>
-    <div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
-        <center>
-            <video id="video" style="margin-bottom: 30px" controls>
-                <source src="vid/event_video2.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-            <!--img src="img/logo.png" style="padding-bottom: 200px;" class="eventHeaderImage""-->
-        </center>
     </div>
 
     <div class="row" style="display:inline;">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event3.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event4.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Varon De La Bachata</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">Music by DJ Travieso
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Fiesta Dominicana</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Cristian La Voz Y Los Rebeldes Del Tipico <br> With DJ Riggs, DJ Bently, DJ Chombo and DJ Mambo.
                         <br><br>
-                        <strong>Date: June 28th</strong><br>
-                        <strong>Tickets: $30</strong><br>
-                        <strong>Start: 9pm</strong><br>
-                        <strong>End: 1am</strong><br>
+                        <strong>Date: Sunday, August 11th</strong><br>
+                        <strong>Start: 10am</strong><br>
+                        <strong>End: 8pm</strong><br>
                     </p>
 
                 </div>
@@ -121,12 +112,12 @@
 
 <div class="container">
 
-    <hr style="margin-bottom:0px;">
+    <!--hr style="margin-bottom:0px;">
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
         <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our past <strong style="color:goldenrod">Events</strong></h1>
         <div class="section-title-divider" style="width:300px;"></div>
-    </div>
+    </div-->
     <!--<div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
         <center>
             <video id="video" style="margin-bottom: 30px" controls>
@@ -138,15 +129,15 @@
     <div class="row" style="display:inline;">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event1.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Sushi Night Con El Ninja</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Hosted by Chicho Comedy at Mi Alma Restaurant.
                         <br><br>
-                        <strong>Date: June 23rd</strong><br>
-                        <strong>Tickets: $15</strong><br>
+                        <strong>Date: Friday, August 16th</strong><br>
                         <strong>Start: 4pm</strong><br>
-                    <small class=" d-flex justify-content-center">Formal Attire Preferred</small>
+                        <strong>End: 11pm</strong><br>
                     </p>
 
                 </div>
@@ -161,15 +152,15 @@
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event2.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Miss Dominican Republic 2019</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">The Coronation Ceremony of Miss Dominican Republic of Rhode Island 2019 & the presentation of Carnavalito by Emerson Brito
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Ninja Brunch</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Hosted by Chicho Comedy at Mi Alma Restaurant.
                         <br><br>
-                        <strong>Date: June 23rd</strong><br>
-                        <strong>Tickets: $15</strong><br>
-                        <strong>Start: 4pm</strong><br>
-                        <small class=" d-flex justify-content-center">Formal Attire Preferred</small>
+                        <strong>Date: Sunday, August 18th</strong><br>
+                        <strong>Start: 12pm</strong><br>
+                        <strong>End: 10pm</strong><br>
                     </p>
 
                 </div>
