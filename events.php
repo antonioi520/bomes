@@ -78,7 +78,7 @@
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event4.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Cristian La Voz Y Los Rebeldes Del Tipico</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Cristian La Voz <br> Y Los Rebeldes Del Tipico</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">With DJ Riggs, DJ Bently, DJ Chombo and DJ Mambo.
                         <br><br>
                         <strong>Date: Sunday, August 11th</strong><br>
