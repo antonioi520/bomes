@@ -111,6 +111,13 @@
     #rotatingDiv {
         display: none;
     }
+
+    .carousel12 nav {
+        display: none;
+    }
+    .carousel12 nav button {
+        display: none;
+    }
 }
 
 .carousel1 {
