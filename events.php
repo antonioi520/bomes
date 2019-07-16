@@ -68,7 +68,7 @@
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
         <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:goldenrod">Events</strong></h1>
-        <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us</h5>
+        <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us.</h5>
         <div class="section-title-divider" style="width:300px;"></div>
     </div>
 
