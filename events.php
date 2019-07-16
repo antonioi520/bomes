@@ -89,12 +89,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
             </div>
             <div class="col-md-3"></div>
@@ -141,12 +141,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
@@ -163,12 +163,12 @@
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
 
                 <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
                     <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02907</small>
                 </div>
             </div>
         </div>
