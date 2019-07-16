@@ -78,8 +78,9 @@
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event4.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Cristian La Voz <br> Y Los Rebeldes Del Tipico</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">With DJ Riggs, DJ Bently, DJ Chombo and DJ Mambo.
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Fiesta Dominicana</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Cristian La Voz Y Los Rebeldes Del Tipico <br> With DJ Riggs, DJ Bently, DJ Chombo and DJ Mambo.
                         <br><br>
                         <strong>Date: Sunday, August 11th</strong><br>
                         <strong>Start: 10am</strong><br>
@@ -131,7 +132,8 @@
                 <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Sushi Night Con El Ninja</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">Hosted by Chicho Comedy.
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Hosted by Chicho Comedy.
                         <br><br>
                         <strong>Date: Friday, August 16th</strong><br>
                         <strong>Start: 4pm</strong><br>
@@ -153,7 +155,8 @@
                 <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Ninja Brunch</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">Hosted by Chicho Comedy.
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Hosted by Chicho Comedy.
                         <br><br>
                         <strong>Date: Sunday, August 18th</strong><br>
                         <strong>Start: 12pm</strong><br>
