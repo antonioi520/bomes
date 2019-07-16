@@ -246,10 +246,10 @@
     <div class="gallery-border">
         <div class="row">
             <div class="column">
-                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/v1_event1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
             </div>
             <div class="column">
-                <img id="galleryImg" src="img/v1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
+                <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
             </div>
         </div>
     </div>
