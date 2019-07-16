@@ -40,6 +40,15 @@
     width: 640px;
     height: 352px;
 }
+
+#normalDiv, #normalDiv2 {
+    display: none;
+}
+
+#rotatingDiv {
+    display: flex;
+}
+
 @media (max-width: 896px) {
     #hero{
         //left:40px;
@@ -94,6 +103,14 @@
     #content-mobile {
         display: block;
     }
+
+    #normalDiv, #normalDiv2 {
+        display: inline;
+    }
+    
+    #rotatingDiv {
+        display: none;
+    }
 }
 
 .carousel1 {
@@ -138,6 +155,24 @@
     cursor: pointer;
     color: #333;
     background: none;
+    border: 1px solid;
+    letter-spacing: 1px;
+    padding: 5px 10px;
+}
+
+/*Rotating/Normal button style*/
+.carousel12 nav {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0;
+}
+.carousel12 nav button {
+    flex: 0 0 auto;
+    margin: 0 5px;
+    cursor: pointer;
+    color: goldenrod;
+    background: white;
+    font-weight: bold;
     border: 1px solid;
     letter-spacing: 1px;
     padding: 5px 10px;
