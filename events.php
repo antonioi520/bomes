@@ -97,7 +97,7 @@
         </nav>
     </div>
 
-    <div class="row" style="display:none;" id="normalDiv">
+    <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
@@ -151,7 +151,7 @@
             </video>
         </center>
     </div>-->
-    <div class="row" id="normalDiv2" style="display:none;">
+    <div class="row" id="normalDiv2">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">

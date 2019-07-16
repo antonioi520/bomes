@@ -40,6 +40,15 @@
     width: 640px;
     height: 352px;
 }
+
+#normalDiv, #normalDiv2 {
+    display: none;
+}
+
+#rotatingDiv {
+    display: flex;
+}
+
 @media (max-width: 896px) {
     #hero{
         //left:40px;
@@ -93,6 +102,14 @@
 
     #content-mobile {
         display: block;
+    }
+
+    #normalDiv, #normalDiv2 {
+        display: inline;
+    }
+    
+    #rotatingDiv {
+        display: none;
     }
 }
 
