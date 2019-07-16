@@ -168,19 +168,26 @@
 }
 
 /*Rotating/Normal button style*/
-.carousel12 nav {
-    display: flex;
-    justify-content: center;
-    margin: 20px 0 0;
-}
-.carousel12 nav button {
-    flex: 0 0 auto;
-    margin: 0 5px;
-    cursor: pointer;
-    color: goldenrod;
-    background: white;
+
+#viewButton{
+     transition: 0.5s;
+     width:90px;
+     border: 2px solid goldenrod;
+     background-color: white;
+     /*background-color: #5f2a5e; purple hex from menu image*/
+     color:goldenrod;
+     font-weight: bold;
+     padding: 5px 5px 5px 5px;
+     text-decoration: none;
+ }
+#viewButton:hover{
+    transition: 0.5s;
+    width:90px;
+    border: 2px solid goldenrod;
+    background-color: goldenrod;
+    /*background-color: #5f2a5e; purple hex from menu image*/
+    color:white;
     font-weight: bold;
-    border: 1px solid;
-    letter-spacing: 1px;
-    padding: 5px 10px;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
 }
