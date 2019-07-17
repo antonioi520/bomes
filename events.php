@@ -65,19 +65,19 @@
 
 <div class="container">
 <br><br><br>
+    <div id="top"></div>
     <div class="col-md-6"></div>
     <div class="row" style="display: inline;padding-top: -10px;" >
         <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">Our upcoming <strong style="color:goldenrod">Events</strong></h1>
         <h5 class="" style="text-align: center;font-size: 17px;">Celebrate your next special occasion with us.</h5>
-        <div class="section-title-divider" style="width:300px;"></div>
+        <div class="section-title-divider" style="width:300px;margin-bottom: 0"></div>
     </div>
 
-    <div class="carousel12">
-        <nav>
-            <button class="nav prev" onclick="switchToRotatingView()">Rotating</button>
-            <button class="nav next" onclick="switchToNormalView()">Normal</button>
-        </nav>
-    </div>
+    <center>
+        <p style="font-weight: bold;margin-bottom: 5px;">View Style</p>
+        <a href="#top" id="viewButton" onclick="switchToRotatingView()">Rotating</a>
+        <a href="#top" id="viewButton" onclick="switchToNormalView()">Normal</a>
+    </center>
 
     <div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
@@ -207,85 +207,7 @@
 <br id="content-desktop">
 
 
-<script>
-    window.addEventListener('load', () => {
-        var
-            carousels = document.querySelectorAll('.carousel1')
-        ;
-
-        for (var i = 0; i < carousels.length; i++) {
-            carousel(carousels[i]);
-        }
-    });
-
-    function carousel(root) {
-        var
-            figure = root.querySelector('figure'),
-            nav = root.querySelector('nav'),
-            images = figure.children,
-            n = images.length,
-            gap = root.dataset.gap || 0,
-            bfc = 'bfc' in root.dataset,
-
-            theta =  2 * Math.PI / n,
-            currImage = 0
-        ;
-
-        setupCarousel(n, parseFloat(getComputedStyle(images[0]).width));
-        window.addEventListener('resize', () => {
-            setupCarousel(n, parseFloat(getComputedStyle(images[0]).width))
-        });
-
-        setupNavigation();
-
-        function setupCarousel(n, s) {
-            var
-                apothem = s / (2 * Math.tan(Math.PI / n))
-            ;
-
-            figure.style.transformOrigin = `50% 50% ${- apothem}px`;
-
-            for (var i = 0; i < n; i++)
-                images[i].style.padding = `${gap}px`;
-            for (i = 1; i < n; i++) {
-                images[i].style.transformOrigin = `50% 50% ${- apothem}px`;
-                images[i].style.transform = `rotateY(${i * theta}rad)`;
-            }
-            if (bfc)
-                for (i = 0; i < n; i++)
-                    images[i].style.backfaceVisibility = 'hidden';
-
-            rotateCarousel(currImage);
-        }
-
-        function setupNavigation() {
-            nav.addEventListener('click', onClick, true);
-
-            function onClick(e) {
-                e.stopPropagation();
-
-                var t = e.target;
-                if (t.tagName.toUpperCase() != 'BUTTON')
-                    return;
-
-                if (t.classList.contains('next')) {
-                    currImage++;
-                }
-                else {
-                    currImage--;
-                }
-
-                rotateCarousel(currImage);
-            }
-
-        }
-
-        function rotateCarousel(imageIndex) {
-            figure.style.transform = `rotateY(${imageIndex * -theta}rad)`;
-        }
-
-    }
-</script>
+<script src="js/test.js"></script>
 
 <script>
     var normal = document.getElementById("normalDiv");
