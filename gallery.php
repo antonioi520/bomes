@@ -28,6 +28,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/css.css" rel="stylesheet">
     <link href="css/gallery.css" rel="stylesheet">
+    <link href="css/mobile.css" rel="stylesheet">
 <!--    <link href="css/menu.css" rel="stylesheet">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
@@ -44,7 +45,7 @@
 
 <?php include("views/nav_pages.html")?>
 <br>
-<div class="headerwrapper">
+<div class="headerwrapper" id="content-desktop896">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -60,6 +61,15 @@
             </div>
         </div>
     </div>
+</div>
+
+
+<div class="container" id="content-mobile896">
+    <center>
+        <img src="img/logoT.png" style="height:200px;width:300px;object-fit: contain;">
+    </center>
+
+    <hr style="margin-bottom:0px;">
 </div>
 
 <div class="container wow fadeInUp">

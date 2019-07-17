@@ -44,23 +44,34 @@
 
 <?php include("views/nav_pages.html")?>
 <br>
-<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:710px;filter:brightness(35%) grayscale(50%);object-fit: cover">
-            <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
-                <center>
-                    <br><br><br><br><br><br>
-                    <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
-                </center>
-<!--                <center>-->
-<!--                    <div class="eventHeaderBox">-->
-<!--                        <h1 class="eventHeaderText">Events</h1>-->
-<!--                    </div>-->
-<!--                </center>-->
+<div id="content-desktop896">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="img/Events/Optimo%20Concert-25.jpg" alt="Third slide" style="height:710px;filter:brightness(35%) grayscale(50%);object-fit: cover">
+                <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
+                    <center>
+                        <br><br><br><br><br><br>
+                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
+                    </center>
+                    <!--                <center>-->
+                    <!--                    <div class="eventHeaderBox">-->
+                    <!--                        <h1 class="eventHeaderText">Events</h1>-->
+                    <!--                    </div>-->
+                    <!--                </center>-->
+                </div>
             </div>
         </div>
     </div>
+</div>
+
+
+<div class="container" id="content-mobile896">
+    <center>
+        <img src="img/logoT.png" style="height:200px;width:300px;object-fit: contain;">
+    </center>
+
+    <hr style="margin-bottom:0px;">
 </div>
 
 <div class="container">

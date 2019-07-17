@@ -47,7 +47,7 @@
 <?php include("views/nav_pages.html")?>
 
 
-<div class="headerwrapper">
+<div class="headerwrapper" id="content-desktop896">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -65,6 +65,15 @@
     </div>
 </div>
 
+<br id="content-mobile896">
+
+<div class="container" id="content-mobile896">
+    <center>
+        <img src="img/logoT.png" style="height:200px;width:300px;object-fit: contain;">
+    </center>
+
+    <hr style="margin-bottom:0px;">
+</div>
 
 <!--contact-->
 <section id="contact">
