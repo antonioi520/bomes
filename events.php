@@ -74,7 +74,7 @@
     </div>
 
     <center>
-        <p style="font-weight: bold;margin-bottom: 5px;">View Style</p>
+        <p id="content-desktop" style="font-weight: bold;margin-bottom: 5px;">View Style</p>
         <a href="#top" id="viewButton" onclick="switchToRotatingView()">Rotating</a>
         <a href="#top" id="viewButton" onclick="switchToNormalView()">Normal</a>
     </center>
