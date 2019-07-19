@@ -75,7 +75,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) &
         exit;
     }*/
 
-    $email_message = "Form details below.\n\n";
+    $email_message = "Contact Form details below.\n\n";
 
     function clean_string($string)
     {
