@@ -477,193 +477,193 @@
         <div class="modal-content">
 
             <div class="eventSlides">
-                <div class="numbertext">1 / 19</div>
+                <div class="numbertext">1 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">2 / 19</div>
+                <div class="numbertext">2 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">3 / 19</div>
+                <div class="numbertext">3 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">4 / 19</div>
+                <div class="numbertext">4 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">5 / 19</div>
+                <div class="numbertext">5 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">6 / 19</div>
+                <div class="numbertext">6 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">7 / 19</div>
+                <div class="numbertext">7 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">8 / 19</div>
+                <div class="numbertext">8 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">9 / 19</div>
+                <div class="numbertext">9 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">10 / 19</div>
+                <div class="numbertext">10 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event1.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">11 / 19</div>
+                <div class="numbertext">11 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event2.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">12 / 19</div>
+                <div class="numbertext">12 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event3.jpeg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">13 / 19</div>
+                <div class="numbertext">13 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/3.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">14 / 19</div>
+                <div class="numbertext">14 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/4.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">15 / 19</div>
+                <div class="numbertext">15 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/5.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">16 / 19</div>
+                <div class="numbertext">16 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/6.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">17 / 19</div>
+                <div class="numbertext">17 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/7.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">18 / 19</div>
+                <div class="numbertext">18 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/8.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">19 / 19</div>
+                <div class="numbertext">19 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/9.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">20 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/10.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/10.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">21 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/11.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/11.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">22 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/12.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/12.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">23 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/13.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/13.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">24 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/14.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/14.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">25 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/15.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/15.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">26 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/16.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/16.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">27 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/17.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/17.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">28 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/18.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/18.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">29 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/19.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/19.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">30 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/20.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/20.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">31 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/21.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/21.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">32 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/22.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/22.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">33 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/23.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/23.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">34 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/24.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/24.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">35 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/25.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/25.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">36 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/26.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/26.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">37 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/27.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/27.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">38 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/28.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/28.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
@@ -728,7 +728,7 @@
 
             <div class="eventSlides">
                 <div class="numbertext">51 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/41.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/41.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
@@ -778,22 +778,22 @@
 
             <div class="eventSlides">
                 <div class="numbertext">61 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/51.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/51.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">62 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/52.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/52.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">63 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/53.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/53.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">64 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/54.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/54.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
@@ -803,42 +803,42 @@
 
             <div class="eventSlides">
                 <div class="numbertext">66 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/56.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/56.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">67 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/57.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/57.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">68 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/58.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/58.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">69 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/59.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/59.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">70 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/60.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/60.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">71 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/61.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/61.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">72 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/62.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/62.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
                 <div class="numbertext">73 / 73</div>
-                <img class="demo cursor" id="galleryImg" src="img/Events/63.jpg" style="width:100%" alt="El Varon De La Bachata">
+                <img class="demo cursor" id="galleryImg" src="img/Events/63.jpg" style="width:100%" alt="">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
