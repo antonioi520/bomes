@@ -247,6 +247,189 @@
             <div class="column">
                 <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
             </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(13)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(14)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(15)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(16)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(17)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(18)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(19)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(20)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(21)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(22)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(23)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(24)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(25)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(26)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(27)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(28)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(29)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(30)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(31)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(32)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(33)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(34)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(35)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(36)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(37)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(38)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(39)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(40)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(41)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(42)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(43)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(44)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(45)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(46)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(47)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(48)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(49)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(50)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(51)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(52)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(53)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(54)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(55)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(56)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(57)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(58)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(59)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(60)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(61)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(62)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(63)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(64)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(65)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(66)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(67)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(68)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(69)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(70)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(71)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(72)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
+            </div>
         </div>
     </div>
 
@@ -456,63 +639,368 @@
         <div class="modal-content">
 
             <div class="eventSlides">
-                <div class="numbertext">1 / 12</div>
+                <div class="numbertext">1 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">2 / 12</div>
+                <div class="numbertext">2 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">3 / 12</div>
+                <div class="numbertext">3 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">4 / 12</div>
+                <div class="numbertext">4 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">5 / 12</div>
+                <div class="numbertext">5 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">6 / 12</div>
+                <div class="numbertext">6 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">7 / 12</div>
+                <div class="numbertext">7 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">8 / 12</div>
+                <div class="numbertext">8 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">9 / 12</div>
+                <div class="numbertext">9 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">10 / 12</div>
+                <div class="numbertext">10 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event1.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">11 / 12</div>
+                <div class="numbertext">11 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event2.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">12 / 12</div>
+                <div class="numbertext">12 / 73</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event3.jpeg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">13 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/3.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">14 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/4.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">15 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/5.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">16 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/6.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">17 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/7.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">18 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/8.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">19 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/9.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">20 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/10.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">21 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/11.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">22 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/12.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">23 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/13.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">24 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/14.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">25 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/15.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">26 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/16.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">27 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/17.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">28 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/18.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">29 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/19.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">30 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/20.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">31 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/21.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">32 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/22.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">33 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/23.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">34 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/24.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">35 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/25.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">36 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/26.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">37 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/27.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">38 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/28.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">39 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/29.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">40 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/30.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">41 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/31.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">42 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/32.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">43 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/33.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">44 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/34.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">45 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/35.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">46 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/36.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">47 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/37.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">48 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/38.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">49 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/39.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">50 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/40.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">51 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/41.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">52 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/42.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">53 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/43.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">54 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/44.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">55 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/45.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">56 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/46.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">57 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/47.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">58 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/48.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">59 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/49.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">60 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/50.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">61 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/51.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">62 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/52.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">63 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/53.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">64 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/54.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">65 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/55.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">66 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/56.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">67 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/57.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">68 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/58.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">69 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/59.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">70 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/60.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">71 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/61.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">72 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/62.jpg" style="width:100%" alt="">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">73 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/63.jpg" style="width:100%" alt="">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
