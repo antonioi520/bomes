@@ -571,6 +571,276 @@
                 <img class="demo cursor" id="galleryImg" src="img/Events/9.jpg" style="width:100%" alt="">
             </div>
 
+            <div class="eventSlides">
+                <div class="numbertext">20 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/10.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">21 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/11.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">22 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/12.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">23 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/13.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">24 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/14.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">25 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/15.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">26 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/16.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">27 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/17.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">28 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/18.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">29 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/19.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">30 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/20.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">31 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/21.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">32 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/22.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">33 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/23.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">34 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/24.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">35 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/25.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">36 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/26.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">37 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/27.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">38 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/28.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">39 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/29.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">40 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/30.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">41 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/31.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">42 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/32.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">43 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/33.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">44 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/34.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">45 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/35.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">46 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/36.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">47 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/37.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">48 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/38.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">49 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/39.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">50 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/40.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">51 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/41.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">52 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/42.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">53 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/43.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">54 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/44.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">55 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/45.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">56 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/46.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">57 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/47.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">58 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/48.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">59 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/49.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">60 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/50.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">61 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/51.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">62 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/52.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">63 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/53.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">64 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/54.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">65 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/55.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">66 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/56.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">67 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/57.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">68 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/58.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">69 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/59.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">70 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/60.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">71 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/61.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">72 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/62.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">73 / 73</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/63.jpg" style="width:100%" alt="El Varon De La Bachata">
+            </div>
+
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
 
