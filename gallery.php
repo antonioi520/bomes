@@ -950,6 +950,22 @@
         <div class="column">
             <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-173.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(246)" class="hover-shadow cursor">
         </div>
+
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-4thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(247)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-5thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(248)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-8thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(249)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-10thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(250)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Concert-26thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(251)" class="hover-shadow cursor">
+            </div>
         </div>
     </div>
 
@@ -1162,1234 +1178,1257 @@
         <div class="modal-content">
 
             <div class="eventSlides">
-                <div class="numbertext">1 / 246</div>
+                <div class="numbertext">1 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-15.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">2 / 246</div>
+                <div class="numbertext">2 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-16.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">3 / 246</div>
+                <div class="numbertext">3 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-29.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">4 / 246</div>
+                <div class="numbertext">4 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Concert-31.jpg" style="width:100%">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">5 / 246</div>
+                <div class="numbertext">5 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-24.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">6 / 246</div>
+                <div class="numbertext">6 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-25.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">7 / 246</div>
+                <div class="numbertext">7 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-26.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">8 / 246</div>
+                <div class="numbertext">8 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-27.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">9 / 246</div>
+                <div class="numbertext">9 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Optimo%20Concert-28.jpg" style="width:100%" alt="Optimo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">10 / 246</div>
+                <div class="numbertext">10 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event1.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">11 / 246</div>
+                <div class="numbertext">11 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event2.JPG" style="width:100%" alt="Miss Dominican Republic 2019">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">12 / 246</div>
+                <div class="numbertext">12 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/event3.jpeg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">13 / 246</div>
+                <div class="numbertext">13 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/3.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">14 / 246</div>
+                <div class="numbertext">14 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/4.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">15 / 246</div>
+                <div class="numbertext">15 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/5.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">16 / 246</div>
+                <div class="numbertext">16 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/6.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">17 / 246</div>
+                <div class="numbertext">17 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/7.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">18 / 246</div>
+                <div class="numbertext">18 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/8.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">19 / 246</div>
+                <div class="numbertext">19 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/9.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">20 / 246</div>
+                <div class="numbertext">20 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/10.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">21 / 246</div>
+                <div class="numbertext">21 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/11.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">22 / 246</div>
+                <div class="numbertext">22 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/12.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">23 / 246</div>
+                <div class="numbertext">23 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/13.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">24 / 246</div>
+                <div class="numbertext">24 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/14.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">25 / 246</div>
+                <div class="numbertext">25 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/15.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">26 / 246</div>
+                <div class="numbertext">26 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/16.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">27 / 246</div>
+                <div class="numbertext">27 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/17.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">28 / 246</div>
+                <div class="numbertext">28 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/18.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">29 / 246</div>
+                <div class="numbertext">29 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/19.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">30 / 246</div>
+                <div class="numbertext">30 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/20.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">31 / 246</div>
+                <div class="numbertext">31 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/21.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">32 / 246</div>
+                <div class="numbertext">32 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/22.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">33 / 246</div>
+                <div class="numbertext">33 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/23.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">34 / 246</div>
+                <div class="numbertext">34 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/24.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">35 / 246</div>
+                <div class="numbertext">35 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/25.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">36 / 246</div>
+                <div class="numbertext">36 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/26.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">37 / 246</div>
+                <div class="numbertext">37 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/27.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">38 / 246</div>
+                <div class="numbertext">38 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/28.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">39 / 246</div>
+                <div class="numbertext">39 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/29.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">40 / 246</div>
+                <div class="numbertext">40 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/30.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">41 / 246</div>
+                <div class="numbertext">41 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/31.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">42 / 246</div>
+                <div class="numbertext">42 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/32.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">43 / 246</div>
+                <div class="numbertext">43 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/33.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">44 / 246</div>
+                <div class="numbertext">44 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/34.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">45 / 246</div>
+                <div class="numbertext">45 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/35.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">46 / 246</div>
+                <div class="numbertext">46 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/36.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">47 / 246</div>
+                <div class="numbertext">47 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/37.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">48 / 246</div>
+                <div class="numbertext">48 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/38.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">49 / 246</div>
+                <div class="numbertext">49 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/39.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">50 / 246</div>
+                <div class="numbertext">50 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/40.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">51 / 246</div>
+                <div class="numbertext">51 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/41.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">52 / 246</div>
+                <div class="numbertext">52 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/42.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">53 / 246</div>
+                <div class="numbertext">53 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/43.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">54 / 246</div>
+                <div class="numbertext">54 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/44.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">55 / 246</div>
+                <div class="numbertext">55 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/45.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">56 / 246</div>
+                <div class="numbertext">56 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/46.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">57 / 246</div>
+                <div class="numbertext">57 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/47.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">58 / 246</div>
+                <div class="numbertext">58 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/48.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">59 / 246</div>
+                <div class="numbertext">59 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/49.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">60 / 246</div>
+                <div class="numbertext">60 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/50.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">61 / 246</div>
+                <div class="numbertext">61 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/51.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">62 / 246</div>
+                <div class="numbertext">62 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/52.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">63 / 246</div>
+                <div class="numbertext">63 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/53.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">64 / 246</div>
+                <div class="numbertext">64 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/54.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">65 / 246</div>
+                <div class="numbertext">65 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/55.jpg" style="width:100%" alt="El Varon De La Bachata">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">66 / 246</div>
+                <div class="numbertext">66 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/56.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">67 / 246</div>
+                <div class="numbertext">67 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/57.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">68 / 246</div>
+                <div class="numbertext">68 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/58.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">69 / 246</div>
+                <div class="numbertext">69 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/59.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">70 / 246</div>
+                <div class="numbertext">70 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/60.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">71 / 246</div>
+                <div class="numbertext">71 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/61.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">72 / 246</div>
+                <div class="numbertext">72 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/62.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">73 / 246</div>
+                <div class="numbertext">73 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/63.jpg" style="width:100%" alt="">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">74 / 246</div>
+                <div class="numbertext">74 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-1.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">75 / 246</div>
+                <div class="numbertext">75 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-2.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">76 / 246</div>
+                <div class="numbertext">76 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-3.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">77 / 246</div>
+                <div class="numbertext">77 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-4.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">78 / 246</div>
+                <div class="numbertext">78 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-5.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">79 / 246</div>
+                <div class="numbertext">79 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-6.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">80 / 246</div>
+                <div class="numbertext">80 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-7.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">81 / 246</div>
+                <div class="numbertext">81 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-8.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">82 / 246</div>
+                <div class="numbertext">82 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-9.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">83 / 246</div>
+                <div class="numbertext">83 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-10.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">84 / 246</div>
+                <div class="numbertext">84 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-11.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">85 / 246</div>
+                <div class="numbertext">85 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-12.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">86 / 246</div>
+                <div class="numbertext">86 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-13.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">87 / 246</div>
+                <div class="numbertext">87 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-14.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">88 / 246</div>
+                <div class="numbertext">88 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-15.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">89 / 246</div>
+                <div class="numbertext">89 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-16.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">90 / 246</div>
+                <div class="numbertext">90 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-17.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">91 / 246</div>
+                <div class="numbertext">91 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-18.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">92 / 246</div>
+                <div class="numbertext">92 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-19.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">93 / 246</div>
+                <div class="numbertext">93 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-20.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">94 / 246</div>
+                <div class="numbertext">94 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-21.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">95 / 246</div>
+                <div class="numbertext">95 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-22.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">96 / 246</div>
+                <div class="numbertext">96 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-23.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">97 / 246</div>
+                <div class="numbertext">97 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-24.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">98 / 246</div>
+                <div class="numbertext">98 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-25.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">99 / 246</div>
+                <div class="numbertext">99 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-26.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">100 / 246</div>
+                <div class="numbertext">100 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-27.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">101 / 246</div>
+                <div class="numbertext">101 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-28.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">102 / 246</div>
+                <div class="numbertext">102 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-29.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">103 / 246</div>
+                <div class="numbertext">103 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-30.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">104 / 246</div>
+                <div class="numbertext">104 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-31.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">105 / 246</div>
+                <div class="numbertext">105 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-32.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">106 / 246</div>
+                <div class="numbertext">106 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-33.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">107 / 246</div>
+                <div class="numbertext">107 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-34.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">108 / 246</div>
+                <div class="numbertext">108 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-35.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">109 / 246</div>
+                <div class="numbertext">109 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-36.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">110 / 246</div>
+                <div class="numbertext">110 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-37.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">111 / 246</div>
+                <div class="numbertext">111 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-38.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">112 / 246</div>
+                <div class="numbertext">112 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-39.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">113 / 246</div>
+                <div class="numbertext">113 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-40.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">114 / 246</div>
+                <div class="numbertext">114 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-41.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">115 / 246</div>
+                <div class="numbertext">115 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-42.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">116 / 246</div>
+                <div class="numbertext">116 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-43.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">117 / 246</div>
+                <div class="numbertext">117 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-44.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">118 / 246</div>
+                <div class="numbertext">118 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-45.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">119 / 246</div>
+                <div class="numbertext">119 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-46.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">120 / 246</div>
+                <div class="numbertext">120 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-47.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">121 / 246</div>
+                <div class="numbertext">121 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-48.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">122 / 246</div>
+                <div class="numbertext">122 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-49.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">123 / 246</div>
+                <div class="numbertext">123 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-50.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">124 / 246</div>
+                <div class="numbertext">124 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-51.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">125 / 246</div>
+                <div class="numbertext">125 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-52.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">126 / 246</div>
+                <div class="numbertext">126 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-53.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">127 / 246</div>
+                <div class="numbertext">127 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-54.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">128 / 246</div>
+                <div class="numbertext">128 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-55.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">129 / 246</div>
+                <div class="numbertext">129 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-56.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">130 / 246</div>
+                <div class="numbertext">130 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-57.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">131 / 246</div>
+                <div class="numbertext">131 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-58.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">132 / 246</div>
+                <div class="numbertext">132 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-59.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">133 / 246</div>
+                <div class="numbertext">133 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-60.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">134 / 246</div>
+                <div class="numbertext">134 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-61.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">135 / 246</div>
+                <div class="numbertext">135 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-62.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">136 / 246</div>
+                <div class="numbertext">136 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-63.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">137 / 246</div>
+                <div class="numbertext">137 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-64.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">238 / 246</div>
+                <div class="numbertext">238 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-65.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">139 / 246</div>
+                <div class="numbertext">139 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-66.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">140 / 246</div>
+                <div class="numbertext">140 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-67.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">141 / 246</div>
+                <div class="numbertext">141 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-68.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">142 / 246</div>
+                <div class="numbertext">142 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-69.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">143 / 246</div>
+                <div class="numbertext">143 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-70.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">144 / 246</div>
+                <div class="numbertext">144 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-71.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">145 / 246</div>
+                <div class="numbertext">145 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-72.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">146 / 246</div>
+                <div class="numbertext">146 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-73.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">147 / 246</div>
+                <div class="numbertext">147 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-74.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">148 / 246</div>
+                <div class="numbertext">148 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-75.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">149 / 246</div>
+                <div class="numbertext">149 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-76.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">150 / 246</div>
+                <div class="numbertext">150 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-77.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">151 / 246</div>
+                <div class="numbertext">151 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-78.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">152 / 246</div>
+                <div class="numbertext">152 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-79.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">153 / 246</div>
+                <div class="numbertext">153 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-80.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">154 / 246</div>
+                <div class="numbertext">154 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-81.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">155 / 246</div>
+                <div class="numbertext">155 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-82.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">156 / 246</div>
+                <div class="numbertext">156 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-83.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">157 / 246</div>
+                <div class="numbertext">157 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-84.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">158 / 246</div>
+                <div class="numbertext">158 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-85.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">159 / 246</div>
+                <div class="numbertext">159 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-86.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">160 / 246</div>
+                <div class="numbertext">160 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-87.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">161 / 246</div>
+                <div class="numbertext">161 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-88.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">162 / 246</div>
+                <div class="numbertext">162 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-89.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">163 / 246</div>
+                <div class="numbertext">163 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-90.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">164 / 246</div>
+                <div class="numbertext">164 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-91.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">165 / 246</div>
+                <div class="numbertext">165 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-92.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">166 / 246</div>
+                <div class="numbertext">166 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-93.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">167 / 246</div>
+                <div class="numbertext">167 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-94.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">168 / 246</div>
+                <div class="numbertext">168 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-95.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">169 / 246</div>
+                <div class="numbertext">169 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-96.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">170 / 246</div>
+                <div class="numbertext">170 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-97.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">171 / 246</div>
+                <div class="numbertext">171 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-98.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">172 / 246</div>
+                <div class="numbertext">172 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-99.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">173 / 246</div>
+                <div class="numbertext">173 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-100.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">174 / 246</div>
+                <div class="numbertext">174 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-101.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">175 / 246</div>
+                <div class="numbertext">175 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-102.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">176 / 246</div>
+                <div class="numbertext">176 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-103.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">177 / 246</div>
+                <div class="numbertext">177 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-104.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">178 / 246</div>
+                <div class="numbertext">178 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-105.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">179 / 246</div>
+                <div class="numbertext">179 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-106.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">180 / 246</div>
+                <div class="numbertext">180 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-107.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">181 / 246</div>
+                <div class="numbertext">181 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-108.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">182 / 246</div>
+                <div class="numbertext">182 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-109.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">183 / 246</div>
+                <div class="numbertext">183 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-110.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">184 / 246</div>
+                <div class="numbertext">184 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-111.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">185 / 246</div>
+                <div class="numbertext">185 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-112.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">186 / 246</div>
+                <div class="numbertext">186 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-113.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">187 / 246</div>
+                <div class="numbertext">187 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-114.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">188 / 246</div>
+                <div class="numbertext">188 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-115.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">189 / 246</div>
+                <div class="numbertext">189 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-116.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">190 / 246</div>
+                <div class="numbertext">190 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-117.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">191 / 246</div>
+                <div class="numbertext">191 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-118.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">192 / 246</div>
+                <div class="numbertext">192 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-119.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">193 / 246</div>
+                <div class="numbertext">193 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-120.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">194 / 246</div>
+                <div class="numbertext">194 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-121.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">195 / 246</div>
+                <div class="numbertext">195 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-122.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">196 / 246</div>
+                <div class="numbertext">196 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-123.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">197 / 246</div>
+                <div class="numbertext">197 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-124.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">198 / 246</div>
+                <div class="numbertext">198 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-125.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">199 / 246</div>
+                <div class="numbertext">199 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-126.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">200 / 246</div>
+                <div class="numbertext">200 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-127.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">201 / 246</div>
+                <div class="numbertext">201 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-128.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">202 / 246</div>
+                <div class="numbertext">202 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-129.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">203 / 246</div>
+                <div class="numbertext">203 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-130.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">204 / 246</div>
+                <div class="numbertext">204 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-131.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">205 / 246</div>
+                <div class="numbertext">205 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-132.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">206 / 246</div>
+                <div class="numbertext">206 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-133.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">207 / 246</div>
+                <div class="numbertext">207 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-134.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">208 / 246</div>
+                <div class="numbertext">208 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-135.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">209 / 246</div>
+                <div class="numbertext">209 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-136.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">210 / 246</div>
+                <div class="numbertext">210 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-137.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">211 / 246</div>
+                <div class="numbertext">211 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-138.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">212 / 246</div>
+                <div class="numbertext">212 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-139.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">213 / 246</div>
+                <div class="numbertext">213 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-140.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">214 / 246</div>
+                <div class="numbertext">214 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-141.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">215 / 246</div>
+                <div class="numbertext">215 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-142.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">216 / 246</div>
+                <div class="numbertext">216 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-143.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">217 / 246</div>
+                <div class="numbertext">217 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-144.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">218 / 246</div>
+                <div class="numbertext">218 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-145.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">219 / 246</div>
+                <div class="numbertext">219 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-146.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">220 / 246</div>
+                <div class="numbertext">220 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-147.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">221 / 246</div>
+                <div class="numbertext">221 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-148.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">222 / 246</div>
+                <div class="numbertext">222 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-149.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">223 / 246</div>
+                <div class="numbertext">223 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-150.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">224 / 246</div>
+                <div class="numbertext">224 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-151.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">225 / 246</div>
+                <div class="numbertext">225 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-152.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">226 / 246</div>
+                <div class="numbertext">226 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-153.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">227 / 246</div>
+                <div class="numbertext">227 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-154.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">228 / 246</div>
+                <div class="numbertext">228 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-155.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">229 / 246</div>
+                <div class="numbertext">229 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-156.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">230 / 246</div>
+                <div class="numbertext">230 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-157.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">231 / 246</div>
+                <div class="numbertext">231 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-158.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">232 / 246</div>
+                <div class="numbertext">232 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-159.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">233 / 246</div>
+                <div class="numbertext">233 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-160.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">234 / 246</div>
+                <div class="numbertext">234 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-161.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">235 / 246</div>
+                <div class="numbertext">235 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-162.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">236 / 246</div>
+                <div class="numbertext">236 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-163.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">237 / 246</div>
+                <div class="numbertext">237 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-164.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">238 / 246</div>
+                <div class="numbertext">238 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-165.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">239 / 246</div>
+                <div class="numbertext">239 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-166.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">240 / 246</div>
+                <div class="numbertext">240 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-167.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">241 / 246</div>
+                <div class="numbertext">241 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-168.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">242 / 246</div>
+                <div class="numbertext">242 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-169.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">243 / 246</div>
+                <div class="numbertext">243 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-170.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">244 / 246</div>
+                <div class="numbertext">244 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-171.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">245 / 246</div>
+                <div class="numbertext">245 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-172.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
 
             <div class="eventSlides">
-                <div class="numbertext">246 / 246</div>
+                <div class="numbertext">246 / 251</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/Don%20Miguelo%20Concert-173.jpg" style="width:100%" alt="Don Miguelo Concert">
             </div>
+
+            <div class="eventSlides">
+                <div class="numbertext">247 / 251</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-4.jpg" style="width:100%" alt="Don Miguelo Concert">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">248 / 251</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-5.jpg" style="width:100%" alt="Don Miguelo Concert">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">249 / 251</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-8.jpg" style="width:100%" alt="Don Miguelo Concert">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">250 / 251</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-10.jpg" style="width:100%" alt="Don Miguelo Concert">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">251 / 251</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/Concert-26.jpg" style="width:100%" alt="Don Miguelo Concert">
+            </div>
+
+
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
