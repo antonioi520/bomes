@@ -430,6 +430,8 @@
             <div class="column">
                 <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
             </div>
+
+            <div class="column">
             <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(74)" class="hover-shadow cursor">
         </div>
         <div class="column">
