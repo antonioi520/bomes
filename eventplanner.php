@@ -71,6 +71,14 @@
     <hr style="margin-bottom:0px;">
 </div-->
 
+<div class="container">
+    <center>
+        <img src="img/eventplannerlogo.png" style="height:230px;width:100%;object-fit: contain;">
+    </center>
+</div>
+
+<hr style="margin-bottom:0px;">
+
 </div>
 <section id="about">
     <div class="container wow fadeInUp">
@@ -104,7 +112,7 @@
                     We incorporate timeless and elegant decor into every occasion, theme or milestone.
                     You will love personalized service, Small business attention to detail and world class execution!
                 </p>
-                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check out my Website:</h3>
+                <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Visit the Dulce Vida Bebe Website:</h3>
                 <a href="https://www.dulcevidabebe.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
