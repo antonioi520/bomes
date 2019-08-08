@@ -1220,7 +1220,7 @@
             <div class="column">
                 <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-74.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(325)" class="hover-shadow cursor">
             </div>
-            <div class="column"
+            <div class="column">
                 <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-75.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(326)" class="hover-shadow cursor">
             </div>
             <div class="column">
