@@ -92,17 +92,25 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/eventplanner1.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                <img src="img/eventplanner3.jpg" alt="" style="height:545px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/eventplanner1.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                    <img src="img/eventplanner3.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;">We believe creating your dream event should be fun, not frustrating!</h2>
+                <p class="about-text">
+                    DULCE VIDA BEBE realizes that each person is unique
+                    and in a different stage of the planning process. It is for this
+                    reason that we create custom proposals based on the
+                    following services. Please contact Dulce Vida Bebe directly
+                    so that we can discuss our services and learn more
+                    about your vision.
+                </p>
                 <p class="about-text">
                     Life is all about creating memories of those life events that shape our life experiences.
                     We cater to clients that are looking to have their special events be a memorable one.
@@ -110,7 +118,7 @@
                 <p class="about-text">
                     We offer the complete package to ensure that your entire event is executed flawlessly and beautifully.
                     We incorporate timeless and elegant decor into every occasion, theme or milestone.
-                    You will love personalized service, Small business attention to detail and world class execution!
+                    You will love our personalized service, small business, attention to detail and world class execution!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Visit the Dulce Vida Bebe Website:</h3>
                 <a href="https://www.dulcevidabebe.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
