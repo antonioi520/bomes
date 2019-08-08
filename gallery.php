@@ -995,6 +995,263 @@
 
     <br><br>
 
+    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Adolescentes Concert</h2>
+    <div class="gallery-border">
+        <div class="row">
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(253)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(254)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(255)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(256)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(257)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(258)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(259)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(260)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(261)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(262)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(263)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(264)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(265)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(266)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(267)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(268)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(269)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(270)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(271)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(272)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(273)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(274)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(275)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(276)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+            </div>
+            <div class="column">
+                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-83.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(334)" class="hover-shadow cursor">
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
     <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Videos</h2>
     <div class="gallery-border">
         <div class="row">
