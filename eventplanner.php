@@ -49,7 +49,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-14.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
+                <img src="img/eventplanner2.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
@@ -84,12 +84,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                <img src="img/eventplanner1.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                    <img src="img/eventplanner1.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
