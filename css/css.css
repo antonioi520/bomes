@@ -547,6 +547,15 @@ p {
         padding-left:15px;
     }
 }
+
+@media (max-width: 896px) {
+    .navdots {
+        display:none;
+    }
+    .navdots a{
+        display:none;
+    }
+}
 @media (max-width: 896px) {
     .footerDates{
         margin-left:12px;
