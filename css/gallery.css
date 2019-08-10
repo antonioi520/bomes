@@ -153,7 +153,7 @@
 
 #galleryVid {
     margin-bottom: 10px;
-    object-fit: scale-down;
+    object-fit: fill;
     max-height: 760px;
 }
 
@@ -308,7 +308,7 @@ img.hover-shadow {
 
     #galleryVid {
         margin-bottom: 2px;
-        object-fit: scale-down;
+        object-fit: fill;
         max-height: 255px;
     }
 
@@ -355,10 +355,9 @@ img.hover-shadow {
 
     #galleryVid {
         margin-bottom: 2px;
-        object-fit: scale-down;
+        object-fit: fill;
         max-height: 235px;
     }
-
 
     #interiorImg {
         margin-bottom: 0px;
@@ -403,7 +402,7 @@ img.hover-shadow {
 
     #galleryVid {
         margin-bottom: 2px;
-        object-fit: scale-down;
+        object-fit: fill;
         max-height: 215px;
     }
 

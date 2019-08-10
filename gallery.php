@@ -3063,41 +3063,61 @@
             <div class="videoSlides">
                 <div class="numbertext">1 / 4</div>
                 <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
-                <video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
+                <!--video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
                     <source src="vid/event_video.MP4" type="video/mp4">
                     Your browser does not support the video tag.
-                </video>
-                <p><center style="color: white;">Miss Dominican Republic 2019</center></p>
+                </video-->
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/yOjDvSpLArI?rel=0&amp;showinfo=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">Miss Dominican Republic 2019</center>
             </div>
 
             <div class="videoSlides">
                 <div class="numbertext">2 / 4</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
-                <video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
+                <!--video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
                     <source src="vid/event_video2.mp4" type="video/mp4">
                     Your browser does not support the video tag.
-                </video>
-                <p><center style="color: white;">El Varon De La Bachata</center></p>
+                </video-->
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/MoOaE8oNfzU?rel=0&amp;showinfo=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">El Varon De La Bachata</center>
             </div>
 
             <div class="videoSlides">
                 <div class="numbertext">3 / 4</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
-                <video id="galleryVid" title="Don Miguelo Concert" style="width:100%" controls>
+                <!--video id="galleryVid" title="Don Miguelo Concert" style="width:100%" controls>
                     <source src="vid/event_video3.mp4" type="video/mp4">
                     Your browser does not support the video tag.
-                </video>
-                <p><center style="color: white;">Don Miguelo Concert</center></p>
+                </video-->
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/Spb4DWDp9ts?rel=0&amp;showinfo=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">Don Miguelo Concert</center>
             </div>
 
             <div class="videoSlides">
                 <div class="numbertext">4 / 4</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
-                <video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
+                <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
                     Your browser does not support the video tag.
-                </video>
-                <p><center style="color: white;">Adolescentes Concert</center></p>
+                </video-->
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/uAkRHBR4FzY?rel=0&amp;showinfo=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">Adolescentes Concert</center>
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
