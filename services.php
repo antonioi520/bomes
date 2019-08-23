@@ -91,7 +91,7 @@
         <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:820px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:620px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
                 <br>
                 <br>
 <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
@@ -99,7 +99,7 @@
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/TheaterInterior/concert-43.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -123,7 +123,14 @@
 
 
 
-                <h2 class="about-title" style="margin-bottom: 5px;">Quinceañeras</h2>
+                <h2 class="about-title" style="margin-bottom: 5px;">Birthdays</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
+                    Celebrate your child's 1st birthday, Quinceañera, or Sweet 16 with us and create memories that last a lifetime!
+                </p>
+
+
+
+                <!--h2 class="about-title" style="margin-bottom: 5px;">Quinceañeras</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
                     Commemorate your daughter's 15th birthday with your family at Bomes Theatre!
                 </p>
@@ -133,14 +140,7 @@
                 <h2 class="about-title" style="margin-bottom: 5px;">Sweet 16</h2>
                 <p class="about-text" style="padding-left:3px;margin-bottom: 10px;">
                     Celebrate your child's 16th birthday with an extravagant party with assisted planning by our expert staff!
-                </p>
-
-
-
-                <h2 class="about-title" style="margin-bottom: 5px;">1st Birthdays</h2>
-                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Celebrate your child's 1st birthday with us and create memories that last a lifetime!
-                </p>
+                </p-->
 
 
 
@@ -166,7 +166,78 @@
     </div>
 </section>
 
+<!--==========================
+  Subscrbe Section
+  ============================-->
+<section id="subscribe">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="img/divider3.png" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
+            </div>
+        </div>
+    </div>
 </section>
+
+<section id="about">
+    <div class="container wow fadeInUp">
+        <div class="row">
+            <div class="col-md-12">
+                <center>
+                    <h1 class="" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 70px;color:black;margin-bottom: 10px;">Special Events</h1>
+                    <center>
+                        <div class="section-title-divider"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container about-container wow fadeInUp">
+        <br>
+        <div class="row">
+            <div class="col-lg-6 about-img" id="content-desktop896">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:400px;object-fit: cover;filter:brightness(90%) grayscale(0%)" id="aboutImg">
+                <br>
+                <br>
+                <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
+            </div>
+
+            <div class="col-lg-6 about-img" id="content-mobile896">
+                <center>
+                    <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                </center>
+            </div>
+
+            <div class="col-md-6 about-content">
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Live Performances</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
+                    Looking to book a live performance at The Bomes Theatre? Fill out our event booking form <a href="booking.php">here!</a>
+                </p>
+
+
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Business Events</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
+                    The Bomes Theatre has a skilled staff that can accommodate any of your company's needs to ensure
+                    a quality experience for you and your business.
+                </p>
+
+
+
+                <h2 class="about-title" style="margin-bottom: 5px;">Conventions</h2>
+                <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
+                    Our venue at The Bomes Theatre is perfectly equipped to host a convention for your business!
+                </p>
+
+
+                <br>
+
+                <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;padding-bottom: 9px;">Book an Event</h2></a>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <!--==========================
   Subscrbe Section
   ============================-->
