@@ -93,15 +93,15 @@
 
     <div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
-            <img src="img/cards/card1.png" alt="" >
-            <img src="img/cards/card2.png" alt="" >
-            <img src="img/cards/card3.png" alt="" >
-            <img src="img/cards/card1.png" alt="" >
-            <img src="img/cards/card2.png" alt="" >
-            <img src="img/cards/card3.png" alt="" >
-            <img src="img/cards/card1.png" alt="" >
-            <img src="img/cards/card2.png" alt="" >
-            <img src="img/cards/card3.png" alt="" >
+            <img src="img/cards/card4.png" alt="" >
+            <img src="img/cards/card5.png" alt="" >
+            <img src="img/cards/card4.png" alt="" >
+            <img src="img/cards/card5.png" alt="" >
+            <img src="img/cards/card4.png" alt="" >
+            <img src="img/cards/card5.png" alt="" >
+            <img src="img/cards/card4.png" alt="" >
+            <img src="img/cards/card5.png" alt="" >
+
         </figure>
         <nav>
             <button class="nav prev">Prev</button>
