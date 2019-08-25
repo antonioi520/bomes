@@ -194,7 +194,7 @@
         <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:400px;object-fit: cover;filter:brightness(90%) grayscale(0%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:400px;object-fit: cover;filter:brightness(70%) grayscale(20%)" id="aboutImg">
                 <br>
                 <br>
                 <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
@@ -210,7 +210,7 @@
 
                 <h2 class="about-title" style="margin-bottom: 5px;">Live Performances</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Looking to book a live performance at The Bomes Theatre? Fill out our event booking form <a href="booking.php">here!</a>
+                    Looking to book a live performance at The Bomes Theatre? Fill out our event booking form <a href="booking.php" style="text-decoration: underline">here!</a>
                 </p>
 
 
