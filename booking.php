@@ -386,7 +386,9 @@
                                 <option>Reception</option>
                                 <option>Conference</option>
                                 <option>Dinner</option>
-                                <option>Concert</option>
+                                <option>Concert/Live Performance</option>
+                                <option>Business Event</option>
+                                <option>Convention</option>
                                 <option>Other</option>
                             </select>
                             <div class="validation"></div>
