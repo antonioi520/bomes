@@ -8,7 +8,8 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
     && isset($_POST['event_desc']) && isset($_POST['attendees']) && isset($_POST['date'])
     && isset($_POST['hours_start']) && isset($_POST['hours_end'])) {
 
-    $email_to = "iguzman1525@gmail.com";
+    //$email_to = "iguzman1525@gmail.com";
+    $email_to = "lpm72896@gmail.com";
     $email_subject = "Bomes Theatre Booking - " . $_POST['event_name'];
 
     function died($error)
@@ -105,6 +106,14 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
     $email_message .= "Event Date (YYYY-MM-DD): " . clean_string($date) . "\n";
     $email_message .= "Event Start Time: " . clean_string($hours_start_str) . "\n";
     $email_message .= "Event End Time: " . clean_string($hours_end_str) . "\n";
+
+    if ($email_message == "Concert/Live Performance" || $email_message == "Business Event" || $email_message == "Convention")
+    {
+        $email_to = "younglubackup@gmail.com";
+    }
+    else {
+        $email_to = "lpm72896@gmail.com";
+    }
 
     // create email headers
     $headers = 'From: ' . $email_host . "\r\n" .
