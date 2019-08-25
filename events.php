@@ -110,7 +110,7 @@
     </div>
 
     <div class="row" id="normalDiv">
-        <div class="card-deck" style="width:80%;margin:auto;">
+        <!--div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event4.png" alt="Card image cap" style="height:400px;object-fit: contain;">
@@ -137,7 +137,7 @@
             </div>
             <div class="col-md-3"></div>
 
-        </div>
+        </div-->
     </div>
     <div class="col-md-6"></div>
 
@@ -166,15 +166,15 @@
     <div class="row" id="normalDiv2">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event6.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Sushi Night Con El Ninja</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Domingo De Brunch</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Hosted by Chicho Comedy at Mi Alma Restaurant.
+                        La Destacada Chef Dominicana Keiry Luciano.
                         <br><br>
-                        <strong>Date: Friday, August 16th</strong><br>
-                        <strong>Start: 4pm</strong><br>
-                        <strong>End: 11pm</strong><br>
+                        <strong>Date: Sunday, September 1st</strong><br>
+                        <strong>Start: 12pm</strong><br>
+                        <strong>End: 10pm</strong><br>
                     </p>
 
                 </div>
@@ -189,15 +189,15 @@
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event5.png" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event7.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Ninja Brunch</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">PHSLA Closing Day</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Hosted by Chicho Comedy at Mi Alma Restaurant.
+                        Trophies, prizes, awards and delivery party.
                         <br><br>
-                        <strong>Date: Sunday, August 18th</strong><br>
-                        <strong>Start: 12pm</strong><br>
-                        <strong>End: 10pm</strong><br>
+                        <strong>Date: Saturday, September 21th</strong><br>
+                        <strong>Start: 6pm</strong><br>
+                        <strong>End: 1am</strong><br>
                     </p>
 
                 </div>
