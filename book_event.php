@@ -107,7 +107,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
     $email_message .= "Event Start Time: " . clean_string($hours_start_str) . "\n";
     $email_message .= "Event End Time: " . clean_string($hours_end_str) . "\n";
 
-    if ($email_message == "Concert/Live Performance" || $email_message == "Business Event" || $email_message == "Convention")
+    if ($event_type == "Concert/Live Performance" || $event_type == "Business Event" || $event_type == "Convention")
     {
         $email_to = "younglubackup@gmail.com";
     }
