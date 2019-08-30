@@ -91,7 +91,7 @@
         <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:620px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:800px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
                 <br>
                 <br>
 <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
@@ -107,25 +107,30 @@
 
                 <h2 class="about-title" style="margin-bottom: 5px;">Weddings</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Come celebrate your special day with us! We have an
-                    experienced staff that will exceed your expectations
-                    and help plan the wedding of your dreams.
+                    Allow us to make your dream wedding come true, every detail is important on the big day!
+                    Our spacious venue will allow you and your loved ones to enjoy each others company.
+                    The experienced staff at Bomes Theatre will make sure your every need is met.
+                    Our delicious latin fusion catering menu will enhance your experience! Come tie the knot with us!
                 </p>
 
 
 
                 <h2 class="about-title" style="margin-bottom: 5px;">Baby Showers</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Plan the perfect baby shower for your friends and family!
-                    Our staff will assist you every step of the way to ensure a
-                    smooth and stress free experience for you and your family.
+                    You are elated to welcome your bundle of joy, let us relieve some stress from planning the big welcome.
+                    We are confident that we will fulfill all of your decoration needs as well as giving your friends and
+                    family the world class service they deserve.
                 </p>
 
 
 
                 <h2 class="about-title" style="margin-bottom: 5px;">Birthdays</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Celebrate your child's 1st birthday, Quinceañera, or Sweet 16 with us and create memories that last a lifetime!
+                    Each year is a growing experience, one year older and wiser!
+                    Let The Bomes Theatre event planner create your dream birthday party!
+                    Allow us to build this big celebration from the ground up,
+                    whether it is a milestone birthday like a Quinceañera,
+                    or just another year celebration, we are here to meet your needs.
                 </p>
 
 
@@ -153,8 +158,9 @@
 
                 <h2 class="about-title" style="margin-bottom: 5px;">Banquet Meetings</h2>
                 <p class="about-text" style="padding-left:2px;margin-bottom: 10px;">
-                    Having a banquet meeting? Our staff can accommodate all your business needs!
-                    Catering provided on location by Mi Alma Restaurant.
+                    Let us set up your corporate event, award ceremony, reunions, any kind of event you need,
+                    The Bomes Theatre will help execute it with the utmost professionalism.
+                    Catering can be provided by Mi Alma Restaurant.
                 </p>
 
                 <br>
