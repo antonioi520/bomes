@@ -95,7 +95,8 @@
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:20%;top:20%;">
                     <img src="img/gd3.png" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
-                    <strong style="color:white;letter-spacing: 0.05em;">Looking to book an event? The Bomes Theatre can accommodate all of your needs.</strong><br><br><br>
+                    <strong style="color:white;letter-spacing: 0.05em;">Looking to book an event? The Bomes Theatre can accommodate all of your needs. Take a look at our event contract
+                        <a href="docs/bomes%20theatre%20event%20contract%2008.06.19.pdf" target="_blank">here</a>.</strong><br><br><br>
                     <a href="booking" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
                 <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">

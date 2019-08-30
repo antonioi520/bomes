@@ -84,7 +84,7 @@
                 <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;">Book an Event</h3>
                 <div class="section-title-divider"></div>
                 <p class="section-description">Take a look at our event contract
-                    <a href="docs/bomes%20theatre%20event%20contract%2008.06.19.pdf" target="_blank">here.</a>
+                    <a href="docs/bomes%20theatre%20event%20contract%2008.06.19.pdf" target="_blank">here</a>.
                     <br>Please fill out the form below to book your event.</p>
             </div>
         </div>
