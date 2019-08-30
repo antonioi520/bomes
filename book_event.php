@@ -8,8 +8,8 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
     && isset($_POST['event_desc']) && isset($_POST['attendees']) && isset($_POST['date'])
     && isset($_POST['hours_start']) && isset($_POST['hours_end'])) {
 
-    //$email_to = "iguzman1525@gmail.com";
-    $email_to = "lpm72896@gmail.com";
+    $email_to = "iguzman1525@gmail.com";
+    //$email_to = "lpm72896@gmail.com";
     $email_subject = "Bomes Theatre Booking - " . $_POST['event_name'];
 
     function died($error)
@@ -109,12 +109,12 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
 
     if ($event_type == "Concert/Live Performance" || $event_type == "Business Event" || $event_type == "Convention")
     {
-        $email_to = "younglubackup@gmail.com"; //special events email
-        //$email_to = "kelmarysoto@gmail.com"; //special events email
+        //$email_to = "younglubackup@gmail.com"; //special events email
+        $email_to = "kelmarysoto@gmail.com"; //special events email
     }
     else {
-        $email_to = "lpm72896@gmail.com"; //all other event types
-        //$email_to = "iguzman1525@gmail.com"; //all other event types
+        //$email_to = "lpm72896@gmail.com"; //all other event types
+        $email_to = "iguzman1525@gmail.com"; //all other event types
     }
 
     // create email headers
