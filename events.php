@@ -91,16 +91,24 @@
         <a href="#top" id="viewButton" onclick="switchToNormalView()">Normal</a>
     </center>
 
+    <div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
+        <center>
+            <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/1V5h9hi-lf0?rel=0&amp;showinfo=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+        </center>
+    </div>
+
     <div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
-            <img src="img/cards/card4.png" alt="" >
-            <img src="img/cards/card5.png" alt="" >
-            <img src="img/cards/card4.png" alt="" >
-            <img src="img/cards/card5.png" alt="" >
-            <img src="img/cards/card4.png" alt="" >
-            <img src="img/cards/card5.png" alt="" >
-            <img src="img/cards/card4.png" alt="" >
-            <img src="img/cards/card5.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
+            <img src="img/cards/card6.png" alt="" >
 
         </figure>
         <nav>
@@ -110,18 +118,19 @@
     </div>
 
     <div class="row" id="normalDiv">
-        <!--div class="card-deck" style="width:80%;margin:auto;">
+        <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event4.png" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event8.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Fiesta Dominicana</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Primer Tipicazo</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Cristian La Voz Y Los Rebeldes Del Tipico <br> With DJ Riggs, DJ Bently, DJ Chombo and DJ Mambo.
+                        Drink Specials from 9pm to 10pm.
                         <br><br>
-                        <strong>Date: Sunday, August 11th</strong><br>
-                        <strong>Start: 10am</strong><br>
-                        <strong>End: 8pm</strong><br>
+                        <strong>Date: Friday, October 11th</strong><br>
+                        <strong>Tickets: $20</strong><br>
+                        <strong>Start: 9pm</strong><br>
+                        <strong>End: 2am</strong><br>
                     </p>
 
                 </div>
@@ -137,7 +146,7 @@
             </div>
             <div class="col-md-3"></div>
 
-        </div-->
+        </div>
     </div>
     <div class="col-md-6"></div>
 
@@ -164,22 +173,23 @@
         </center>
     </div>-->
     <div class="row" id="normalDiv2">
-        <div class="card-deck" style="width:80%;margin:auto;">
+        <!--div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event6.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event8.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Domingo De Brunch</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Primer Tipicazo</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        La Destacada Chef Dominicana Keiry Luciano.
+                        Drink Specials from 9pm to 10pm.
                         <br><br>
-                        <strong>Date: Sunday, September 1st</strong><br>
-                        <strong>Start: 12pm</strong><br>
-                        <strong>End: 10pm</strong><br>
+                        <strong>Date: Friday, October 11th</strong><br>
+                        <strong>Tickets: $20</strong><br>
+                        <!--strong>Start: 12pm</strong><br>
+                        <strong>End: 2am</strong><br>
                     </p>
 
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
@@ -188,30 +198,7 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event7.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
-                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">PHSLA Closing Day</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Trophies, prizes, awards and delivery party.
-                        <br><br>
-                        <strong>Date: Saturday, September 21th</strong><br>
-                        <strong>Start: 6pm</strong><br>
-                        <strong>End: 1am</strong><br>
-                    </p>
-
-                </div>
-                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-
-                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-            </div>
-        </div>
+        </div-->
     </div>
     <div class="col-md-6"></div>
 </div>
