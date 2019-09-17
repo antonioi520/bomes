@@ -1289,9 +1289,6 @@
             <div class="column">
                 <img id="galleryImg" src="img/v1_event5.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(5)" class="hover-shadow cursor">
             </div>
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event6.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(6)" class="hover-shadow cursor">
-            </div>
         </div>
     </div>
     </div>
@@ -3087,7 +3084,7 @@
         <div class="modal-content">
 
             <div class="videoSlides">
-                <div class="numbertext">1 / 6</div>
+                <div class="numbertext">1 / 5</div>
                 <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
                     <source src="vid/event_video.MP4" type="video/mp4">
@@ -3102,7 +3099,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">2 / 6</div>
+                <div class="numbertext">2 / 5</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
                     <source src="vid/event_video2.mp4" type="video/mp4">
@@ -3117,7 +3114,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">3 / 6</div>
+                <div class="numbertext">3 / 5</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Don Miguelo Concert" style="width:100%" controls>
                     <source src="vid/event_video3.mp4" type="video/mp4">
@@ -3132,7 +3129,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">4 / 6</div>
+                <div class="numbertext">4 / 5</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -3147,7 +3144,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">5 / 6</div>
+                <div class="numbertext">5 / 5</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -3159,21 +3156,6 @@
                     </iframe>
                 </center>
                 <center style="color: white;">El Primer Tipicazo</center>
-            </div>
-
-            <div class="videoSlides">
-                <div class="numbertext">6 / 6</div>
-                <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
-                <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
-                    <source src="vid/event_video4.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video-->
-                <center>
-                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/o6kgarMCsTA?rel=0&amp;showinfo=0"
-                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                    </iframe>
-                </center>
-                <center style="color: white;">El Primer Tipicazo 2</center>
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
