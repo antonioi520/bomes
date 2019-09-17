@@ -30,7 +30,7 @@
     <link href="css/css.css" rel="stylesheet">
     <link href="css/gallery.css" rel="stylesheet">
     <link href="css/mobile.css" rel="stylesheet">
-<!--    <link href="css/menu.css" rel="stylesheet">-->
+    <!--    <link href="css/menu.css" rel="stylesheet">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
@@ -87,60 +87,60 @@
 </div>
 <div class="container">
     <!--h2>work in progress</h2-->
-<!--    <h1 class="menu-heading">Gallery</h1>-->
+    <!--    <h1 class="menu-heading">Gallery</h1>-->
 
-<BR>
+    <BR>
     <br>
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
     <h2  class="section-title-lowercase collapsible" >Interior (Theatre)</h2>
     <div class="content">
-    <div class="gallery-border ">
+        <div class="gallery-border ">
 
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-9.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(3)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-37.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(4)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-38.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(5)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-39.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(6)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-41.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(7)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-42.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(8)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-43.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(9)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-44.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(10)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/concert-45.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(11)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
-            </div>
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/DSC_0895.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(2)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/Concert-9.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(3)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-37.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(4)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-38.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(5)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-39.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(6)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-41.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(7)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-42.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(8)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-43.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(9)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-44.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(10)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/concert-45.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(11)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/Concert-2.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(12)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
+                </div>
 
+
+            </div>
 
         </div>
-
-    </div>
     </div>
 
     <br><br>
@@ -148,70 +148,70 @@
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2-->
     <h2 class="section-title-lowercase collapsible" >Interior (Cafe)</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-5.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-6.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-9.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(3)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-10.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(4)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-11.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(5)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-12.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(6)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-13.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(7)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-14.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(8)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-15.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(9)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-16.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(10)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-17.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(11)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-19.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(12)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-20.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(13)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-21.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(14)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-22.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(15)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-23.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(16)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-24.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(17)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-26.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(18)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-27.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(19)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-29.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(20)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-5.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(1)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-6.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(2)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-9.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(3)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-10.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(4)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-11.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(5)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-12.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(6)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-13.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(7)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-14.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(8)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-15.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(9)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-16.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(10)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-17.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(11)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-19.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(12)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-20.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(13)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-21.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(14)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-22.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(15)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-23.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(16)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-24.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(17)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-26.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(18)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-27.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(19)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/InteriorThumbs/MiAlmaCafeOpeningCeremony-29.jpg" style="width:100%" onclick="openInteriorModal();currentInteriorSlide(20)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
@@ -219,1078 +219,1081 @@
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
     <h2 class="section-title-lowercase collapsible" >Optimo Concert</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(1)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(2)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(3)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(4)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(5)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(6)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(7)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(8)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Optimo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(9)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
 
     <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/event1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(10)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/event2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(11)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(10)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(11)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
 
     <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(13)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(14)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(15)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(16)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(17)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(18)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(19)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(20)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(21)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(22)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(23)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(24)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(25)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(26)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(27)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(28)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(29)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(30)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(31)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(32)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(33)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(34)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(35)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(36)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(37)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(38)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(39)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(40)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(41)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(42)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(43)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(44)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(45)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(46)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(47)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(48)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(49)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(50)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(51)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(52)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(53)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(54)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(55)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(56)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(57)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(58)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(59)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(60)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(61)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(62)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(63)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(64)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(65)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(66)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(67)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(68)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(69)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(70)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(71)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(72)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(13)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(14)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(15)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(16)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(17)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(18)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(19)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(20)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(21)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(22)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(23)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(24)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(25)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(26)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(27)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(28)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(29)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(30)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(31)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(32)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(33)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(34)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(35)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(36)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(37)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(38)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(39)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(40)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(41)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(42)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(43)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(44)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(45)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(46)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(47)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(48)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(49)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(50)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(51)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(52)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(53)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(54)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(55)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(56)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(57)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(58)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(59)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(60)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(61)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(62)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(63)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(64)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(65)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(66)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(67)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(68)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(69)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(70)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(71)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(72)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
 
     <h2 class="section-title-lowercase collapsible" >Don Miguelo Concert</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(74)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(75)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(76)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(77)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(78)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(79)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(80)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(81)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(82)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(83)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(84)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(85)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(86)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(87)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(88)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(89)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(90)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(91)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(92)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(93)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(94)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(95)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(96)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(97)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(98)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(99)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(100)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(101)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(102)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(103)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(104)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(105)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(106)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(107)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(108)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(109)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(110)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(111)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(112)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(113)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(114)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(115)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(116)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(117)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(118)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(119)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(120)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(121)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(122)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(123)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(124)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(125)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(126)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(127)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(128)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(129)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(130)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(131)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(132)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(133)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(134)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(135)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(136)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-64.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(137)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-65.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(138)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-66.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(139)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-67.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(140)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-68.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(141)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-69.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(142)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-70.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(143)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-71.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(144)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-72.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(145)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-73.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(146)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-74.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(147)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-75.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(148)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-76.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(149)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-77.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(150)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-78.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(151)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-79.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(152)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-80.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(153)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-81.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(154)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-82.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(155)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-83.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(156)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-84.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(157)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-85.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(158)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-86.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(159)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-87.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(160)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-88.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(161)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-89.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(162)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-90.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(163)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-91.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(164)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-92.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(165)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-93.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(166)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-94.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(167)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-95.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(168)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-96.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(169)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-97.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(170)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-98.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(171)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-99.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(172)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-100.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(173)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-101.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(174)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-102.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(175)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-103.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(176)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-104.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(177)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-105.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(178)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-106.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(179)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-107.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(180)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-108.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(181)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-109.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(182)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-110.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(183)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-111.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(184)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-112.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(185)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-113.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(186)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-114.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(187)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-115.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(188)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-116.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(189)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-117.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(190)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-118.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(191)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-119.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(192)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-120.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(193)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-121.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(194)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-122.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(195)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-123.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(196)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-124.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(197)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-125.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(198)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-126.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(199)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-127.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(200)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-128.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(201)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-129.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(202)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-130.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(203)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-131.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(204)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-132.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(205)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-133.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(206)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-134.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(207)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-135.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(208)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-136.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(209)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-137.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(210)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-138.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(211)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-139.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(212)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-140.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(213)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-141.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(214)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-142.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(215)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-143.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(216)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-144.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(217)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-145.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(218)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-146.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(219)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-147.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(220)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-148.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(221)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-149.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(222)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-150.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(223)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-151.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(224)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-152.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(225)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-153.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(226)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-154.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(227)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-155.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(228)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-156.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(229)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-157.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(230)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-158.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(231)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-159.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(232)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-160.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(233)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-161.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(234)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-162.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(235)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-163.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(236)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-164.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(237)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-165.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(238)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-166.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(239)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-167.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(240)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-168.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(241)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-169.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(242)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-170.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(243)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-171.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(244)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-172.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(245)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-173.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(246)" class="hover-shadow cursor">
-            </div>
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(74)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(75)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(76)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(77)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(78)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(79)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(80)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(81)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(82)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(83)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(84)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(85)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(86)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(87)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(88)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(89)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(90)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(91)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(92)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(93)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(94)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(95)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(96)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(97)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(98)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(99)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(100)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(101)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(102)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(103)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(104)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(105)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(106)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(107)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(108)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(109)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(110)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(111)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(112)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(113)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(114)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(115)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(116)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(117)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(118)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(119)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(120)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(121)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(122)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(123)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(124)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(125)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(126)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(127)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(128)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(129)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(130)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(131)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(132)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(133)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(134)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(135)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(136)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-64.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(137)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-65.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(138)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-66.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(139)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-67.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(140)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-68.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(141)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-69.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(142)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-70.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(143)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-71.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(144)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-72.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(145)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-73.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(146)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-74.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(147)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-75.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(148)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-76.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(149)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-77.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(150)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-78.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(151)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-79.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(152)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-80.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(153)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-81.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(154)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-82.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(155)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-83.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(156)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-84.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(157)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-85.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(158)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-86.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(159)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-87.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(160)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-88.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(161)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-89.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(162)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-90.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(163)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-91.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(164)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-92.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(165)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-93.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(166)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-94.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(167)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-95.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(168)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-96.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(169)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-97.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(170)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-98.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(171)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-99.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(172)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-100.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(173)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-101.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(174)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-102.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(175)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-103.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(176)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-104.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(177)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-105.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(178)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-106.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(179)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-107.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(180)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-108.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(181)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-109.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(182)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-110.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(183)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-111.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(184)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-112.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(185)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-113.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(186)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-114.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(187)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-115.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(188)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-116.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(189)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-117.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(190)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-118.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(191)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-119.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(192)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-120.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(193)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-121.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(194)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-122.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(195)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-123.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(196)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-124.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(197)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-125.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(198)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-126.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(199)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-127.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(200)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-128.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(201)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-129.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(202)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-130.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(203)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-131.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(204)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-132.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(205)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-133.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(206)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-134.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(207)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-135.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(208)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-136.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(209)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-137.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(210)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-138.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(211)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-139.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(212)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-140.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(213)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-141.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(214)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-142.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(215)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-143.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(216)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-144.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(217)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-145.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(218)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-146.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(219)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-147.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(220)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-148.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(221)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-149.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(222)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-150.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(223)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-151.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(224)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-152.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(225)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-153.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(226)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-154.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(227)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-155.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(228)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-156.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(229)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-157.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(230)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-158.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(231)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-159.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(232)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-160.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(233)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-161.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(234)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-162.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(235)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-163.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(236)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-164.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(237)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-165.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(238)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-166.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(239)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-167.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(240)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-168.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(241)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-169.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(242)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-170.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(243)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-171.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(244)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-172.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(245)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-173.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(246)" class="hover-shadow cursor">
+                </div>
 
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-4thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(247)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-5thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(248)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-8thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(249)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-10thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(250)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Concert-26thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(251)" class="hover-shadow cursor">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-4thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(247)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-5thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(248)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-8thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(249)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-10thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(250)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Concert-26thumb.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(251)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
 
     <h2 class="section-title-lowercase collapsible" >Adolescentes Concert</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(253)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(254)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(255)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(256)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(257)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(258)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(259)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(260)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(261)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(262)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(263)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(264)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(265)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(266)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(267)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(268)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(269)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(270)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(271)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(272)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(273)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(274)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(275)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(276)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(277)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(278)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(279)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(280)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(281)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(282)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(283)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(284)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(285)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(286)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(287)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(288)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(289)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(290)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(291)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(292)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(293)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(294)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(295)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(296)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(297)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(298)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(299)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(300)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(301)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(302)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(303)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(304)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(305)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(306)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(307)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(308)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(309)" class="hover-shadow cursor">
-            </div>/
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(310)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(311)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(312)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(313)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(314)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-64.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(315)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-65.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(316)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-66.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(317)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-67.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(318)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-68.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(319)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-69.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(320)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-70.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(321)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-71.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(322)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-72.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(323)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-73.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(324)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-74.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(325)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-75.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(326)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-76.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(327)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-77.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(328)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-78.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(329)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-79.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(330)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-80.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(331)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-81.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(332)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-82.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(333)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-83.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(334)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(253)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(254)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(255)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(256)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(257)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(258)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(259)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(260)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(261)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(262)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(263)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(264)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(265)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(266)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(267)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(268)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(269)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(270)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(271)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(272)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(273)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(274)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(275)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(276)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(277)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(278)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(279)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(280)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(281)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(282)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(283)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(284)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(285)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(286)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(287)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(288)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(289)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(290)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(291)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(292)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(293)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(294)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(295)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(296)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(297)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(298)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(299)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(300)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(301)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(302)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(303)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(304)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(305)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(306)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(307)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(308)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(309)" class="hover-shadow cursor">
+                </div>/
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(310)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(311)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(312)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(313)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(314)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-64.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(315)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-65.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(316)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-66.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(317)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-67.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(318)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-68.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(319)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-69.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(320)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-70.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(321)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-71.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(322)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-72.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(323)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-73.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(324)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-74.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(325)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-75.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(326)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-76.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(327)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-77.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(328)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-78.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(329)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-79.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(330)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-80.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(331)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-81.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(332)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-82.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(333)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-83.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(334)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br><br>
 
     <h2 class="section-title-lowercase collapsible" >Event Videos</h2>
     <div class="content">
-    <div class="gallery-border">
-        <div class="row">
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event3.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(3)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event4.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(4)" class="hover-shadow cursor">
-            </div>
-            <div class="column">
-                <img id="galleryImg" src="img/v1_event5.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(5)" class="hover-shadow cursor">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event3.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(3)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event4.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(4)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event5.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(5)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event6.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(6)" class="hover-shadow cursor">
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
     <br>
@@ -3084,7 +3087,7 @@
         <div class="modal-content">
 
             <div class="videoSlides">
-                <div class="numbertext">1 / 5</div>
+                <div class="numbertext">1 / 6</div>
                 <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
                     <source src="vid/event_video.MP4" type="video/mp4">
@@ -3099,7 +3102,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">2 / 5</div>
+                <div class="numbertext">2 / 6</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
                     <source src="vid/event_video2.mp4" type="video/mp4">
@@ -3114,7 +3117,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">3 / 5</div>
+                <div class="numbertext">3 / 6</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Don Miguelo Concert" style="width:100%" controls>
                     <source src="vid/event_video3.mp4" type="video/mp4">
@@ -3129,7 +3132,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">4 / 5</div>
+                <div class="numbertext">4 / 6</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -3144,7 +3147,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">5 / 5</div>
+                <div class="numbertext">5 / 6</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -3156,6 +3159,21 @@
                     </iframe>
                 </center>
                 <center style="color: white;">El Primer Tipicazo</center>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">6 / 6</div>
+                <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
+                <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
+                    <source src="vid/event_video4.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video-->
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/o6kgarMCsTA?rel=0&amp;showinfo=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">El Primer Tipicazo 2</center>
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
