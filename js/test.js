@@ -36,6 +36,7 @@ function carousel(root) {
         }
         if (bfc) for (i = 0; i < n; i++) {
             images[i].style.backfaceVisibility = 'hidden';
+            images[i].style.opacity = .99;
         }rotateCarousel(currImage);
     }
 
