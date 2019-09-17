@@ -92,8 +92,10 @@
 <BR>
     <br>
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Interior (Theatre)</h2>
-    <div class="gallery-border">
+    <h2  class="section-title-lowercase collapsible" >Interior (Theatre)</h2>
+    <div class="content">
+    <div class="gallery-border ">
+
         <div class="row">
             <div class="column">
                 <img id="galleryImg" src="img/TheaterThumbs/concert-46.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(1)" class="hover-shadow cursor">
@@ -134,13 +136,18 @@
             <div class="column">
                 <img id="galleryImg" src="img/TheaterThumbs/Concert-7.jpg" style="width:100%" onclick="openInteriorTModal();currentInteriorTSlide(13)" class="hover-shadow cursor">
             </div>
+
+
         </div>
+
+    </div>
     </div>
 
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Cafe)</h2-->
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Interior (Cafe)</h2>
+    <h2 class="section-title-lowercase collapsible" >Interior (Cafe)</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -205,11 +212,13 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Optimo Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >Optimo Concert</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -241,10 +250,12 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500;">Miss Dominican Republic 2019</h2>
+    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -255,10 +266,12 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500;">El Varon De La Bachata Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -449,10 +462,12 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500;">Don Miguelo Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >Don Miguelo Concert</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -992,10 +1007,12 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Adolescentes Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >Adolescentes Concert</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -1249,10 +1266,12 @@
             </div>
         </div>
     </div>
+    </div>
 
     <br><br>
 
-    <h2 class="section-title-lowercase" style="margin-bottom: 10px;font-weight: 500">Event Videos</h2>
+    <h2 class="section-title-lowercase collapsible" >Event Videos</h2>
+    <div class="content">
     <div class="gallery-border">
         <div class="row">
             <div class="column">
@@ -1271,6 +1290,7 @@
                 <img id="galleryImg" src="img/v1_event5.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(5)" class="hover-shadow cursor">
             </div>
         </div>
+    </div>
     </div>
 
     <br>
@@ -3142,7 +3162,22 @@
             <a class="next" onclick="plusVideoSlides(1)">&#10095;</a>
         </div>
     </div>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
 
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
     <script>
 
         function openInteriorModal() {
