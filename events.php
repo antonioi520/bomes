@@ -109,7 +109,6 @@
             <img src="img/cards/card6.png" alt="" >
             <img src="img/cards/card6.png" alt="" >
             <img src="img/cards/card6.png" alt="" >
-
         </figure>
         <nav>
             <button class="nav prev">Prev</button>
