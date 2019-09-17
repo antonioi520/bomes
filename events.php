@@ -85,29 +85,24 @@
         <div class="section-title-divider" style="width:300px;margin-bottom: 0"></div>
     </div>
 
-    <center>
+    <!--<center>
         <p id="content-desktop" style="font-weight: bold;margin-bottom: 5px;">View Style</p>
         <a href="#top" id="viewButton" onclick="switchToRotatingView()">Rotating</a>
         <a href="#top" id="viewButton" onclick="switchToNormalView()">Normal</a>
-    </center>
-
-    <div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
+    </center>-->
+    <h2 style="text-align: center;color:black;margin-bottom: 20px;margin-top:15px;font-weight: 600">Special Events</h2>
+    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
-            <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/1V5h9hi-lf0?rel=0&amp;showinfo=0"
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/1V5h9hi-lf0?rel=0&amp;showinfo=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/o6kgarMCsTA?rel=0&amp;showinfo=0"
                     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
         </center>
     </div>
 
-    <div class="row" id="videoRow" style="display: inline; padding-top: -10px;">
-        <center>
-            <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/o6kgarMCsTA?rel=0&amp;showinfo=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            </iframe>
-        </center>
-    </div>
-
-    <div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
+    <!--<div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
             <img src="img/cards/card5.png" alt="" >
             <img src="img/cards/card6.png" alt="" >
@@ -123,7 +118,7 @@
             <button class="nav prev">Prev</button>
             <button class="nav next">Next</button>
         </nav>
-    </div>
+    </div>-->
 
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
@@ -183,7 +178,7 @@
 <div class="col-md-6"></div>
 </div>
 
-
+<h2 style="text-align: center;color:black;margin-bottom: 40px;margin-top:40px;font-weight: 600">Recurring Events</h2>
 <div class="container">
     <div class="col-md-6"></div>
     <!--hr style="margin-bottom:0px;">
@@ -201,6 +196,7 @@
         </center>
     </div>-->
     <div class="row" id="normalDiv2">
+
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event9.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
@@ -259,7 +255,7 @@
 <br id="content-desktop">
 
 
-<script src="js/test.js"></script>
+<!--<script src="js/test.js"></script>
 
 <script>
     var normal = document.getElementById("normalDiv");
@@ -277,7 +273,7 @@
         normal2.style.display = "none";
         rotating.style.display = "flex";
     }
-</script>
+</script>-->
 <?php include("views/footer.html")?>
 
 <!-- Optional JavaScript -->

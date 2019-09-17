@@ -42,7 +42,7 @@
 }
 
 #normalDiv, #normalDiv2 {
-    display: none;
+    //display: none;
 }
 
 #rotatingDiv {
@@ -77,6 +77,9 @@
     #videoRow video{
         width:300px;
         height:200px;
+    }
+    #galleryVid{
+        width:100%;
     }
 }
 
