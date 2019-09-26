@@ -3310,6 +3310,166 @@
                 <div class="numbertext">393 / 583</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_60.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
             </div>
+            <div class="eventSlides">
+                <div class="numbertext">394 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_61.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">395 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_62.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">396 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_63.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">397 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_64.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">398 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_65.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">399 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_66.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">400 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_67.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">401 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_68.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">402 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_69.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">403 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_70.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">404 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_71.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">405 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_72.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">406 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_73.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">407 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_74.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">408 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_75.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">409 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_76.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">410 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_77.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">411 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_78.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">412 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_79.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">413 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_80.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">414 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_81.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">415 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_82.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">416 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_83.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">417 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_84.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">418 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_85.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">419 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_86.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">420 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_87.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">421 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_88.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">422 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_89.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">423 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_90.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">424 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_91.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">425 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_92.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">426 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_93.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">427 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_94.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">428 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_95.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">429 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_96.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">430 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_97.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">431 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_98.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">432 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_99.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">433 / 583</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_100.jpg" style="width:100%" alt="PSHLA Awards Ceremony">
+            </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
             <a class="next" onclick="plusEventSlides(1)">&#10095;</a>
