@@ -254,7 +254,7 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019</h2>
+    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019 (6/23/2019)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
@@ -270,7 +270,7 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert (6/28/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
@@ -1270,7 +1270,7 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible">PHSLA Awards Ceremony</h2>
+    <h2 class="section-title-lowercase collapsible">PHSLA Awards Ceremony (9/21/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
