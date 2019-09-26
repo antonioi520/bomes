@@ -217,7 +217,7 @@
     <br><br>
 
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <h2 class="section-title-lowercase collapsible" >Optimo Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >Optimo Concert (4/19/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
@@ -254,222 +254,13 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019 (6/23/19)</h2>
+    <h2 class="section-title-lowercase collapsible" >Don Miguelo Concert (5/24/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
                 <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/event1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(10)" class="hover-shadow cursor">
+                    <img id="galleryImg" src="img/v1_event3.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(3)" class="hover-shadow cursor">
                 </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/event2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(11)" class="hover-shadow cursor">
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <br><br>
-
-    <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert (6/28/19)</h2>
-    <div class="content">
-        <div class="gallery-border">
-            <div class="row">
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(13)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(14)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(15)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(16)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(17)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(18)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(19)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(20)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(21)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(22)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(23)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(24)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(25)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(26)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(27)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(28)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(29)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(30)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(31)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(32)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(33)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(34)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(35)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(36)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(37)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(38)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(39)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(40)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(41)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(42)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(43)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(44)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(45)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(46)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(47)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(48)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(49)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(50)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(51)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(52)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(53)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(54)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(55)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(56)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(57)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(58)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(59)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(60)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(61)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(62)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(63)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(64)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(65)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(66)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(67)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(68)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(69)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(70)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(71)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(72)" class="hover-shadow cursor">
-                </div>
-                <div class="column">
-                    <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <br><br>
-
-    <h2 class="section-title-lowercase collapsible" >Don Miguelo Concert</h2>
-    <div class="content">
-        <div class="gallery-border">
-            <div class="row">
                 <div class="column">
                     <img id="galleryImg" src="img/EventsThumb/Don%20Miguelo%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(74)" class="hover-shadow cursor">
                 </div>
@@ -1011,10 +802,13 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >Adolescentes Concert</h2>
+    <h2 class="section-title-lowercase collapsible" >Adolescentes Concert (5/26/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event4.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(4)" class="hover-shadow cursor">
+                </div>
                 <div class="column">
                     <img id="galleryImg" src="img/EventsThumb/Adolescentes%20Concert-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(252)" class="hover-shadow cursor">
                 </div>
@@ -1269,6 +1063,226 @@
     </div>
 
     <br><br>
+
+    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019 (6/23/19)</h2>
+    <div class="content">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event1.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(1)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(10)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(11)" class="hover-shadow cursor">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <h2 class="section-title-lowercase collapsible" >El Varon De La Bachata Concert (6/28/19)</h2>
+    <div class="content">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(13)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/4.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(14)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/5.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(15)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/6.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(16)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/7.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(17)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/8.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(18)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/9.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(19)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/10.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(20)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/11.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(21)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/12.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(22)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/13.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(23)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/14.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(24)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/15.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(25)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/16.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(26)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/17.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(27)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/18.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(28)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/19.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(29)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/20.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(30)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/21.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(31)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/22.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(32)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/23.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(33)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/24.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(34)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/25.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(35)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/26.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(36)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/27.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(37)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/28.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(38)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/29.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(39)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/30.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(40)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/31.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(41)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/32.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(42)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/33.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(43)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/34.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(44)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/35.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(45)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/36.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(46)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/37.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(47)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/38.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(48)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/39.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(49)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/40.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(50)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/41.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(51)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/42.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(52)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/43.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(53)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/44.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(54)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/45.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(55)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/46.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(56)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/47.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(57)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/48.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(58)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/49.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(59)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/50.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(60)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/51.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(61)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/52.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(62)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/53.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(63)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/54.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(64)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/55.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(65)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/56.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(66)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/57.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(67)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/58.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(68)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/59.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(69)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/60.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(70)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/61.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(71)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/62.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(72)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/63.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(73)" class="hover-shadow cursor">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+
 
     <h2 class="section-title-lowercase collapsible">PHSLA Awards Ceremony (9/21/19)</h2>
     <div class="content">
@@ -2018,7 +2032,23 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible">Event Videos</h2>
+    <h2 class="section-title-lowercase collapsible" >El Primer Tipicazo (10/11/19)</h2>
+    <div class="content">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event5.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(5)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event6.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(6)" class="hover-shadow cursor">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br><br>
+
+    <!--<h2 class="section-title-lowercase collapsible">Event Videos</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
@@ -2044,7 +2074,7 @@
         </div>
     </div>
 
-    <br>
+    <br>-->
 
     <div id="interiorModal" class="modal">
         <span class="close cursor" onclick="closeInteriorModal()">&times;</span>
