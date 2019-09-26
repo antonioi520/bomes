@@ -254,7 +254,7 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019 (6/23/2019)</h2>
+    <h2 class="section-title-lowercase collapsible" >Miss Dominican Republic 2019 (6/23/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
