@@ -1091,6 +1091,12 @@
                     <img id="galleryImg" src="img/v1_event2.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(2)" class="hover-shadow cursor">
                 </div>
                 <div class="column">
+                    <img id="galleryImg" src="img/v1_event7.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(7)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event8.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(8)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
                     <img id="galleryImg" src="img/EventsThumb/event3.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(12)" class="hover-shadow cursor">
                 </div>
                 <div class="column">
@@ -1287,6 +1293,9 @@
         <div class="gallery-border">
             <div class="row">
                 <div class="column">
+                    <img id="galleryImg" src="img/v1_event10.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(10)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
                     <img id="galleryImg" src="img/EventsThumb/MAC%20-%20DR%20Parade-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(581)" class="hover-shadow cursor">
                 </div>
                 <div class="column">
@@ -1425,6 +1434,9 @@
     <div class="content">
         <div class="gallery-border">
             <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/v1_event9.png" style="width:100%" onclick="openVideoModal();currentVideoSlide(9)" class="hover-shadow cursor">
+                </div>
                 <div class="column">
                     <img id="galleryImg" src="img/EventsThumb/PHSLA_1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(335)" class="hover-shadow cursor">
                 </div>
