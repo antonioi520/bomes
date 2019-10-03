@@ -1282,7 +1282,21 @@
 
     <br><br>
 
+    <h2 class="section-title-lowercase collapsible" >Dominican Parade (8/10/19)</h2>
+    <div class="content">
+        <div class="gallery-border">
+            <div class="row">
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/MAC%20-%20DR%20Parade-1.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(581)" class="hover-shadow cursor">
+                </div>
+                <div class="column">
+                    <img id="galleryImg" src="img/EventsThumb/MAC%20-%20DR%20Parade-2.jpg" style="width:100%" onclick="openEventModal();currentEventSlide(582)" class="hover-shadow cursor">
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <br><br>
 
     <h2 class="section-title-lowercase collapsible">PHSLA Awards Ceremony (9/21/19)</h2>
     <div class="content">
