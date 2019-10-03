@@ -171,9 +171,16 @@
         </div>
     </div>
     <br>
+    <div class="col-md-6"></div>
+</div>
+<div class="col-md-6"></div>
+</div>
+
+<div class="container">
     <div class="row">
-        <center>
-            <div class="card" style="border-color: goldenrod; width:40%;">
+        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="col-md-3"></div>
+            <div class="card" style="border-color: goldenrod;">
                 <img class="card-img-top" src="img/Events/event8.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px; text-align: left;">El Primer Tipicazo</h5>
@@ -197,13 +204,10 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-        </center>
+            <div class="col-md-3"></div>
+        </div>
     </div>
-    <div class="col-md-6"></div>
 </div>
-<div class="col-md-6"></div>
-</div>
-
 
 <h2 style="text-align: center;color:black;margin-bottom: 40px;margin-top:40px;font-weight: 600">Recurring Events</h2>
 <div class="container">
