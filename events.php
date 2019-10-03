@@ -123,15 +123,15 @@
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/event7.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/event11.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">PHSLA Closing Day</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Humor Mañanero</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Trophies, prizes, awards and delivery.
+                        El show de humor mas esperado en Providence!
                         <br><br>
-                        <strong>Date: Saturday, September 21st</strong><br>
-                        <strong>Start: 6pm</strong><br>
-                        <strong>End: 1am</strong><br><br>
+                        <strong>Date: Friday, October 4th</strong><br>
+                        <strong>Start: 10pm</strong><br>
+                        <!--strong>End: 1am</strong><br--><br>
                     </p>
 
                 </div>
@@ -146,10 +146,38 @@
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
+                <img class="card-img-top" src="img/Events/event12.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Humor Mañanero</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        El show de humor mas esperado en Providence!
+                        <br><br>
+                        <strong>Date: Friday, October 4th</strong><br>
+                        <strong>Start: 10pm</strong><br>
+                        <!--strong>End: 1am</strong><br--><br>
+                    </p>
+
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <center>
+            <div class="card" style="border-color: goldenrod; width:40%;">
                 <img class="card-img-top" src="img/Events/event8.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Primer Tipicazo</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px; text-align: left;">El Primer Tipicazo</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px; text-align: left;">
                         Drink specials from 9pm to 10pm.
                         <br><br>
                         <strong>Date: Friday, October 11th</strong><br>
@@ -169,14 +197,13 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-        </div>
+        </center>
     </div>
     <div class="col-md-6"></div>
-
-
 </div>
 <div class="col-md-6"></div>
 </div>
+
 
 <h2 style="text-align: center;color:black;margin-bottom: 40px;margin-top:40px;font-weight: 600">Recurring Events</h2>
 <div class="container">
@@ -196,7 +223,6 @@
         </center>
     </div>-->
     <div class="row" id="normalDiv2">
-
         <div class="card-deck" style="width:82%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/event9.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
