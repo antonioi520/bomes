@@ -131,7 +131,7 @@
                         <br><br>
                         <strong>Date: Friday, October 4th</strong><br>
                         <strong>Start: 10pm</strong><br>
-                        <!--strong>End: 1am</strong><br--><br>
+                        <!--strong>End: 1am</strong><br><br-->
                     </p>
 
                 </div>
@@ -154,7 +154,7 @@
                         <br><br>
                         <strong>Date: Friday, October 4th</strong><br>
                         <strong>Start: 10pm</strong><br>
-                        <!--strong>End: 1am</strong><br--><br>
+                        <!--strong>End: 1am</strong><br><br-->
                     </p>
 
                 </div>
