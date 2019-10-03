@@ -9,7 +9,7 @@
 
 <?php include("views/header.html") ?>
 
-<link href="css/mobile.css" rel="stylesheet">
+<link href="css/mobile-min.css" rel="stylesheet">
 
 <body>
 <!-- Header -->
