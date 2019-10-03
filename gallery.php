@@ -5158,7 +5158,7 @@
         <div class="modal-content">
 
             <div class="videoSlides">
-                <div class="numbertext">1 / 6</div>
+                <div class="numbertext">1 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video.MP4" title="Miss Dominican Republic 2019" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Miss Dominican Republic 2019" style="width:100%" controls>
                     <source src="vid/event_video.MP4" type="video/mp4">
@@ -5173,7 +5173,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">2 / 6</div>
+                <div class="numbertext">2 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="El Varon De La Bachata" style="width:100%" controls>
                     <source src="vid/event_video2.mp4" type="video/mp4">
@@ -5188,7 +5188,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">3 / 6</div>
+                <div class="numbertext">3 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Don Miguelo Concert" style="width:100%" controls>
                     <source src="vid/event_video3.mp4" type="video/mp4">
@@ -5203,7 +5203,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">4 / 6</div>
+                <div class="numbertext">4 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -5218,7 +5218,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">5 / 6</div>
+                <div class="numbertext">5 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -5233,7 +5233,7 @@
             </div>
 
             <div class="videoSlides">
-                <div class="numbertext">6 / 6</div>
+                <div class="numbertext">6 / 10</div>
                 <!--video controls id="galleryVid" src="vid/event_video2.mp4" title="El Varon De La Bachata" style="width:100%"></video-->
                 <!--video id="galleryVid" title="Adolescentes Concert" style="width:100%" controls>
                     <source src="vid/event_video4.mp4" type="video/mp4">
@@ -5245,6 +5245,46 @@
                     </iframe>
                 </center>
                 <center style="color: white;">El Primer Tipicazo 2</center>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">7 / 10</div>
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/XBGMaiJtxs8?rel=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">El Varon De La Bachata 2</center>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">8 / 10</div>
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/yfEbsATAmKE?rel=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">El Varon De La Bachata 3</center>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">9 / 10</div>
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/xfaDdgZGm7M?rel=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">PHSLA Award Ceremony</center>
+            </div>
+
+            <div class="videoSlides">
+                <div class="numbertext">10 / 10</div>
+                <center>
+                    <iframe id="galleryVid" width="67%" height="430px" src="https://www.youtube.com/embed/XoPCieHEDL4?rel=0"
+                            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    </iframe>
+                </center>
+                <center style="color: white;">DR Parade</center>
             </div>
 
             <a class="prev" onclick="plusVideoSlides(-1)">&#10094;</a>
