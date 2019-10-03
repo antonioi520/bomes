@@ -1282,7 +1282,7 @@
 
     <br><br>
 
-    <h2 class="section-title-lowercase collapsible" >Dominican Parade (8/10/19)</h2>
+    <h2 class="section-title-lowercase collapsible" >DR Parade (8/10/19)</h2>
     <div class="content">
         <div class="gallery-border">
             <div class="row">
@@ -4968,6 +4968,178 @@
             <div class="eventSlides">
                 <div class="numbertext">580 / 623</div>
                 <img class="demo cursor" id="galleryImg" src="img/Events/PHSLA_246.jpg" style="width:100%" alt="PHSLA Awards Ceremony">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">581 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-1.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">582 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-2.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">583 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-3.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">584 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-4.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">585 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-5.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">586 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-6.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">587 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-7.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">588 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-8.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">589 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-9.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">590 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-10.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">591 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-11.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">592 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-12.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">593 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-13.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">594 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-14.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">595 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-15.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">596 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-16.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">597 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-17.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">598 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-18.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">599 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-19.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">600 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-20.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">601 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-21.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">602 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-22.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">603 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-23.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">604 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-24.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">605 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-25.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">606 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-26.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">607 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-27.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">608 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-28.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">609 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-29.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">610 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-30.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">611 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-31.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">612 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-32.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">613 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-33.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">614 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-34.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">615 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-35.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">616 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-36.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">617 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-37.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">618 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-38.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">619 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-39.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">620 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-40.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">621 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-41.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">622 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-42.jpg" style="width:100%" alt="DR Parade">
+            </div>
+            <div class="eventSlides">
+                <div class="numbertext">623 / 623</div>
+                <img class="demo cursor" id="galleryImg" src="img/Events/MAC%20-%20DR%20Parade-43.jpg" style="width:100%" alt="DR Parade">
             </div>
 
             <a class="prev" onclick="plusEventSlides(-1)">&#10094;</a>
