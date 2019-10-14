@@ -131,6 +131,8 @@
     <br><br>
     <?php include("views/Gallery/El_Primer_Tipicazo.html") ?>
 
+    <br><br>
+    <?php include("views/Gallery/El_Ninja.html") ?>
 
     <br><br>
 
