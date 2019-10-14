@@ -168,6 +168,10 @@
                 <a href="booking" id="menuBox"><h2 id="menuBoxText" style="padding-top: 9px;padding-bottom: 9px;">Book an Event</h2></a>
 
             </div>
+            <center>
+                <br> <br>
+                <img id="content-desktop896" src="img/full_service_venue.jpg" style="width: 97%;">
+            </center>
         </div>
     </div>
 </section>
