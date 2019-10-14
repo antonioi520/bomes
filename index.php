@@ -86,6 +86,15 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
         </div>
     </div>
+
+    <br><br><br>
+    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+        <center>
+            <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+        </center>
+    </div>
 </section>
 <!--images in middle -->
 <section id="middleImages">
