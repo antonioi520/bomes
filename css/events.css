@@ -92,7 +92,15 @@
 
     display: none;
 }
+#ninjaCardA{
+    float:right;
+    margin-right:41%;
+}
 
+#ninjaCardB{
+    float:right;
+    margin-right:43%;
+}
 @media (max-width:896px) {
 
     img#hide {
@@ -117,6 +125,14 @@
 
     #viewButton {
         display: none;
+    }
+    #ninjaCardA{
+        float:right;
+        margin-right:15%;
+    }
+    #ninjaCardB{
+        float:right;
+        margin-right:18%;
     }
 }
 
@@ -191,3 +207,5 @@
     padding: 5px 5px 5px 5px;
     text-decoration: none;
 }
+
+
