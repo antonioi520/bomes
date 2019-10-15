@@ -64,12 +64,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/about_us.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+                <img src="img/Staff/ABOUTUS_NEW4.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/about_us.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%);" id="aboutImg">
+                    <img src="img/Staff/ABOUTUS_NEW4.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%);" id="aboutImg">
                 </center>
             </div>
 
