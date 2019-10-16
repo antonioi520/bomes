@@ -23,7 +23,7 @@
     <meta charset="UTF-8">
     <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
-
+    <meta name=”description” content=”Services provided by The Bomes Theatre includes weddings, baby showers, birthdays, baptisms, banquet meetings, and other special events such as live performances, business events, and conventions. Catering provided by Mi Alma Restaraunt.”>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
