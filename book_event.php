@@ -109,11 +109,13 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['phone']) && 
 
     if ($event_type == "Concert/Live Performance" || $event_type == "Business Event" || $event_type == "Convention")
     {
-        $email_to = "kelmarysoto@gmail.com"; //special events email
+        //$email_to = "kelmarysoto@gmail.com"; //special events email
+        $email_to = "bomes@bomestheatrellc.com"; //special events email
     }
     else {
         //$email_to = "iguzman1525@gmail.com"; //all other event types (old)
-        $email_to = "kelmarysoto@gmail.com"; //all other event types
+        //$email_to = "kelmarysoto@gmail.com"; //all other event types
+        $email_to = "bomes@bomestheatrellc.com"; //all other event types
     }
 
     // create email headers

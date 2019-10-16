@@ -102,6 +102,9 @@
 
     <br><br>
 
+    <?php include("views/Gallery/opening_night_concert.html") ?>
+
+    <br><br>
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
     <?php include("views/Gallery/optimo_concert.html") ?>
 
