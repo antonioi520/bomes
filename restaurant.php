@@ -21,8 +21,9 @@
 
 
     <meta charset="UTF-8">
-    <title>Bomes Theatre</title>
+    <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
+    <meta name=”description” content=”The Bomes Theatre is catered by Mi Alma Restaraunt. Services provided at Mi Alma Restaurant include an array of Dominican/Latin cuisine, events and live concerts.”>
 
 
     <!-- Bootstrap -->
@@ -34,7 +35,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css">
-    <link href="lib/animate-css/animate.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="img/logoT.png" type="image/x-icon">
     <link rel="icon" href="img/logoT.png" type="image/x-icon">
 

@@ -20,8 +20,9 @@
 
 
     <meta charset="UTF-8">
-    <title>Bomes Theatre</title>
+    <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
+    <meta name=”description” content=”Book your memorable event at The Bomes Theatre and work with our amazing staff, event planner, and catering to bring your ideas to life!”>
 
 
     <!-- Bootstrap -->
