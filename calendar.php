@@ -7,7 +7,7 @@
  */
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90995944-5"></script>
@@ -23,11 +23,11 @@
     <meta charset="UTF-8">
     <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
-    <meta name=”description” content=”View our open and booked dates on The Bomes Theatre calendar!”>
+    <meta name="description" content="View our open and booked dates on The Bomes Theatre calendar!">
 
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/css-min.css" rel="stylesheet">
     <link href="css/gallery-min.css" rel="stylesheet">
     <link href="css/mobile-min.css" rel="stylesheet">

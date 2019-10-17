@@ -519,7 +519,6 @@ p {
     }
 
 }
-
 @media (max-width: 896px) {
     #middleImages img {
         width:200px;
@@ -776,4 +775,19 @@ input.invalid {
 }
 textarea.invalid {
     border-color: red;
+}
+
+#navimg{
+    height: 5.313em;
+    width: 8.750em;
+    object-fit: contain;
+}
+@media (max-width: 896px) {
+    #navimg{
+        height: 5.313em;
+        width: 100px;
+        object-fit: contain;
+        padding-bottom: 5px;
+    }
+
 }
