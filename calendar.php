@@ -50,7 +50,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/TheaterInterior/concert-38.jpg" class="d-block w-100" alt="..." style="height:733px;filter:brightness(50%) grayscale(80%);object-fit: cover">
+                <img src="img/TheaterInterior/concert-38.jpg" alt="interior of theatre" class="d-block w-100" alt="..." style="height:733px;filter:brightness(50%) grayscale(80%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>

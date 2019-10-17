@@ -51,12 +51,12 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/TheaterInterior/Concert-9.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
+                <img src="img/TheaterInterior/Concert-9.jpg" class="d-block w-100" alt="interior of theater" style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
                         <br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:20px;">
+                        <img src="img/logoT.png" alt="bomes theatre logo" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:20px;">
                     </center>
 
                 </div>
