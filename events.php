@@ -53,7 +53,7 @@
                 <div class="carousel-caption  d-md-block d-flex justify-content-center"  id="hero">
                     <center>
                         <br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
+                        <img src="img/logoT.png" alt="bomes theatre logo" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:60px;">
                     </center>
                     <!--                <center>-->
                     <!--                    <div class="eventHeaderBox">-->

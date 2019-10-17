@@ -50,12 +50,12 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-14.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-14.jpg" class="d-block w-100" alt="mi alma restaurant" style="height:710px;filter:brightness(50%) grayscale(80%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
                         <br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:20px;">
+                        <img src="img/logoT.png" alt="bomes theatre logo" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:20px;">
                     </center>
 
                 </div>
@@ -74,7 +74,7 @@
 
 <div class="container">
 <center>
-    <img src="img/logo.png" style="height:200px;width:300px;object-fit: contain;">
+    <img src="img/logo.png" alt="bomes theatre logo" style="height:200px;width:300px;object-fit: contain;">
 </center>
 
 <hr style="margin-bottom:0px;">
@@ -91,12 +91,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="mi alma restaurant" style="height:400px;object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="" style="height:400px;object-fit: cover;" id="aboutImg">
+                    <img src="img/Interior/MiAlmaCafeOpeningCeremony-23.jpg" alt="mi alma restaurant" style="height:400px;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -112,7 +112,7 @@
                     memorable and of the highest quality!
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Check out our Website:</h3>
-                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;"><h2 id="menuBoxText">View Website</h2></a>
+                <a href="https://www.MiAlmaRestaurant.com" id="menuBox" target="_blank" style="width: 230px; padding-right: 13px;" rel="noopener"><h2 id="menuBoxText">View Website</h2></a>
             </div>
         </div>
     </div>

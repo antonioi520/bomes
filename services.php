@@ -50,12 +50,12 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" class="d-block w-100" alt="..." style="height:710px;filter:brightness(30%);object-fit: cover">
+                <img src="img/Interior/MiAlmaCafeOpeningCeremony-12.jpg" class="d-block w-100" alt="mi alma restaurant" style="height:710px;filter:brightness(30%);object-fit: cover">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
                         <br><br><br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <img src="img/logoT.png" alt="bomes theatre logo" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
 
                 </div>
@@ -66,7 +66,7 @@
 
 <div class="container" id="content-mobile896">
     <center>
-        <img src="img/logoT.png" style="height:200px;width:300px;object-fit: contain;">
+        <img src="img/logoT.png" alt="bomes theatre logo" style="height:200px;width:300px;object-fit: contain;">
     </center>
 
     <hr style="margin-bottom:0px;">
@@ -90,7 +90,7 @@
         <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:800px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-45.jpg" alt="bomes theatre concert" style="height:800px;object-fit: cover;filter:brightness(90%) grayscale(40%)" id="aboutImg">
                 <br>
                 <br>
 <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
@@ -98,7 +98,7 @@
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/TheaterInterior/concert-45.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/TheaterInterior/concert-45.jpg" alt="bomes theatre concert" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -169,7 +169,7 @@
             </div>
             <center>
                 <br> <br>
-                <img id="content-desktop896" src="img/full_service_venue.jpg" style="width: 97%;">
+                <img id="content-desktop896" src="img/full_service_venue.jpg" alt="service venue information" style="width: 97%;">
             </center>
         </div>
     </div>
@@ -182,7 +182,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <img src="img/divider3.png" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
+                <img src="img/divider3.png" alt="image divider" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
             </div>
         </div>
     </div>
@@ -203,7 +203,7 @@
         <br>
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:400px;object-fit: cover;filter:brightness(70%) grayscale(20%)" id="aboutImg">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="bomes theatre concert" style="height:400px;object-fit: cover;filter:brightness(70%) grayscale(20%)" id="aboutImg">
                 <br>
                 <br>
                 <!--                <img src="img/TheaterInterior/Concert-9.jpg" alt="" style="height:auto;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">-->
@@ -211,7 +211,7 @@
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/TheaterInterior/concert-46.jpg" alt="" style="height:auto;object-fit: cover;" id="aboutImg">
+                    <img src="img/TheaterInterior/concert-46.jpg" alt="bomes theatre concert" style="height:auto;object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 
@@ -254,7 +254,7 @@
     <div class="container wow fadeInUp">
         <div class="row">
             <div class="col-md-12">
-                <img src="img/divider3.png" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
+                <img src="img/divider3.png" alt="image divider" style="text-align: center;display: block;margin:auto;object-fit: scale-down;">
             </div>
         </div>
     </div>
@@ -274,12 +274,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 430px; object-fit: cover;" id="aboutImg">
+                <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="mi alma food" style="width:520px; height: 430px; object-fit: cover;" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
+                    <img src="img/FoodDrink/MiAlmaCafe-2.jpg" alt="mi alma food" style="width:520px; height: 330px; object-fit: cover;" id="aboutImg">
                 </center>
             </div>
 

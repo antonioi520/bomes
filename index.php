@@ -21,12 +21,12 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/TheaterInterior/DSC_0895.jpg" class="d-block w-100" alt="..." style="height:59.375em;filter:brightness(20%);object-fit: cover;">
+                <img src="img/TheaterInterior/DSC_0895.jpg" class="d-block w-100" alt="theatre interior" style="height:59.375em;filter:brightness(20%);object-fit: cover;">
                 <div class="carousel-caption d-md-block" id="hero" style="top:150px;">
 
                     <center>
                         <br><br><br><br>
-                        <img src="img/logoT.png" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
+                        <img src="img/logoT.png" alt="bomes theatre logo" style="height:30%;width: 30%;z-index: 1;object-fit: contain;filter:brightness(95%);margin-top:-6em;margin-bottom:10px;">
                     </center>
                     <center>
                         <h1 class="headertext" style="margin-bottom: 50px;display: inline">The <h1 class="headertext" style="color:goldenrod;margin-bottom: 50px;display: inline">Bomes</h1> <h1 class="headertext" style="margin-bottom: 50px;display: inline">Theatre</H1>
@@ -64,12 +64,12 @@
     <div class="container about-container wow fadeInUp">
         <div class="row">
             <div class="col-lg-6 about-img" id="content-desktop896">
-                <img src="img/Staff/ABOUTUS_NEW.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
+                <img src="img/Staff/ABOUTUS_NEW.jpg" alt="staff" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%)" id="aboutImg">
             </div>
 
             <div class="col-lg-6 about-img" id="content-mobile896">
                 <center>
-                    <img src="img/Staff/ABOUTUS_NEW.jpg" alt="" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%);" id="aboutImg">
+                    <img src="img/Staff/ABOUTUS_NEW.jpg" alt="staff" style="height:638px;object-fit: cover;filter:brightness(100%) grayscale(30%);" id="aboutImg">
                 </center>
             </div>
 
@@ -83,7 +83,7 @@
                     create memories that will last a lifetime.
                 </p>
                 <h3 style="font-weight: bold;color: #333;margin-bottom: 14px;">Find Us:</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" allowfullscreen></iframe>            </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.4541081971906!2d-71.41585268432019!3d41.79697697846551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e44f893f923a5f%3A0x86f9ff49752031d1!2s1017+Broad+St%2C+Providence%2C+RI+02905!5e0!3m2!1sen!2sus!4v1560838747202!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;max-width:100%" alt="map" allowfullscreen></iframe>            </div>
         </div>
     </div>
 
@@ -91,7 +91,7 @@
     <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
             <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
             </iframe>
         </center>
     </div>
@@ -102,22 +102,22 @@
         <div class="row" style="overflow: hidden;">
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:20%;top:20%;">
-                    <img src="img/gd3.png" style="object-fit: contain;">
+                    <img src="img/gd3.png" alt="img header" style="object-fit: contain;">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">BOOK AN EVENT</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Looking to book an event? The Bomes Theatre can accommodate all of your needs. Take a look at our event contract
                         <a href="docs/bomes%20theatre%20event%20contract%2008.06.19.pdf" target="_blank" style="text-decoration: underline;color:goldenrod;">here</a>.</strong><br><br><br>
                     <a href="booking" id="ingredientBox" style="height: 4.000em;"><h2 id="ingredientBoxText">Book Now</h2></a>
                 </div>
-                <img src="img/TheaterInterior/concert-46.jpg" alt="food" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
+                <img src="img/TheaterInterior/concert-46.jpg" alt="theatre interior" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);float:left;">
             </div>
             <div class="col-lg-6">
                 <div style="margin: auto;width: 50%;position: absolute;z-index: 1;left:20%;top:20%;">
-                    <img src="img/gd3.png">
+                    <img src="img/gd3.png" alt="img header">
                     <h1 style="color:goldenrod;font-weight: bolder;padding-top: 10%;margin-bottom: 0;">ONGOING EVENTS</h1>
                     <strong style="color:white;letter-spacing: 0.05em;">Take a look at our upcoming events, including musical guests, contests and more!</strong><br><br><br>
                     <a href="events" id="ingredientBox" style="width:15.000em; height: 4.000em;"><h2 id="ingredientBoxText" style="padding-top: 10px;">View Events</h2></a>
                 </div>
-                <img src="img/Events/Concert-15.jpg" alt="" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
+                <img src="img/Events/Concert-15.jpg" alt="concert" style="height:43.750em;width: 62.500em;object-fit: cover;filter:brightness(40%) grayscale(80%);">
             </div>
         </div>
     </div>
