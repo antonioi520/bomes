@@ -4,8 +4,7 @@
 <?php
 if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) && isset($_POST['message'])) {
 
-    //$email_to = "MiAlmaRestaurant1@gmail.com";
-    $email_to = "iguzman1525@gmail.com";
+    $email_to = "bomes@bomestheatrellc.com";
     $email_subject = "Bomes Theatre Contact Form - " . $_POST['subject'];
 
     function died($error)
@@ -27,7 +26,7 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) &
     }
 
     $name = $_POST['name'];
-    $email_host = 'do-not-reply@MiAlmaRestaurant.com';
+    $email_host = 'do-not-reply@TheBomesTheatre.com';
     $email_from = $_POST['email'];
     $subject = $_POST['subject'];
     $message = $_POST['message'];

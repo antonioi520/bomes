@@ -22,11 +22,11 @@
     <meta charset="UTF-8">
     <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
-    <meta name=”description” content=”Book your memorable event at The Bomes Theatre and work with our amazing staff, event planner, and catering to bring your ideas to life!”>
+    <meta name="description" content="Book your memorable event at The Bomes Theatre and work with our amazing staff, event planner, and catering to bring your ideas to life!">
 
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/css-min.css" rel="stylesheet">
     <link href="css/events-min.css" rel="stylesheet">
     <link href="css/mobile-min.css" rel="stylesheet">

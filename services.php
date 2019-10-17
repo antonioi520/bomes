@@ -7,7 +7,7 @@
  */
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90995944-5"></script>
@@ -23,10 +23,10 @@
     <meta charset="UTF-8">
     <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
-    <meta name=”description” content=”Services provided by The Bomes Theatre includes weddings, baby showers, birthdays, baptisms, banquet meetings, and other special events such as live performances, business events, and conventions. Catering provided by Mi Alma Restaraunt.”>
+    <meta name="description" content="Services provided by The Bomes Theatre includes weddings, baby showers, birthdays, baptisms, banquet meetings, and other special events such as live performances, business events, and conventions. Catering provided by Mi Alma Restaraunt.">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/css-min.css" rel="stylesheet">
     <link href="css/services-min.css" rel="stylesheet">
     <link href="css/mobile-min.css" rel="stylesheet">

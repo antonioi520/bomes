@@ -7,7 +7,7 @@
  */
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90995944-5"></script>
@@ -23,10 +23,10 @@
     <meta charset="UTF-8">
     <title>The Bomes Theatre</title>
     <meta name = "viewport" content = "width=device-width, initial-scale = 1, user-scalable = no"/>
-    <meta name=”description” content=”View The Bomes Theatre's upcoming events and come join us for a fun and memorable experience!”>
+    <meta name="description" content="View The Bomes Theatre's upcoming events and come join us for a fun and memorable experience!">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/css-min.css" rel="stylesheet">
     <link href="css/events-min.css" rel="stylesheet">
     <link href="css/mobile-min.css" rel="stylesheet">
