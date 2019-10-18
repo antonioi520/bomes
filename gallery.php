@@ -139,8 +139,9 @@
     <?php include("views/Gallery/El_Ninja.html") ?>
 
     <br><br>
+    <?php include("views/Gallery/karlosrose_optimo_concert.html") ?>
 
-
+    <br><br>
 
 
     <?php include("views/Gallery/Modals/Interior_Modal.html") ?>
