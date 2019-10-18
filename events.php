@@ -99,6 +99,9 @@
             <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/F15XEZrJjLA?rel=0"
                     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/ecU1zISjC8E?rel=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
         </center>
     </div>
 
@@ -121,16 +124,6 @@
     </div>-->
 
     <div class="row" id="normalDiv">
-
-    </div>
-    <br>
-    <div class="col-md-6"></div>
-</div>
-<div class="col-md-6"></div>
-</div>
-
-<div class="container">
-    <div class="row">
         <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/la_cronica_irreverente.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
@@ -179,6 +172,43 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
+        </div>
+    </div>
+    <br>
+    <div class="col-md-6"></div>
+</div>
+<div class="col-md-6"></div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="col-md-3"></div>
+            <div class="card" style="border-color: goldenrod">
+                <img class="card-img-top" src="img/Events/krose_optimo.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Karlos Rose & Optimo</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        With Live DJ: DJ TRAVIESO
+                        <br><br>
+                        <strong>Dates:</strong><strong> Friday, November 22nd</strong><br>
+                        <strong>Times:</strong><strong> 9pm - 2am</strong><br>
+                        <strong>Tickets:</strong><strong> $25</strong><br>
+                        <br>
+                    </p>
+
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
         </div>
     </div>
 </div>
