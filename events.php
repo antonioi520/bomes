@@ -129,7 +129,7 @@
                         <strong>Dates:</strong><strong> Friday, November 22nd</strong><br>
                         <strong>Times:</strong><strong> 9pm - 2am</strong><br>
                         <strong>Tickets:</strong><strong> $25</strong><br>
-                        <br><br>
+                        <br><br><br><br>
                     </p>
 
                 </div>
@@ -148,12 +148,12 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Erasmo Brito</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservas: (401) 265-7142, (401) 919-0162, (401) 215-7824
+                        Reservas: (401) 265-7142, <br> (401) 919-0162, <br> (401) 215-7824
                         <br><br>
                         <strong>Date: Saturday, February 1st</strong><br>
                         <strong>Start: 9pm</strong><br>
                         <strong>End: 1am</strong><br>
-                        <strong>Tickets: $20</strong><br>
+                        <strong>Tickets: $20</strong><br><br>
                         </p>
 
                 </div>
