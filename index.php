@@ -88,13 +88,26 @@
     </div>
 
     <br><br><br>
-    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
-        <center>
-            <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
-            </iframe>
-        </center>
+    <div id="content-desktop896">
+        <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+            <center>
+                <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
+                        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
+                </iframe>
+            </center>
+        </div>
     </div>
+
+    <div id="content-mobile896">
+        <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+            <center>
+                <iframe id="galleryVid" width="98%" height="325px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
+                        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
+                </iframe>
+            </center>
+        </div>
+    </div>
+
 </section>
 <!--images in middle -->
 <section id="middleImages">
