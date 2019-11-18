@@ -10,14 +10,14 @@
 <?php include("views/header.html") ?>
 
 <link href="css/mobile-min.css" rel="stylesheet">
+<link href="css/css.css" rel="stylesheet">
 
 <body>
 <!-- Header -->
 
 <?php include("views/nav.html") ?>
 
-
-<div class="headerwrapper">
+<div class="headerwrapper" id="iphone">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -189,13 +189,29 @@
                         <p>1017 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
-
                 </div>
             </div>
 
         </div>
     </div>
+    <br><br><br>
+    <div class="container" id="content-desktop896">
+        <div class="row">
+            <img src="img/manager.jpg" alt="service venue information" style="width: 50%;">
+            <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 50%;">
+        </div>
+    </div>
+    <div class="container" id="content-mobile896">
+        <div class="row">
+            <img src="img/manager.jpg" alt="service venue information" style="width: 100%;height: 100%;">
+        </div>
+        <br>
+        <div class="row">
+            <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 100%;height:100%;">
+        </div>
+    </div>
 </section>
+
 <!-- #footer -->
 <?php include("views/footer.html")?>
 
