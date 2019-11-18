@@ -10,14 +10,14 @@
 <?php include("views/header.html") ?>
 
 <link href="css/mobile-min.css" rel="stylesheet">
+<link href="css/css.css" rel="stylesheet">
 
 <body>
 <!-- Header -->
 
 <?php include("views/nav.html") ?>
 
-
-<div class="headerwrapper">
+<div class="headerwrapper" id="iphone">
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" style="z-index: 1;margin-top:-6.250em;">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -87,14 +87,31 @@
         </div>
     </div>
 
-    <br><br><br>
-    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
-        <center>
-            <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
-            </iframe>
-        </center>
+    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896">
+    <div id="content-desktop896">
+        <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+            <center>
+                <iframe id="galleryVid" width="58%" height="525px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
+                        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
+                </iframe>
+            </center>
+        </div>
     </div>
+
+    <div id="content-mobile896">
+        <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+            <center>
+                <iframe id="galleryVid" width="98%" height="325px" src="https://www.youtube.com/embed/yNe-c37CH9A?rel=0"
+                        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" alt="video" allowfullscreen>
+                </iframe>
+            </center>
+        </div>
+    </div>
+
+    <div id="content-mobile896">
+        <img src="img/welcome_poster.jpeg" alt="service venue information" style="width: 100%;height:100%;">
+    </div>
+
 </section>
 <!--images in middle -->
 <section id="middleImages">
@@ -189,13 +206,37 @@
                         <p>1017 Broad Street</p><br>
                         <p>Providence, RI 02905</p>
                     </div>
-
                 </div>
             </div>
 
         </div>
     </div>
+    <br><br><br>
+
+    <!-- Manager/Rental Agent Desktop View  -->
+    <div class="container" id="content-desktop896">
+        <div class="row">
+            <img src="img/manager.jpg" alt="service venue information" style="width: 50%;">
+            <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 50%;">
+        </div>
+    </div>
+
+    <!-- Manager/Rental Agent Mobile View  -->
+    <div class="container" id="content-mobile896">
+        <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Manager</h3>
+        <div class="section-title-divider" style="margin-bottom: 30px;"></div>
+        <div class="row">
+            <img src="img/manager.jpg" alt="service venue information" style="width: 100%;height: 100%;">
+        </div>
+        <br><br>
+        <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Rental Agent</h3>
+        <div class="section-title-divider" style="margin-bottom: 30px;"></div>
+        <div class="row">
+            <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 100%;height:100%;">
+        </div>
+    </div>
 </section>
+
 <!-- #footer -->
 <?php include("views/footer.html")?>
 
