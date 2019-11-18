@@ -195,17 +195,25 @@
         </div>
     </div>
     <br><br><br>
+
+    <!-- Manager/Rental Agent Desktop View  -->
     <div class="container" id="content-desktop896">
         <div class="row">
             <img src="img/manager.jpg" alt="service venue information" style="width: 50%;">
             <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 50%;">
         </div>
     </div>
+
+    <!-- Manager/Rental Agent Mobile View  -->
     <div class="container" id="content-mobile896">
+        <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Manager</h3>
+        <div class="section-title-divider" style="margin-bottom: 30px;"></div>
         <div class="row">
             <img src="img/manager.jpg" alt="service venue information" style="width: 100%;height: 100%;">
         </div>
-        <br>
+        <br><br>
+        <h3 class="section-title-lowercase" style="font-family: 'Niconne', cursive;letter-spacing: 0.05em;font-size: 3.125em;margin-bottom: 5px;">Rental Agent</h3>
+        <div class="section-title-divider" style="margin-bottom: 30px;"></div>
         <div class="row">
             <img src="img/rental_agent.jpeg" alt="service venue information" style="width: 100%;height:100%;">
         </div>
