@@ -87,7 +87,7 @@
         </div>
     </div>
 
-    <br><br><br>
+    <br id="content-desktop896"><br id="content-desktop896"><br id="content-desktop896">
     <div id="content-desktop896">
         <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
             <center>
