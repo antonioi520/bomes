@@ -108,6 +108,10 @@
         </div>
     </div>
 
+    <div id="content-mobile896">
+        <img src="img/welcome_poster.jpeg" alt="service venue information" style="width: 100%;height:100%;">
+    </div>
+
 </section>
 <!--images in middle -->
 <section id="middleImages">
