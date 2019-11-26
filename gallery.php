@@ -131,6 +131,8 @@
     <br><br>
     <?php include("views/Gallery/PHSLA_Awards_Ceremony.html") ?>
 
+    <br><br>
+    <?php include("views/Gallery/noche_de_humor.html") ?>
 
     <br><br>
     <?php include("views/Gallery/El_Primer_Tipicazo.html") ?>
@@ -140,9 +142,6 @@
 
     <br><br>
     <?php include("views/Gallery/karlosrose_optimo_concert.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/noche_de_humor.html") ?>
 
     <br><br>
 
