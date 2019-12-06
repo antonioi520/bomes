@@ -91,13 +91,13 @@
         <a href="#top" id="viewButton" onclick="switchToNormalView()">Normal</a>
     </center>-->
     <h2 style="text-align: center;color:black;margin-bottom: 20px;margin-top:15px;font-weight: 600">Special Events</h2>
-    <!--div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
+    <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
-            <!--iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/ecU1zISjC8E?rel=0"
+            <iframe id="galleryVid" width="70%" height="430px" src="https://www.youtube.com/embed/XgkDWWW16k0?rel=0"
                     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
         </center>
-    </div-->
+    </div>
 
     <!--<div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
