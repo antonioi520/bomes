@@ -75,7 +75,7 @@
     <hr style="margin-bottom:0px;">
 </div>
 
-<div- class="container">
+<div class="container">
     <br><br><br>
     <div id="top"></div>
     <div class="col-md-6"></div>
@@ -119,7 +119,6 @@
 
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="col-md-2"></div>
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/new_years.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -172,7 +171,6 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="col-md-2"></div>
         </div>
     </div>
     <br>
