@@ -555,13 +555,40 @@ p {
         display:none;
     }
 }
+.footerDates{
+    margin-left:20px;
+}
+.footerDate{
+    text-align: center;margin:0;padding-right: 13px;
+}
 @media (max-width: 896px) {
     .footerDates{
-        margin-left:12px;
+        margin-left:0px;
+        width:350px;
     }
     .footerDates p {
         font-size:8px;
-
+    }
+    #footerDate1{
+        padding-right: 2px;width:50px;
+    }
+    #footerDate2{
+        padding-right: 8px;
+    }
+    #footerDate3{
+        padding-right: 6px;
+    }
+    #footerDate4{
+        padding-right: 8px;
+    }
+    #footerDate5{
+        padding-right: 5px;
+    }
+    #footerDate6{
+        padding-right: 0px;width:44px;
+    }
+    #footerDate7{
+        padding-right: 0px;width:56px;
     }
 }
 @media (max-width: 896px) {
@@ -791,3 +818,4 @@ textarea.invalid {
     }
 
 }
+

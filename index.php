@@ -193,13 +193,13 @@
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Hours</h4>
-                        <strong>Mon:</strong><p style="padding-left:0;"> Closed</p><br>
-                        <strong>Tue:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
-                        <strong>Wed:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
-                        <strong>Thurs:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
-                        <strong>Fri:</strong><p style="padding-left:0;"> 11am-6:30pm</p><br>
-                        <strong>Sat:</strong><p style="padding-left:0;"> 12pm-4:00pm</p><br>
-                        <strong>Sun:</strong><p style="padding-left:0;"> 12pm-4:00pm</p>
+                        <strong>Mon:</strong><p style="padding-left:0;"> 10:00am - 4:00pm</p><br>
+                        <strong>Tue:</strong><p style="padding-left:0;"> 10:00am - 4:00pm</p><br>
+                        <strong>Wed:</strong><p style="padding-left:0;"> 10:00am - 4:00pm</p><br>
+                        <strong>Thurs:</strong><p style="padding-left:0;"> 10:00am - 4:00pm</p><br>
+                        <strong>Fri:</strong><p style="padding-left:0;"> 10:00am - 4:00pm</p><br>
+                        <strong>Sat:</strong><p style="padding-left:0;"> Appointment Only</p><br>
+                        <strong>Sun:</strong><p style="padding-left:0;"> Appointment Only</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="fas fa-location-arrow" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Location</h4>
