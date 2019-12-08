@@ -91,6 +91,7 @@
     <!--    <h1 class="menu-heading">Gallery</h1>-->
 
     <BR>
+    <?php include("views/Gallery/career.html") ?>
     <br>
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
     <?php include("views/Gallery/interior_theatre.html") ?>
@@ -149,6 +150,7 @@
     <?php include("views/Gallery/Modals/Interior_Theatre_Modal.html") ?>
     <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
     <?php include("views/Gallery/Modals/Video_Modal.html") ?>
+    <?php include("views/Gallery/Modals/Career_Modal.html") ?>
 
 
 
@@ -169,6 +171,14 @@
         }
     </script>
     <script>
+
+        function openCareerModal() {
+            document.getElementById("careerModal").style.display = "block";
+        }
+
+        function closeCareerModal() {
+            document.getElementById("careerModal").style.display = "none";
+        }
 
         function openInteriorModal() {
             document.getElementById("interiorModal").style.display = "block";
@@ -214,6 +224,17 @@
         var videoSlideIndex = 1;
         showVideoSlides(videoSlideIndex);
 
+        var careerSlideIndex = 1;
+        showCareerSlides(careerSlideIndex);
+
+        function plusCareerSlides(n) {
+            showCareerSlides(CareerSlideIndex += n);
+        }
+
+        function currentInteriorSlide(n) {
+            showInteriorSlides(interiorSlideIndex = n);
+        }
+
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
         }
@@ -244,6 +265,24 @@
 
         function currentVideoSlide(n) {
             showVideoSlides(videoSlideIndex = n);
+        }
+
+        function showCareerSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("careerSlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {careerSlideIndex = 1}
+            if (n < 1) {careerSlideIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[careerSlideIndex-1].style.display = "block";
+            dots[careerSlideIndex-1].className += " active";
+            captionText.innerHTML = dots[careerSlideIndex-1].alt;
         }
 
         function showInteriorSlides(n) {
