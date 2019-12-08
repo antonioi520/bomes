@@ -48,7 +48,9 @@
     </div>
 </div>
 
-
+<div id="content-mobile896">
+    <img src="img/hiring.jpeg" alt="hiring bartender information" style="width: 100%;height:100%;">
+</div>
 <!--==========================
   About Section
   ============================-->
