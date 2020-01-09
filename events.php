@@ -93,7 +93,10 @@
     <h2 style="text-align: center;color:black;margin-bottom: 20px;margin-top:15px;font-weight: 600">Special Events</h2>
     <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
-            <iframe id="galleryVid" width="70%" height="430px" src="https://www.youtube.com/embed/XgkDWWW16k0?rel=0"
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/T106tzTigHI?rel=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/CzvKBdZu98c?rel=0"
                     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
         </center>
@@ -119,69 +122,7 @@
 
     <div class="row" id="normalDiv">
         <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/new_years.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
-                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Chico Severino & Nicol Peña</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        New Years Eve Celebration!
-                        <br><br>
-                        <strong>Date: Tuesday, December 31st, 2019</strong><br>
-                        <strong>Start: 8pm</strong><br>
-                        <strong>End: 2am</strong><br>
-                        <strong>Tickets: $25</strong>
-                        <strong><a href="https://www.boletosexpress.com/new-years-eve-celebration-/56431/" target="_blank" style="text-decoration: underline">(Purchase Ticket)</a></strong>
-                        <br><br>
-                    </p>
-
-                </div>
-                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-
-                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-            </div>
-            <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/nicol_pena.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
-                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Nicol Peña & Chico Severino</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        New Years Eve Celebration!
-                        <br><br>
-                        <strong>Date: Tuesday, December 31st, 2019</strong><br>
-                        <strong>Start: 8pm</strong><br>
-                        <strong>End: 2am</strong><br>
-                        <strong>Tickets: $25</strong>
-                        <strong><a href="https://www.boletosexpress.com/new-years-eve-celebration-/56431/" target="_blank" style="text-decoration: underline">(Purchase Ticket)</a></strong>
-                        <br><br>
-                    </p>
-
-                </div>
-                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-
-                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br>
-    <div class="col-md-6"></div>
-</div>
-<div class="col-md-6"></div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/erasmo_brito.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -194,6 +135,43 @@
                         <strong>End: 1am</strong><br>
                         <strong>Tickets: $20</strong>
                         <strong><a href="https://www.boletosexpress.com/erasmo-brito/56430/" target="_blank" style="text-decoration: underline">(Purchase Ticket)</a></strong>
+                        <br><br>
+                    </p>
+
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    </div>
+    <br>
+    <div class="col-md-6"></div>
+</div>
+<div class="col-md-6"></div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="card" style="border-color: goldenrod">
+                <img class="card-img-top" src="img/Events/el_ninja_valentines.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Ninja Valentine's Day Event</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        Reservas: <br> Ronny Batista: (917) 385-8241, <br> Keiry Luciano: (401) 215-7824
+                        <br><br>
+                        <strong>Date: Saturday, February 14th, 2020</strong><br>
+                        <strong>Start: 5pm</strong><br>
+                        <strong>End: 1am</strong><br>
+                        <strong>Price: $150</strong>
                         <br><br>
                     </p>
 
