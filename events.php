@@ -93,7 +93,10 @@
     <h2 style="text-align: center;color:black;margin-bottom: 20px;margin-top:15px;font-weight: 600">Special Events</h2>
     <div class="row" id="videoRow" style="display: inline; padding-top: 0px;">
         <center>
-            <iframe id="galleryVid" width="70%" height="430px" src="https://www.youtube.com/embed/XgkDWWW16k0?rel=0"
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/T106tzTigHI?rel=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            <iframe id="galleryVid" width="49%" height="430px" src="https://www.youtube.com/embed/CzvKBdZu98c?rel=0"
                     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
         </center>
