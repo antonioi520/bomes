@@ -47,7 +47,7 @@
         </div>
     </div>
 </div>
-<div class="alert alert-success" style="text-align: center">
+<!--<div class="alert alert-success" style="text-align: center">
     <strong style="text-align: center">We are now hiring!</strong>
 </div>
 <div class="container" style="text-align: center" id="content-desktop896">
@@ -55,7 +55,7 @@
 </div>
 <div id="content-mobile896">
     <img src="img/hiring.jpeg" alt="hiring bartender information" style="width: 100%;height:100%;padding:0 10px;">
-</div>
+</div>-->
 <!--==========================
   About Section
   ============================-->
