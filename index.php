@@ -115,9 +115,9 @@
         </div>
     </div>
 
-    <div id="content-mobile896">
+    <!--div id="content-mobile896">
         <img src="img/welcome_poster.jpeg" alt="service venue information" style="width: 100%;height:100%;">
-    </div>
+    </div-->
 
 </section>
 <!--images in middle -->
@@ -196,7 +196,7 @@
                     <br id="content-mobile">
                     <div>
                         <i class="fas fa-phone" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Phone</h4>
-                        <p>(401) 499-4689</p>
+                        <p>(401) 588-0974</p>
                     </div>
                     <div style="padding-top: 1.250em;">
                         <i class="far fa-calendar-alt" style="color: goldenrod"></i><h4 style="padding-left:1.6em;">Hours</h4>
