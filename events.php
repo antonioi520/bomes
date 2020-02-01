@@ -209,6 +209,39 @@
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
+                <img class="card-img-top" src="img/Events/insuperable_seating.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">La Insuperable - Seating Chart</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        <a href="img/Events/insuperable_seating.jpeg" target="_blank">View Seating Chart</a>
+                        <br><br>
+                        <strong>Date: Saturday, February 8th</strong><br>
+                        <strong>Tickets: $30</strong><br>
+                        <strong>VIP Tickets: $50</strong>
+                        <br><br><br><br><br>
+                    </p>
+
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/makeup.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Clases De Maquillaje Profesional</h5>
@@ -235,15 +268,7 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
 
-<br>
-
-<div class="container">
-    <div class="row">
-        <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/el_ninja_valentines.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -269,6 +294,15 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/chaval3.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -295,16 +329,7 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
 
-<br>
-
-<div class="container">
-    <div class="row">
-        <div class="card-deck" style="width:80%;margin:auto;">
-            <div class="col-lg-3"></div>
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/fernando_villalona.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -313,7 +338,7 @@
                         50 Años De Historia
                         <br><br>
                         <strong>Date: Friday, May 15th</strong><br>
-                        <br>
+                        <br><br><br><br><br><br>
                     </p>
 
                 </div>
@@ -327,7 +352,6 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="col-lg-3"></div>
         </div>
     </div>
 </div>
