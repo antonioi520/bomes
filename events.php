@@ -190,6 +190,8 @@
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">La Insuperable En Vivo</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         Reservas: (401) 215-7824
+                        <br>
+                        <a href="img/Events/insuperable_seating.jpeg" target="_blank">View Seating Chart</a>
                         <br><br>
                         <strong>Date: Saturday, February 8th</strong><br>
                         <strong>Tickets: $30</strong><br>
@@ -247,7 +249,7 @@
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Clases De Maquillaje Profesional</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         Reservations: <br>
-                        Yinelis - (401) 588-0974,<br>
+                        Yinelis - (401) 588-0974<br>
                         Ysmel - (401) 286-1004
                         <br><br>
                         <strong>Date: Sunday, February 9th</strong><br>
@@ -274,7 +276,7 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Ninja Valentine's Day Event</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservas: <br> Ronny Batista: (917) 385-8241, <br> Keiry Luciano: (401) 215-7824
+                        Reservas: <br> Ronny Batista: (917) 385-8241 <br> Keiry Luciano: (401) 215-7824
                         <br><br>
                         <strong>Date: Saturday, February 14th</strong><br>
                         <strong>Start: 5pm</strong><br>
@@ -308,7 +310,7 @@
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
                     <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservaciones: (401) 499-4689,<br>
+                        Reservaciones: (401) 499-4689<br>
                         (401) 215-7824
                         <br><br>
                         <strong>Date: Friday, April 24th</strong><br>
