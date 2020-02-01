@@ -129,7 +129,7 @@
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         Reservas: (401) 265-7142, <br> (401) 919-0162, <br> (401) 215-7824
                         <br><br>
-                        <strong>Date: Saturday, February 1st, 2020</strong><br>
+                        <strong>Date: Saturday, February 1st</strong><br>
                         <strong>Start: 9pm</strong><br>
                         <strong>End: 1am</strong><br>
                         <strong>Tickets: $20</strong>
@@ -157,7 +157,7 @@
                         Buffalo/BBQ Chicken Wings - $6.00 <br>
                         Nachos/Tacos - $6.00
                         <br><br>
-                        <strong>Date: Sunday, February 2nd, 2020</strong><br>
+                        <strong>Date: Sunday, February 2nd</strong><br>
                         <strong>Start: 5pm</strong><br>
                         <br><br><br>
                     </p>
@@ -191,10 +191,10 @@
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         Reservas: (401) 215-7824
                         <br><br>
-                        <strong>Date: Saturday, February 8th, 2020</strong><br>
+                        <strong>Date: Saturday, February 8th</strong><br>
                         <strong>Tickets: $30</strong><br>
                         <strong>VIP Tickets: $50</strong>
-                        <br><br>
+                        <br><br><br><br><br>
                     </p>
 
                 </div>
@@ -209,18 +209,19 @@
                 </div>
             </div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/chaval3.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/Events/makeup.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Clases De Maquillaje Profesional</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservaciones: (401) 499-4689,<br>
-                        (401) 215-7824
+                        Reservations: <br>
+                        Yinelis - (401) 588-0974,<br>
+                        Ysmel - (401) 286-1004
                         <br><br>
-                        <strong>Date: Friday, April 24th, 2020</strong><br>
-                        <strong>Start: 9pm</strong><br>
-                        <strong>End: 2am</strong><br>
-                        <strong>Tickets: $35</strong>
-                        <br><br><br>
+                        <strong>Date: Sunday, February 9th</strong><br>
+                        <strong>Start: 10am</strong><br>
+                        <strong>End: 3pm</strong><br>
+                        <strong>Price: $60 for the class, $20 deposit</strong>
+                        <br><br>
                     </p>
 
                 </div>
@@ -250,7 +251,7 @@
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         Reservas: <br> Ronny Batista: (917) 385-8241, <br> Keiry Luciano: (401) 215-7824
                         <br><br>
-                        <strong>Date: Saturday, February 14th, 2020</strong><br>
+                        <strong>Date: Saturday, February 14th</strong><br>
                         <strong>Start: 5pm</strong><br>
                         <strong>End: 1am</strong><br>
                         <strong>Price: $150</strong>
@@ -276,7 +277,7 @@
                         Reservaciones: (401) 499-4689,<br>
                         (401) 215-7824
                         <br><br>
-                        <strong>Date: Friday, April 24th, 2020</strong><br>
+                        <strong>Date: Friday, April 24th</strong><br>
                         <strong>Start: 9pm</strong><br>
                         <strong>End: 2am</strong><br>
                         <strong>Tickets: $35</strong>
@@ -297,6 +298,40 @@
         </div>
     </div>
 </div>
+
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="card-deck" style="width:80%;margin:auto;">
+            <div class="col-lg-3"></div>
+            <div class="card" style="border-color: goldenrod">
+                <img class="card-img-top" src="img/Events/fernando_villalona.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Fernando Villalona</h5>
+                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
+                        50 Años De Historia
+                        <br><br>
+                        <strong>Date: Friday, May 15th</strong><br>
+                        <br>
+                    </p>
+
+                </div>
+                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
+                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+
+                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
+                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
+                </div>
+            </div>
+            <div class="col-lg-3"></div>
+        </div>
+    </div>
+</div>
+
 
 <h2 style="text-align: center;color:black;margin-bottom: 40px;margin-top:40px;font-weight: 600">Recurring Events</h2>
 <div class="container">
