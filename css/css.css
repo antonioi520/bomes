@@ -559,7 +559,7 @@ p {
     margin-left:20px;
 }
 .footerDate{
-    text-align: center;margin:0;padding-right: 13px;
+    text-align: center;margin:0;
 }
 @media (max-width: 896px) {
     .footerDates{
