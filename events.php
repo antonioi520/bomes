@@ -195,7 +195,7 @@
                         <br><br>
                         <strong>Date: Friday, May 15th</strong><br>
                         <strong>Tickets: $30</strong><br>
-                        <br><br>
+                        <br>
                     </p>
 
                 </div>
