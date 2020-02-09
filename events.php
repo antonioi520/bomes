@@ -135,7 +135,7 @@
 
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
@@ -200,7 +200,7 @@
 
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
@@ -233,7 +233,7 @@
 
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
@@ -257,7 +257,7 @@
 
                 </div>
                 <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-cen6ter" style="color:white;font-weight: bold; text-align: center">
+                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
 
