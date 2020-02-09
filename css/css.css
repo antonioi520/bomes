@@ -564,7 +564,6 @@ p {
 @media (max-width: 896px) {
     .footerDates{
         margin-left:0px;
-        width:350px;
     }
     .footerDates p {
         font-size:8px;
@@ -585,10 +584,10 @@ p {
         padding-right: 5px;
     }
     #footerDate6{
-        padding-right: 0px;width:44px;
+        padding-right: 0px;
     }
     #footerDate7{
-        padding-right: 0px;width:56px;
+        padding-right: 0px;
     }
 }
 @media (max-width: 896px) {
