@@ -112,6 +112,14 @@
         </center>
     </div>
 
+    <div class="row" id="videoRow3" style="display: inline; padding-top: 0px;">
+        <center>
+            <iframe id="galleryVid" width="98%" height="430px" src="https://www.youtube.com/embed/0KugTRVK2hQ?rel=0"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+        </center>
+    </div>
+
     <!--<div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
             <img src="img/cards/card5.png" alt="" >
