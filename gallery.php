@@ -145,6 +145,9 @@
     <?php include("views/Gallery/karlosrose_optimo_concert.html") ?>
 
     <br><br>
+    <?php include("views/Gallery/la_insuperable.html") ?>
+
+    <br><br>
 
     <?php include("views/Gallery/Modals/Interior_Modal.html") ?>
     <?php include("views/Gallery/Modals/Interior_Theatre_Modal.html") ?>
