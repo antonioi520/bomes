@@ -148,6 +148,9 @@
     <?php include("views/Gallery/la_insuperable.html") ?>
 
     <br><br>
+    <?php include("views/Gallery/el_ninja_valentines.html") ?>
+
+    <br><br>
 
     <?php include("views/Gallery/Modals/Interior_Modal.html") ?>
     <?php include("views/Gallery/Modals/Interior_Theatre_Modal.html") ?>
