@@ -178,12 +178,12 @@
     color: white;
 }
 
-.demo {
+.demo, .demo4 {
     opacity: 0.6;
 }
 
 .active,
-.demo:hover {
+.demo:hover, .demo4:hover {
     opacity: 1;
 }
 

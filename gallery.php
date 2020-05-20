@@ -128,6 +128,8 @@
     <br><br>
     <?php include("views/Gallery/DR_Parade.html") ?>
 
+    <br><br>
+    <?php include("views/Gallery/el_ninja_weekend.html") ?>
 
     <br><br>
     <?php include("views/Gallery/PHSLA_Awards_Ceremony.html") ?>
@@ -155,6 +157,7 @@
     <?php include("views/Gallery/Modals/Interior_Modal.html") ?>
     <?php include("views/Gallery/Modals/Interior_Theatre_Modal.html") ?>
     <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
+    <?php include("views/Gallery/Modals/Ninja_Weekend_Modal.html") ?>
     <?php include("views/Gallery/Modals/Video_Modal.html") ?>
     <?php include("views/Gallery/Modals/Career_Modal.html") ?>
 
@@ -210,6 +213,14 @@
             document.getElementById("eventModal").style.display = "none";
         }
 
+        function openEventModalWeekend() {
+            document.getElementById("eventModalWeekend").style.display = "block";
+        }
+
+        function closeEventModalWeekend() {
+            document.getElementById("eventModalWeekend").style.display = "none";
+        }
+
         function openVideoModal() {
             document.getElementById("videoModal").style.display = "block";
         }
@@ -226,6 +237,9 @@
 
         var eventSlideIndex = 1;
         showEventSlides(eventSlideIndex);
+
+        var eventSlideWeekendIndex = 1;
+        showEventSlidesWeekend(eventSlideWeekendIndex);
 
         var videoSlideIndex = 1;
         showVideoSlides(videoSlideIndex);
@@ -263,6 +277,14 @@
 
         function currentEventSlide(n) {
             showEventSlides(eventSlideIndex = n);
+        }
+
+        function plusEventSlidesWeekend(n) {
+            showEventSlidesWeekend(eventSlideWeekendIndex += n);
+        }
+
+        function currentEventSlidesWeekend(n) {
+            showEventSlidesWeekend(eventSlideWeekendIndex = n);
         }
 
         function plusVideoSlides(n) {
@@ -343,6 +365,24 @@
             slides[eventSlideIndex-1].style.display = "block";
             dots[eventSlideIndex-1].className += " active";
             captionText.innerHTML = dots[eventSlideIndex-1].alt;
+        }
+
+        function showEventSlidesWeekend(n) {
+            var i;
+            var slides = document.getElementsByClassName("eventSlidesWeekend");
+            var dots = document.getElementsByClassName("demo4");
+            var captionText = document.getElementById("caption4");
+            if (n > slides.length) {eventSlideWeekendIndex = 1}
+            if (n < 1) {eventSlideWeekendIndex = slides.length}
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[eventSlideWeekendIndex-1].style.display = "block";
+            dots[eventSlideWeekendIndex-1].className += " active";
+            captionText.innerHTML = dots[eventSlideWeekendIndex-1].alt;
         }
 
         function showVideoSlides(n) {
