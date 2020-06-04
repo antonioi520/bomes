@@ -82,6 +82,7 @@
 
             <div class="col-md-6 about-content">
                 <h2 class="about-title" style="margin-bottom: 14px;display: inline ">The <h2 class="about-title" style="margin-bottom: 14px;color:goldenrod;display: inline ">revitalization</h2> <h2 class="about-title" style="margin-bottom: 14px;display: inline ">of the historic Bomes Theatre</h2>
+                    <br><br>
                 <p class="about-text">
                     The Bomes Theatre, on the south side of Providence is about to get new life bringing you monthly performance events with all types of genres.
                 </p>
