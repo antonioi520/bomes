@@ -230,8 +230,12 @@
 </div>
 
 <div class="container">
+    <div class="row" style="display: inline;" >
+        <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">No upcoming Events</h1>
+        <h5 class="" style="text-align: center;font-size: 20px;">Please check again later.</h5>
+    </div>
     <div class="row">
-        <div class="card-deck" style="width:80%;margin:auto;">
+        <!--<div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/mothers_day1.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
@@ -259,34 +263,8 @@
                         The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
                 </div>
             </div>
-            <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/mothers_day2.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
-                <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Dominican Mother's Day</h5>
-                    <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservations: <br>
-                        (401) 487-0454 <br>
-                        (401) 588-0974
-                        <br><br>
-                        <strong>Date: Saturday, May 30th</strong><br>
-                        <strong>Start: 1pm</strong><br>
-                        <strong>End: 4pm</strong><br>
-                        <strong>Tickets: $50</strong>
-                        <br><br>
-                    </p>
 
-                </div>
-                <div id="content-desktop" class="card-footer" style="background-color: goldenrod;height:50px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-
-                <div id="content-mobile" class="card-footer" style="background-color: goldenrod;height:60px;">
-                    <small class="d-flex justify-content-center" style="color:white;font-weight: bold; text-align: center">
-                        The Bomes Theatre, 1017 Broad Street, Providence, RI 02905</small>
-                </div>
-            </div>
-        </div>
+        </div>-->
     </div>
 </div>
 
@@ -350,25 +328,6 @@
 <br id="content-desktop">
 
 
-<!--<script src="js/test.js"></script>
-
-<script>
-    var normal = document.getElementById("normalDiv");
-    var normal2 = document.getElementById("normalDiv2");
-    var rotating = document.getElementById("rotatingDiv");
-
-
-    function switchToNormalView() {
-        normal.style.display = "inline";
-        normal2.style.display = "inline";
-        rotating.style.display = "none";
-    }
-    function switchToRotatingView() {
-        normal.style.display = "none";
-        normal2.style.display = "none";
-        rotating.style.display = "flex";
-    }
-</script>-->
 <?php include("views/footer.html")?>
 
 <!-- Optional JavaScript -->
