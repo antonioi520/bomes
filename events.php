@@ -113,6 +113,15 @@
         </center>
     </div-->
 
+    <div class="row" id="videoRow3" style="display: inline; padding-top: -10px;">
+        <center>
+            <video id="video" style="margin-bottom: 30px; width: 67%;" controls>
+                <source src="vid/elchaval2021video.MP4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </center>
+    </div>
+
     <!--<div class="carousel1" data-gap="20" id="rotatingDiv" data-bfc style="width:100%;height:100%;">
         <figure>
             <img src="img/cards/card5.png" alt="" >
@@ -132,20 +141,21 @@
     </div>-->
 
     <div class="row" id="normalDiv">
-        <!--div class="card-deck" style="width:80%;margin:auto;">
+        <div class="card-deck" style="width:80%;margin:auto;">
             <div class="col-md-3"></div>
             <div class="card" style="border-color: goldenrod">
-                <img class="card-img-top" src="img/Events/noche_bohemia_march.jpg" alt="Card image cap" style="height:400px;object-fit: contain;">
+                <img class="card-img-top" src="img/events/elchaval2021.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">Noche Bohemia</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval de la Bachala</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
-                        Reservaciones: <br>
-                        (401) 215-7824 <br>
-                        (401) 648-0715
+                        For reservations contact: <br>
+                        (401) 451-2584 <br>
+                        (646) 651-8791
                         <br><br>
-                        <strong>Date: Wednesday, March 11th</strong><br>
-                        <strong>Start: 6pm</strong><br>
-                        <strong>End: 11pm</strong><br>
+                        <strong>Date: Friday, June 18th</strong><br>
+                        <strong>Start: 9pm</strong><br>
+                        <strong>End: 2am</strong><br>
+                        <strong>Tickets: $40</strong><br>
                         <br>
                     </p>
 
@@ -161,10 +171,10 @@
                 </div>
             </div>
             <div class="col-md-3"></div>
-        </div-->
+        </div
     </div>
 
-    <!--br-->
+    <br><br>
 
     <div class="row" id="normalDiv2">
         <!--div class="card-deck" style="width:80%;margin:auto;">
@@ -224,18 +234,18 @@
         </div-->
     </div>
     <br>
-    <div class="col-md-6"></div>
+    <!--div class="col-md-6"></div-->
 </div>
-<div class="col-md-6"></div>
+<!--div class="col-md-6"></div-->
 </div>
 
 <div class="container">
-    <div class="row" style="display: inline;" >
+    <!--div class="row" style="display: inline;" >
         <h1 style="text-align: center; color:#1b1b1b;margin-bottom: 3px;">No upcoming Events</h1>
         <h5 class="" style="text-align: center;font-size: 20px;">Please check again later.</h5>
     </div>
     <div class="row">
-        <!--<div class="card-deck" style="width:80%;margin:auto;">
+        <div class="card-deck" style="width:80%;margin:auto;">
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/mothers_day1.jpeg" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
