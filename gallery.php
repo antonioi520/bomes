@@ -90,8 +90,6 @@
     <!--h2>work in progress</h2-->
     <!--    <h1 class="menu-heading">Gallery</h1>-->
 
-    <BR>
-    <?php include("views/Gallery/career.html") ?>
     <br>
     <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Interior (Theatre)</h2-->
     <?php include("views/Gallery/interior_theatre.html") ?>
@@ -103,64 +101,9 @@
 
     <br><br>
 
-    <?php include("views/Gallery/opening_night_concert.html") ?>
-
-    <br><br>
-    <!--h2 style="text-align:center; color:black;padding-bottom:0px;">Events</h2-->
-    <?php include("views/Gallery/optimo_concert.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/don_miguelo_concert.html") ?>
-
-
-    <br><br>
-    <?php include("views/Gallery/adolescentes_concert.html") ?>
-
-
-    <br><br>
-    <?php include("views/Gallery/miss_dominican_republic2019.html") ?>
-
-
-    <br><br>
-    <?php include("views/Gallery/El_Varon_De_La_Bachata_Concert.html") ?>
-
-
-    <br><br>
-    <?php include("views/Gallery/DR_Parade.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/el_ninja_weekend.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/PHSLA_Awards_Ceremony.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/noche_de_humor.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/El_Primer_Tipicazo.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/El_Ninja.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/karlosrose_optimo_concert.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/la_insuperable.html") ?>
-
-    <br><br>
-    <?php include("views/Gallery/el_ninja_valentines.html") ?>
-
-    <br><br>
 
     <?php include("views/Gallery/Modals/Interior_Modal.html") ?>
     <?php include("views/Gallery/Modals/Interior_Theatre_Modal.html") ?>
-    <?php include("views/Gallery/Modals/Event_Modal-Min.html") ?>
-    <?php include("views/Gallery/Modals/Ninja_Weekend_Modal.html") ?>
-    <?php include("views/Gallery/Modals/Video_Modal.html") ?>
-    <?php include("views/Gallery/Modals/Career_Modal.html") ?>
-
 
 
     <script>
@@ -248,7 +191,7 @@
         showCareerSlides(careerSlideIndex);
 
         function plusCareerSlides(n) {
-            showCareerSlides(CareerSlideIndex += n);
+            showCareerSlides(careerSlideIndex += n);
         }
 
         function currentInteriorSlide(n) {
@@ -257,10 +200,6 @@
 
         function plusInteriorSlides(n) {
             showInteriorSlides(interiorSlideIndex += n);
-        }
-
-        function currentInteriorSlide(n) {
-            showInteriorSlides(interiorSlideIndex = n);
         }
 
         function plusInteriorTSlides(n) {
