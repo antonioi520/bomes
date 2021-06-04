@@ -146,7 +146,7 @@
             <div class="card" style="border-color: goldenrod">
                 <img class="card-img-top" src="img/Events/elchaval2021.JPG" alt="Card image cap" style="height:400px;object-fit: contain;">
                 <div class="card-body" style="padding-left:0;padding-right:0;padding-bottom:0;">
-                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval de la Bachala</h5>
+                    <h5 class="card-title" style="font-weight: bold;padding-left:10px;padding-right:10px;">El Chaval de la Bachata</h5>
                     <p class="card-text" style="background-color: #ffffe0; color=black;padding-left:10px;padding-right:10px;">
                         For reservations contact: <br>
                         (401) 451-2584 <br>
